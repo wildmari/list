@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Futuro (Cultura RN)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TCM - TV Cabo Mossoró
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox Türkiye
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/WgXsfIa.png" group-title="Geral",TV Vale do Uruará (614p)
@@ -1578,3 +1584,55 @@ https://video.ejeserver.com/live/veotv.m3u8?checkedby:iptvcat.com
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="" group-title="Geral",Vida Nueva TV (480p) [Not 24/7]
 https://eu1.servers10.com:8081/vidanuevatv/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Wording TV Ao Vivo (Paraíso do Tocantins)
+https://tv02.zas.media:1936/wordingtv/wordingtv/playlist.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Geral",Canal 13 San Juan (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCuJvDPQIaUhvdHiH275WjNA.m3u8
+#EXTINF:0 tvg-country="AR" tvg-logo="" group-title="Geral",Canal 13 Jujuy TV (720p)
+https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Bons Tempos Ao Vivo
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Clouding TV Ao Vivo
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Tropical (Rede Record RN) Ao Vivo
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",X PLUS TV Ao Vivo
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Brasil Central (TBC)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Megha Web Tv
+https://stmv1.srvif.com/redemegha/redemegha/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV União de Natal
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Potengi
+https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Livre TV
+https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Gazeta RN
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Sonora
+https://cdn.jmvstream.com/w/LVW-8600/LVW8600_dPUj47PQ9P/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Erga Omnes
+https://video01.kshost.com.br:4443/erga9862/erga9862/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Avivando Nações
+https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Massa SBT (Paraná)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Mundo TV
+https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Redetv Mais
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TVCI
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Caiuá
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Foz TV
+https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5a38399d47.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Cacique
+https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",MID TV
+https://a.cdni.live/midtv/midtv/playlist.m3u8
