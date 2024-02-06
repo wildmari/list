@@ -90,7 +90,7 @@ https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 #EXTINF:-1 tvg-id="ConexaoTV.br" tvg-logo="https://i.imgur.com/CJ9SPsZ.png" group-title="Geral",Conexao TV
 https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Família;Geral",CWB TV
+#EXTINF:-1 tvg-id="CWBTV.br" tvg-logo="https://i.imgur.com/S0ISpmU.png" group-title="Geral",CWB TV
 https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="DemaisTV.br" tvg-logo="https://i.imgur.com/Md3xibE.png" group-title="Geral",Demais TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -117,7 +117,7 @@ https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Religioso",Gospel Cartoon
+#EXTINF:-1 tvg-id="GospelCartoon.br" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="Geral",Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Geral",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -212,13 +212,13 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="Geral",Pluto TV Filmes Acao
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Documentary",Pluto TV Investigacao
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Geral",Pluto TV Investigacao
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVMisterios.br" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Education",Pluto TV Misterios
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVNatureza.br" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Education",Pluto TV Natureza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVRetro.br" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Entertainment",Pluto TV Retro
+#EXTINF:-1 tvg-id="PlutoTVRetro.br" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Geral",Pluto TV Retro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.br" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Education",Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -761,7 +761,7 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
 #EXTINF:-1 tvg-id="SRTVPB.br" tvg-logo="https://i.imgur.com/72Htk9P.png" group-title="Geral",SRTV PB
 https://livefocamundo.com:8081/srtvpb/index.m3u8
-#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Culture;News",STZ TV
+#EXTINF:-1 tvg-id="STZTV.br" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Geral",STZ TV
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeBrasil.br" tvg-logo="https://i.imgur.com/FPy4zF4.png" group-title="Cooking",Tastemade Brasil
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
@@ -859,7 +859,7 @@ https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
 #EXTINF:-1 tvg-id="TVClube.br" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Geral",TV Clube
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCNAgitos.br" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Entertainment",TV CN Agitos
+#EXTINF:-1 tvg-id="TVCNAgitos.br" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Geral",TV CN Agitos
 https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="Geral",TVCOM Maceio
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
@@ -867,7 +867,7 @@ https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="Geral",TV Comunitaria
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-#EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Entertainment",TV Cordeiro
+#EXTINF:-1 tvg-id="TVCordeiro.br" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Geral",TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCorreio.br" tvg-logo="https://i.imgur.com/FSnGAaZ.png" group-title="Geral",TV Correio
 https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
@@ -875,7 +875,7 @@ https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
 https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCulturaNacional.br" tvg-logo="https://i.imgur.com/hcApLfE.png" group-title="Geral",TV Cultura Nacional
 https://d28367vmhj4ljz.cloudfront.net/out/v1/f26e176ce67244de862cd9b21d823934/index.m3u8
-#EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca
+#EXTINF:-1 tvg-id="TVCuruca.br" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Geral",TV Curuca
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVdasArtes.br" tvg-logo="https://i.imgur.com/fSWaiKt.png" group-title="Geral",TV das Artes
 http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
@@ -1180,12 +1180,10 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8?checkedby:
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JxsyXCD.png" group-title="Geral",TV Beltrão (1080p)
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Entertainment",TV Boqueirão (720p)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Geral",TV Boqueirão (720p)
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Geral",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Entertainment",TV CN Agitos (360p)
-http://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Geral",TV CN Agitos (360p)
 https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KX3fner.png" group-title="Geral",TV COM Santos (416p)
