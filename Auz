@@ -1714,15 +1714,15 @@ https://cdn.jmvstream.com/w/AVJ-15538/playlist/playlist.m3u8
 https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Imprensa - TVI (São Paulo)
 https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv GRU Web
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bandeira_de_Guarulhos.svg/2560px-Bandeira_de_Guarulhos.svg.png" group-title="Geral",Tv GRU Web
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Cascavel/PR ao vivo
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Cascavel/PR ao vivo
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rádio D2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
 https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Umuarama PR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Umuarama PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rádio Difusora FM 98.9 (MG)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/SF-NtFL6RsLuiGaoU5wWb-J6dcst-nJX8cnR_yN09YSuEuFn3dlCWhBrg-0JRnL8pfyO" group-title="Geral",Rádio Difusora FM 98.9 (MG)
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
-#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Geral",Câmera ao vivo em Hahnenkamm - Kitzbühel (Áustria)
+#EXTINF:0 tvg-country="AT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/255px-Flag_of_Austria.svg.png" group-title="Geral",Câmera ao vivo em Hahnenkamm - Kitzbühel (Áustria)
 https://sts015.feratel.co.at/streams/stsstore005/1/05604_65c25bd8-c7a2Vid.mp4?dcsdesign=WTP_partner
