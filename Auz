@@ -1672,7 +1672,7 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Aberta São Paulo
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",BLITS TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRwMqGWcDtB6IuAW5Qi12wPRR0HgKuGUKDtIPQOEg=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Sonata
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
