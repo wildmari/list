@@ -11,10 +11,26 @@ https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Geral",Chespirito TV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1 (1080p)
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2 (1080p)
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
@@ -161,12 +177,6 @@ https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 http://250weu.bozztv.com/ssh101/ssh101/kpoptv/playlist.m3u8
 #EXTINF:-1 tvg-id="LaRancheradeCuauhtemoc.mx" tvg-logo="https://i.imgur.com/jbeojin.png" group-title="Geral",La Ranchera de Cuauhtemoc
 https://5fa5de1a545ae.streamlock.net/8010/8010/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LaVozGruperaTV.mx" tvg-logo="https://i.imgur.com/Ku1CEeb.png" group-title="Geral",La Voz Grupera TV
 https://cloudvideo.servers10.com:8081/8128/index.m3u8
 #EXTINF:-1 tvg-id="LavrasCETV.br" tvg-logo="https://i.imgur.com/y0LSin2.png" group-title="Geral",Lavras CE TV
@@ -1325,22 +1335,12 @@ https://stream.oursnetworktv.com/latin/pueblamx/playlist.m3u8?checkedby:iptvcat.
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CL;CO;MX;PA;PE" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Geral",Enlace
 https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella Games (1080p)
-https://estrella-games-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Geral",Estrella TV (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Geral",GikTVMx (480p)
 https://pistream.ddns.net/hls/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/OOEkyM2.png" group-title="Geral",Golden Plus
 https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/JMa7jws.png" group-title="Geral",Golden Premier
 https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1 (1080p)
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2 (1080p)
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="Geral",Raly TV (720p)
 https://cloudvideo.servers10.com:8081/8072/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.lyngsat.com/logo/tv/rr/romanza_plus_africa_mx.png" group-title="Geral",Romanza+ Africa (720p)
