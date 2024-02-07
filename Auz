@@ -11,6 +11,8 @@ https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Geral",Vivekanal Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Geral",Chespirito TV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America
@@ -37,6 +39,12 @@ https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
+#EXTINF:0 tvg-logo="https://archive.org/download/golden-tv/Golden%20Logo.png" group-title="Geral",Golden TV
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7a54123d9b00987656ac69debd56e6bc.webp" group-title="Geral",Galicia TV América
+https://america-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="Geral",Nickelodeon Bob Esponja Calça Quadrada
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="BR" tvg-logo="https://designconceitual.com.br/wp-content/uploads/2023/10/Nickelodeon-splash-Logo-antigo.jpg" group-title="Geral",Nick Clássico
@@ -136,6 +144,8 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Western
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CNRTelevision.mx" tvg-logo="https://i.imgur.com/HI5GOfF.png" group-title="Geral",CNR Television
 https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Geral",Conecta TV
@@ -691,6 +701,20 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimColatina.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Geral",TV Sim Colatina
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/GKj8jW44eq__taywN5N3m6B1KYuQ2bznKzsbcad-PtT2fh8W0D61iEvZyG2VeRP8nw" group-title="Geral",MiTV
+https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://television.com.py/wp-content/uploads/2018/11/%C3%91andut%C3%AD-TV.jpg" group-title="Geral",Ñanduti TV
+https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/ZnpQEuYHBZzDPYrhGIWuQqWM-c22lBDlHliIqvWB2P7Wxzdgfs7gsviNUcPESpt6HeTS" group-title="Geral",Panambi Digital TV
+https://59ce1298bfb98.streamlock.net/panambi/panambi/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tevex.cl/wp-content/uploads/2021/01/cropped-tevex_icon.png" group-title="Geral",Tevex
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:0 tvg-logo="https://scontent.fgrp1-1.fna.fbcdn.net/v/t39.30808-6/314079744_553874243412908_3355779586937828435_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=9mEQfqwolPYAX9QQGy_&_nc_ht=scontent.fgrp1-1.fna&oh=00_AfCsgHI4TGJ5nobff6_rHRgqx_b2RkxLRVaOW3Ojx46GdQ&oe=65C9178C" group-title="Geral",TV Lambaré
+https://59ce1298bfb98.streamlock.net/tvlambare/tvlambare/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/993dc4ff3160fbd682617bf9731e82d1.webp" group-title="Geral",SNT
+https://deh05ueq91v6s.cloudfront.net/SNTPY/0bd4cfaf086c4ac0ce0101172a42ba20.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://cdn-profiles.tunein.com/s13903/images/logoq.png?t=156708" group-title="Geral",Obedira TV
+https://59ce1298bfb98.streamlock.net/obediratv/obediratv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="Geral",TV Sim Sao Mateus
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSulBahia.br" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="Geral",TV Sul Bahia
@@ -1863,3 +1887,27 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Fox-Soul-SCTE.m
 #EXTINF:0 tvg-country="UK" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fa007a427-8b5d-4ddc-9103-bd26fc3cade4%2FSILENT_WITNESS_PLEX_BRAND_CHANNEL_About_Image_1920x1080_Caitlin_Schiffer.jpg" group-title="Geral",BBC Silent Witness New Tricks
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,BBC-Silent-Witness-New-Tricks.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://cdn.okgift.es/v6/images/brands/tarjetas-regalo-rakuten-tv.jpg" group-title="Geral",Rakuten Documentaries (Portugal)
+#EXTINF:0 tvg-logo="https://i.imgur.com/xm41ZiQ.jpg" group-title="Geral",DMpy
+https://59ce1298bfb98.streamlock.net/digitalmediapy/digitalmediapy/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-DfLb6q9H12k/Xx6LmlMVe1I/AAAAAAAAKjw/uwMZG5F2BO0VJp76hUEOUvJw0qhMeeT2gCLcBGAsYHQ/s1600/cristal-tv.png" group-title="Geral",Estación Cristal
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="Geral",GO TV
+https://rds3.desdeparaguay.net/gotv/gotv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/6xOr27a97U0/oardefault.jpg?sqp=-oaymwEYCJUDENAFSFqQAgHyq4qpAwcIARUAAIhC&rs=AOn4CLBV1d_jIgvoqeLR18WJ7FdO0qrK6g" group-title="Geral",MAX Anime
+https://d16k620tapvw9n.cloudfront.net/out/v1/8e3062c10bb341feb7ee363c320e06af/index.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvN-dut-N_uRYKv6NPrVw2JZAr0ero3G5Umi4FDQkhLPvZkXBUDOzXfYiJWQUXMuuKwDQ&usqp=CAU" group-title="Geral",Canal 8 C&C Producciones
+https://59ce1298bfb98.streamlock.net/canal8tv/canal8tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://paraguaype.com/wp-content/uploads/2017/04/AbcTvenvivoonline.AbcTvdesdeParaguay.jpg" group-title="Geral",ABC-TV Paraguay
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f24b1cd1064865c050503ea604e4526a.webp" group-title="Geral",Tv J.SIDT
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/435332dbd722b755f94a987934027d57.webp" group-title="Geral",TV VelhaCap
+https://cdnhd.iblups.com/hls/XaBJYsUsYL.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/40991011bf6120ad724b97cba6b11097.webp" group-title="Geral",WSN TV do Carro
+https://tv02.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9d4a12a7d79069787d7ec9df059f21b9.webp" group-title="Geral",TV Gazin
+https://caikron.com.br:19360/floripa/canal1.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93e4744d46f34100599d4d2cba884b89.webp" group-title="Geral",Canal de Produtos
+https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
