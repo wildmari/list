@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Futuro (Cultura RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Geral",TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TCM - TV Cabo Mossoró
@@ -1630,3 +1632,97 @@ https://videostreamingserver.septecloud.com.br/memfs/6154fa08-b4c2-4e8f-aba8-1c5
 https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",MID TV
 https://a.cdni.live/midtv/midtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rádio Redentor DF
+https://virtues.es:1936/redentor/redentor/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Radio Esportes Brasília
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Rabelo
+https://cdn.jmvstream.com/w/AVJ-13010/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Alternativa (Gazeta MA)
+https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",WEB TV PROGRESSO
+https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Guará (Maranhão)
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Web Tv Clássicos do Cinema
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Nativa Tv (Amazonas)
+https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Amazônia Tv e Rádio
+https://cdn.jmvstream.com/w/AVJ-13076/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",RBATV (Band PA)
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV NBT (Pará)
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TVM Pará
+https://59f1cbe63db89.streamlock.net:1443/tvmpa/_definst_/tvmpa/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Web TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Marajoara (Pará)
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Paraense (SBT Castanhal)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Guarajá - SBT (Parán)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Curuai Web
+https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Aberta São Paulo
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Sonata
+https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Conectv (São Paulo)
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Top Mix Tv Filmes
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Sul de Televisão (Rio Grande do Sul)
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Antena 10
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TVC (TV Gazeta Araçatuba)
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Alfa
+https://stmv1.voxtvhd.com.br/7070/7070/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Educadora Batatais
+https://5a57bda70564a.streamlock.net/tveducadora/tveducadora.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv San Jones
+https://video01.kshost.com.br:4443/marilia2344/marilia2344/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Unisantos
+https://live.cdn.upx.com/7550/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV Digital Birigui
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede UTV
+https://utvcdn.acessaradios.com.br/utvcdn/utvcdn.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Alpha Channel TV
+https://cdn.mycloudstream.io/hls/live/broadcast/ozaemo2q/index.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",RTL Classics
+https://5a57bda70564a.streamlock.net/rtl/rtl.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Metrópole
+https://acesso.ecast.site:3456/stream/play.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",TV RBC
+https://60d88f8ce1206.streamlock.net/id2515/id2515/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Max 90
+https://cdn.jmvstream.com/w/AVJ-15538/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rede Premium Tv
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv Imprensa - TVI (São Paulo)
+https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Tv GRU Web
+https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Cascavel/PR ao vivo
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rádio D2
+https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Umuarama PR
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Geral",Rádio Difusora FM 98.9 (MG)
+https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
+#EXTINF:0 tvg-country="AT" tvg-logo="" group-title="Geral",Câmera ao vivo em Hahnenkamm - Kitzbühel (Áustria)
+https://sts015.feratel.co.at/streams/stsstore005/1/05604_65c25bd8-c7a2Vid.mp4?dcsdesign=WTP_partner
