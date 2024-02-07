@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Geral",Chespirito TV
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
+https://wildearth-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Geral",TV Brasil Hits
@@ -1726,3 +1736,25 @@ https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/pla
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
 #EXTINF:0 tvg-country="AT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/255px-Flag_of_Austria.svg.png" group-title="Geral",Câmera ao vivo em Hahnenkamm - Kitzbühel (Áustria)
 https://sts015.feratel.co.at/streams/stsstore005/1/05604_65c25bd8-c7a2Vid.mp4?dcsdesign=WTP_partner
+#EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/M0Z20EAw3Lv5qNBLqOmvczsgKt2m96WWqk3TvAlvz3oNwzUv4bHg0-0OxQhmtkdEyJCTT7nCMA=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",Kids TV
+https://video03.logicahost.com.br/novafamilia01/novafamilia01/playlist.m3u8
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/121.-_RTRO.webp" group-title="Geral",Retrô TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://autolivraria.com.br/bc/wp-content/uploads/2021/05/25-LS-1929.jpg" group-title="Geral",Frente TV (GO)
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8
+#EXTINF:0 tvg-country="RO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/924a95780d68bc853f7d1508593df1e7.webp" group-title="Geral",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+#EXTINF:0 tvg-country="RU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/800px-Russia-today-logo.svg.png" group-title="Geral",RT Documentary
+https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6720c003e5adc507e1cd29a6af87ec4a.webp" group-title="Geral",TV Retro Channel
+https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0d7fd8759b2598a188c00fd4980c4ceb.webp" group-title="Geral",TV Sete Lagoas
+https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m3u8
+#EXTINF:0 tvg-country="PY" tvg-logo="https://play-lh.googleusercontent.com/flTzzWcJZF-aOhG0XSb07a1G8BhUzDQCobdDaYwAfn7fGPjUPzWlmcI2I7Lj_fXoug=w240-h480-rw" group-title="Geral",Somos del Este (Paraguai)
+https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/3rI-7_Uh6Hyev7DVkmBfuGkX4I21kuluGVTuQ0xJ2puYKmMx6LtAhGXiswXzx7Nz0x5K=w240-h480-rw" group-title="Geral",NTV Patos de Minas | BR
+https://video05.logicahost.com.br/ntvnet/ntvnet/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg" group-title="Geral",Record News Espirito Santo | BR
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="Geral",TVE | BR
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
