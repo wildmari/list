@@ -29,6 +29,10 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:0,TNT NOVELAS FHD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/487
+#EXTINF:0,TNT NOVELAS HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/466
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
@@ -150,6 +154,54 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Geral",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+#EXTINF:0,[24H] Alladin
+http://voz.one:80/alexfnt/vTFBGKdUYq/95718
+#EXTINF:0,[24H] As Meninas Super poderosas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95653
+#EXTINF:0,[24H] As Meninas Superpoderosas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95719
+#EXTINF:0,[24H] 3 Palavrinhas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95650
+http://voz.one:80/alexfnt/vTFBGKdUYq/95724
+#EXTINF:0,[24H] Chapolin colorado
+http://voz.one:80/alexfnt/vTFBGKdUYq/95725
+#EXTINF:0,[24H] Chapolin Colorado 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/126146
+#EXTINF:0,[24H] Chaves
+http://voz.one:80/alexfnt/vTFBGKdUYq/95662
+#EXTINF:0,[24H] Chaves Cartoon
+http://voz.one:80/alexfnt/vTFBGKdUYq/95726
+#EXTINF:0,[24H] Jack Chan
+http://voz.one:80/alexfnt/vTFBGKdUYq/95743
+#EXTINF:0,[24H] Jaclkie Chan 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95739
+#EXTINF:0,[24H] Mr.Bean
+http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:0,[24H] Luluzinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95749
+#EXTINF:0,[24H] Pernalonga
+http://voz.one:80/alexfnt/vTFBGKdUYq/95764
+#EXTINF:0,[24H] Pink-e-Cerebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95697
+#EXTINF:0,[24H] Pinky e o Cérebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95765
+#EXTINF:0,[24H] Scooby-Doo
+#EXTINF:0,[24H] Todo Mundo Odeia o Chris 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95702
+#EXTINF:0,[24H] Todo Mundo Odeia o Chris 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95703
+#EXTINF:0,[24H] Tom & Jerry
+http://voz.one:80/alexfnt/vTFBGKdUYq/95704
+#EXTINF:0,[24H] MÁSKARA
+http://voz.one:80/alexfnt/vTFBGKdUYq/95698
+#EXTINF:0,[24H] O Máskara
+http://voz.one:80/alexfnt/vTFBGKdUYq/95756
+#EXTINF:0,[24H] Mortal Kombat
+http://voz.one:80/alexfnt/vTFBGKdUYq/95752
+#EXTINF:0,[24H] Jaspion
+http://voz.one:80/alexfnt/vTFBGKdUYq/95744
+#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
@@ -373,6 +425,32 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Geral", GLOBO SUDOESTE BAHIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
+https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Geral", Rádio Clube Fm 105,5
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/822ff116ce005bc871bd5c672bde1285.webp" group-title="Geral", Rádio Tv Ximenes
+https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Geral", SUPRA FM
+https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fafd72eaa884387136b6c74668aaf50b.webp" group-title="Geral", 99 FM Patos de Minas
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Geral", Rádio Clube 100,5 FM
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f033f9c44591cfd6aedfc2853b719249.webp" group-title="Geral", Catve FM Cascavel 91.7
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Geral", Rádio Monte FM 96.7
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="Geral", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Geral", TV Montanhesa
+https://qfm.geraistec.com.br/hlsm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+
 
 #EXTINF:0 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/07/AEHD-NA-CLARO-TV-QUANDO.jpg" group-title="Geral", A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/418
@@ -1301,7 +1379,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/261021
 http://voz.one:80/alexfnt/vTFBGKdUYq/261022
 #EXTINF:0,PAULISTÃO 04
 http://voz.one:80/alexfnt/vTFBGKdUYq/261023
-#EXTINF:0,POLISHOP TV HD
+#EXTINF:0,Gospel Movies TV HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/795
 #EXTINF:0,Premiere 2 (H265)
 http://voz.one:80/alexfnt/vTFBGKdUYq/13912
@@ -1385,7 +1463,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/273
 http://voz.one:80/alexfnt/vTFBGKdUYq/275
 #EXTINF:0,RECORD CAMPINAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/276
-#EXTINF:0,RECORD GO HD 2
+#EXTINF:0,RECORD MG HD 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/279
 #EXTINF:0,RECORD GOIAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/258096
@@ -1841,14 +1919,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/659
 http://voz.one:80/alexfnt/vTFBGKdUYq/660
 #EXTINF:0,ZOOMOO SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
-#EXTINF:0,[24H] 3 Palavrinhas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTINF:0,[24H] Alladin
-http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTINF:0,[24H] As Meninas Super poderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTINF:0,[24H] As Meninas Superpoderosas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95719
 #EXTINF:0,[24H] Ben 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/95720
 #EXTINF:0,[24H] BOB
@@ -1863,14 +1933,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95660
 http://voz.one:80/alexfnt/vTFBGKdUYq/95723
 #EXTINF:0,[24H] Central Kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTINF:0,[24H] Chapolin colorado
-http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:0,[24H] Chapolin Colorado 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:0,[24H] Chaves
-http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:0,[24H] Chaves Cartoon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95726
 #EXTINF:0,[24H] Cine kids
 http://voz.one:80/alexfnt/vTFBGKdUYq/95727
 #EXTINF:0,[24H] Desenhos disney
@@ -1923,32 +1985,16 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95742
 http://voz.one:80/alexfnt/vTFBGKdUYq/95740
 #EXTINF:0,[24H] Igreja Universal
 http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTINF:0,[24H] Jack Chan
-http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:0,[24H] Jaclkie Chan 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:0,[24H] Jaspion
-http://voz.one:80/alexfnt/vTFBGKdUYq/95744
 #EXTINF:0,[24H] JIRAYA O Incrível Ninja
 http://voz.one:80/alexfnt/vTFBGKdUYq/95745
 #EXTINF:0,[24H] Kenan e Kel
 http://voz.one:80/alexfnt/vTFBGKdUYq/95746
 #EXTINF:0,[24H] KPOP TV
 http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTINF:0,[24H] Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:0,[24H] MASCARA
-http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:0,[24H] Mortal Kombat
-http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:0,[24H] Mr.Bean
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
 #EXTINF:0,[24H] Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95686
 #EXTINF:0,[24H] Naruto
 http://voz.one:80/alexfnt/vTFBGKdUYq/95754
-#EXTINF:0,[24H] O Maskara
-http://voz.one:80/alexfnt/vTFBGKdUYq/95756
 #EXTINF:0,[24H] Os Flinstones
 http://voz.one:80/alexfnt/vTFBGKdUYq/95688
 #EXTINF:0,[24H] Os Simpsons 01
@@ -1967,13 +2013,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95717
 http://voz.one:80/alexfnt/vTFBGKdUYq/95763
 #EXTINF:0,[24H] Peppa Pig
 http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTINF:0,[24H] Pernalonga
-http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:0,[24H] Pink-e-Cerebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:0,[24H] Pinky e o Cérebro
-http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:0,[24H] Scooby-Doo
 http://voz.one:80/alexfnt/vTFBGKdUYq/95771
 #EXTINF:0,[24H] South Park
 http://voz.one:80/alexfnt/vTFBGKdUYq/95701
@@ -1985,12 +2024,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95774
 http://voz.one:80/alexfnt/vTFBGKdUYq/95776
 #EXTINF:0,[24H] Timao e Pumba
 http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTINF:0,[24H] Todo Mundo Odeia o Chris 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:0,[24H] Todo Mundo Odeia o Chris 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:0,[24H] Tom & Jerry
-http://voz.one:80/alexfnt/vTFBGKdUYq/95704
 #EXTINF:0,[24H] Tres Espias Demais
 http://voz.one:80/alexfnt/vTFBGKdUYq/95778
 #EXTINF:0,[24H] Um Maluco no Pedaço 1
@@ -2293,8 +2326,6 @@ https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Geral",TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
-http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-id="TVGraoPara.br" tvg-logo="https://i.imgur.com/1drg0E9.png" group-title="Geral",TV Grao Para
 https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuanajuato.mx" tvg-logo="https://i.imgur.com/HbnCZSF.png" group-title="Geral",TV Guanajuato
@@ -3555,27 +3586,3 @@ https://caikron.com.br:19360/floripa/canal1.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Geral",TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
-https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Geral", Rádio Clube Fm 105,5
-https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/822ff116ce005bc871bd5c672bde1285.webp" group-title="Geral", Rádio Tv Ximenes
-https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Geral", SUPRA FM
-https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fafd72eaa884387136b6c74668aaf50b.webp" group-title="Geral", 99 FM Patos de Minas
-https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Geral", Rádio Clube 100,5 FM
-https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f033f9c44591cfd6aedfc2853b719249.webp" group-title="Geral", Catve FM Cascavel 91.7
-https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Geral", Rádio Monte FM 96.7
-https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="Geral", Latina TV
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Geral", TV Montanhesa
-https://qfm.geraistec.com.br/hlsm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
-https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
