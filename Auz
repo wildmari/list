@@ -307,6 +307,1694 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionBudokan.mx" tvg-logo="https://i.imgur.com/1rfoSt8.png" group-title="Geral",Radio y Television Budokan
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio17440_1544635650.jpg" group-title="Geral", Band FM 99.1
+http://voz.one:80/alexfnt/vTFBGKdUYq/34013
+#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/noticias/647226ce8d8e3.jpeg" group-title="Geral", CBN FM 100.7 (Salvador)
+http://voz.one:80/alexfnt/vTFBGKdUYq/34016
+#EXTINF:0 tvg-logo="https://felizfm.fm/wp-content/uploads/2019/10/LOGO_FELIZFM.png" group-title="Geral", Feliz FM 92.3 (Salvador)
+http://voz.one:80/alexfnt/vTFBGKdUYq/34014
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/80/Logotipo_da_GFM.png" group-title="Geral", GFM 90.1 (Salvador)
+http://voz.one:80/alexfnt/vTFBGKdUYq/34012
+#EXTINF:0 tvg-country="BR" tvg-logo="https://s2-globo-play.glbimg.com/SaUvDCT3G8gXYMir1Y66JmPtG_Q=/285x285/https://s2-globo-play.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="Geral",GE Fast (BR)
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lfwebwvwdaf0i/index.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/sbt_mato_grosso_logo.png" group-title="Geral",SBT Mato Grosso
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="Geral",Rede Massa SBT (Paraná)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Geral",Tv Paraense (SBT Castanhal)
+https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://acesp.tv.br/images/logos/tvguaruja.jpg" group-title="Geral",Tv Guarajá - SBT (Parán)
+https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTRio.br" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Geral",SBT Rio
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="Geral",SBT Cuiaba
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
+#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/iV1Ib7L.png" group-title="Geral",SBT Para
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+#EXTINF:-1 tvg-id="SBTRioGrande.br" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Geral",SBT Rio Grande
+https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+#EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Geral",Band Minas Gerais
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/band_logo.png" group-title="Geral",BAND Full HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Geral",RBATV (Band PA)
+https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Geral",Rede TV!
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="Geral",Rede TV! ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="Geral",Rede TV! Mais
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="Geral",RecordTV Sao Paulo
+http://painel.iptvmove.com:25461/live/danga07/1963/1264.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",RecordTV
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/record_news_logo.png" group-title="Geral",Record News Full HD
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Geral",TV Tropical (Rede Record RN) Ao Vivo
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg" group-title="Geral",Record News Espirito Santo | BR
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",Record
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Geral", GLOBO SUDOESTE BAHIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/47695
+
+#EXTINF:0 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/07/AEHD-NA-CLARO-TV-QUANDO.jpg" group-title="Geral", A&E HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/418
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png" group-title="Geral", A&E HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/419
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/AGRO_CANAL_-_LOGO.jpg" group-title="Geral", Agro Canal
+http://voz.one:80/alexfnt/vTFBGKdUYq/98672
+#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/7b/c6/5d/7bc65d4a894ae1c81e60889e63d48d54.jpg" group-title="Geral", Rádio Difusora AM 960
+http://voz.one:80/alexfnt/vTFBGKdUYq/34011
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/R%C3%A1dio_Gazeta_AM_logo.png" group-title="Geral", Rádio Gazeta AM 1260 (Maceió)
+http://voz.one:80/alexfnt/vTFBGKdUYq/34008
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Geral", AMC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/421
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="Geral", AMC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/422
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/AMC_logo_2016.svg" group-title="Geral", AMC SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/423
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Geral", Animal Planet (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13850
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png" group-title="Geral", Animal Planet (4K)
+http://voz.one:80/alexfnt/vTFBGKdUYq/225
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/120" group-title="Geral", Animal Planet (HD)
+http://voz.one:80/alexfnt/vTFBGKdUYq/1
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZS7e_CIO6WARqjgoBCieQ4Wzo6mv-kFUBRCLLRi=s900-c-k-c0x00ffffff-no-rj" group-title="Geral", ARTE 1 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/787
+#EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZS7e_CIO6WARqjgoBCieQ4Wzo6mv-kFUBRCLLRi=s900-c-k-c0x00ffffff-no-rj" group-title="Geral", ARTE 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/788
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Geral", AXN (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13851
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Geral", AXN (4K)
+http://voz.one:80/alexfnt/vTFBGKdUYq/89347
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="Geral", AXN FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/424
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/ca/Baby_TV.png" group-title="Geral", BABY TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/619
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png" group-title="Geral", Band
+http://voz.one:80/alexfnt/vTFBGKdUYq/65271
+#EXTINF:0,Band 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/218
+#EXTINF:0,BAND BAHIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/93635
+#EXTINF:0,BAND BRASILIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/96148
+#EXTINF:0,BAND CAMPINAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/96149
+#EXTINF:0,BAND CAMPINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/242
+#EXTINF:0,BAND CAMPINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/241
+#EXTINF:0,BAND CURITIBA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/244
+#EXTINF:0,BAND GOIANIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/247
+#EXTINF:0,BAND MG 
+http://voz.one:80/alexfnt/vTFBGKdUYq/95808
+#EXTINF:0,BAND MG FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56237
+#EXTINF:0,BAND MG HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56236
+#EXTINF:0,Band News (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13852
+#EXTINF:0,BAND NEWS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/682
+#EXTINF:0,BAND NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/683
+#EXTINF:0,BAND NEWS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/687
+#EXTINF:0,BAND RJ
+http://voz.one:80/alexfnt/vTFBGKdUYq/249
+#EXTINF:0,BAND RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/248
+#EXTINF:0,BAND RS
+http://voz.one:80/alexfnt/vTFBGKdUYq/96147
+#EXTINF:0,BAND SP
+http://voz.one:80/alexfnt/vTFBGKdUYq/252
+#EXTINF:0,BAND SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/250
+#EXTINF:0,BAND SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/251
+#EXTINF:0,BAND SPORTS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/385
+#EXTINF:0,BAND SPORTS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/387
+#EXTINF:0,BAND SPORTS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/386
+#EXTINF:0,BandSports (H265)
+#EXTINF:0,BIS (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13854
+#EXTINF:0,BIS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/754
+#EXTINF:0,BIS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/755
+#EXTINF:0,BIS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/756
+#EXTINF:0,Canal Brasil (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13856
+#EXTINF:0,CANAL BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45893
+#EXTINF:0,CANAL BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45880
+#EXTINF:0,CANAL BRASIL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/123637
+#EXTINF:0,CANAL DO BOI
+http://voz.one:80/alexfnt/vTFBGKdUYq/45887
+#EXTINF:0,CANAL RURAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/56166
+#EXTINF:0,Canal Sony (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13857
+#EXTINF:0,CANÇÃO NOVA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56241
+#EXTINF:0,Cartoon Network 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/226
+#EXTINF:0,CARTOON NETWORK FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/625
+#EXTINF:0,CARTOON NETWORK HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/626
+#EXTINF:0,CARTOON NETWORK SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/627
+#EXTINF:0,Cartoonito (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13855
+#EXTINF:0,Cartoonito FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/622
+#EXTINF:0,Cartoonito HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/623
+#EXTINF:0,Cartoonito SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/624
+#EXTINF:0,CartoonNetwork (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13858
+#EXTINF:0,CAZE TV2
+http://voz.one:80/alexfnt/vTFBGKdUYq/133932
+#EXTINF:0,CAZE TV 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/261024
+#EXTINF:0,CBN SÃO PAULO
+http://voz.one:80/alexfnt/vTFBGKdUYq/64386
+#EXTINF:0,CHEF TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/796
+#EXTINF:0,CHEF TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/746
+#EXTINF:0,Chef TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65350
+#EXTINF:0,CINE CANAL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/432
+#EXTINF:0,CINE CANAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/433
+#EXTINF:0,CINE CANAL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/434
+#EXTINF:0,Cinemax (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13859
+#EXTINF:0,CINEMAX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/427
+#EXTINF:0,CINEMAX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/428
+#EXTINF:0,CINEMAX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/429
+#EXTINF:0,CNN Brasil 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89346
+#EXTINF:0,CNN BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/684
+#EXTINF:0,CNN BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/685
+#EXTINF:0,CNN BRASIL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/688
+#EXTINF:0,CNN ESPANHOL
+http://voz.one:80/alexfnt/vTFBGKdUYq/130688
+#EXTINF:0,CNN INTERNACIONAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/130690
+#EXTINF:0,Combate (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13860
+#EXTINF:0,Combate 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/227
+#EXTINF:0,COMBATE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/351
+#EXTINF:0,COMBATE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/352
+#EXTINF:0,COMBATE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/353
+#EXTINF:0,Comedy Central (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13861
+#EXTINF:0,Comedy Central 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89348
+#EXTINF:0,COMEDY CENTRAL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/757
+#EXTINF:0,COMEDY CENTRAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/758
+#EXTINF:0,COMEDY CENTRAL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/759
+#EXTINF:0,Discovery Channel (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13862
+#EXTINF:0,Discovery Channel 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/228
+#EXTINF:0,DISCOVERY CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/4
+#EXTINF:0,DISCOVERY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/5
+#EXTINF:0,DISCOVERY CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/6
+#EXTINF:0,Discovery H&H 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89349
+#EXTINF:0,Discovery Home & Health (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13864
+#EXTINF:0,DISCOVERY HOME & HEALTH FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/7
+#EXTINF:0,DISCOVERY HOME & HEALTH HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/8
+#EXTINF:0,DISCOVERY HOME & HEALTH SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/9
+#EXTINF:0,Discovery Kids (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13865
+#EXTINF:0,DISCOVERY KIDS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/628
+#EXTINF:0,DISCOVERY KIDS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/629
+#EXTINF:0,DISCOVERY KIDS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/662
+#EXTINF:0,Discovery Science (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13866
+#EXTINF:0,DISCOVERY SCIENCE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/10
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/11
+#EXTINF:0,DISCOVERY SCIENCE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/12
+#EXTINF:0,Discovery Theater (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13867
+#EXTINF:0,DISCOVERY THEATER FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/13
+#EXTINF:0,DISCOVERY THEATER HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/14
+#EXTINF:0,DISCOVERY THEATER SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/15
+#EXTINF:0,DISCOVERY TLC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/16
+#EXTINF:0,DISCOVERY TLC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/17
+#EXTINF:0,DISCOVERY TLC SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/18
+#EXTINF:0,Discovery Turbo (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13868
+#EXTINF:0,Discovery Turbo 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89350
+#EXTINF:0,DISCOVERY TURBO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/19
+#EXTINF:0,DISCOVERY TURBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/20
+#EXTINF:0,DISCOVERY TURBO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/21
+#EXTINF:0,Discovery World (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13869
+#EXTINF:0,DISCOVERY WORLD FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/22
+#EXTINF:0,DISCOVERY WORLD HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/23
+#EXTINF:0,DISCOVERY WORLD SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/24
+#EXTINF:0,Disney Channel (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13870
+#EXTINF:0,DISNEY CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/630
+#EXTINF:0,DISNEY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/631
+#EXTINF:0,DISNEY CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/632
+#EXTINF:0,DOG TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/45882
+#EXTINF:0,E! (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13872
+#EXTINF:0,E! FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/762
+#EXTINF:0,E! HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/763
+#EXTINF:0,FASHION TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64387
+#EXTINF:0,FILM & ART FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45891
+#EXTINF:0,FILM & ART HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45878
+#EXTINF:0,Fish TV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13877
+#EXTINF:0,FISH TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/25
+#EXTINF:0,FISH TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/26
+#EXTINF:0,FISH TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/27
+#EXTINF:0,FOOD NETWORK FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/749
+#EXTINF:0,FOOD NETWORK HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/748
+#EXTINF:0,FOOD NETWORK SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/750
+#EXTINF:0,FoodNetwork (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13878
+#EXTINF:0,FORMULA 1 TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/93637
+#EXTINF:0,FOX NEWS
+http://voz.one:80/alexfnt/vTFBGKdUYq/130689
+#EXTINF:0,Fox Sports 2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13883
+#EXTINF:0,FOX SPORTS 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/371
+#EXTINF:0,FOX SPORTS 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/372
+#EXTINF:0,FOX SPORTS 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/373
+#EXTINF:0,FUTURA
+http://voz.one:80/alexfnt/vTFBGKdUYq/256
+#EXTINF:0,FUTURA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/255
+#EXTINF:0,FX (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13884
+#EXTINF:0,FX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/442
+#EXTINF:0,FX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/443
+#EXTINF:0,FX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/444
+#EXTINF:0,Gazeta 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/222
+#EXTINF:0,Globo 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/231
+#EXTINF:0,GLOBO AMAZONICA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65220
+#EXTINF:0,GLOBO ASA BRANCA
+http://voz.one:80/alexfnt/vTFBGKdUYq/64229
+#EXTINF:0,GLOBO BAHIA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45836
+#EXTINF:0,GLOBO BAHIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45837
+#EXTINF:0,GLOBO BAHIA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64231
+#EXTINF:0,GLOBO BELEM
+http://voz.one:80/alexfnt/vTFBGKdUYq/64234
+#EXTINF:0,GLOBO BELEM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64233
+#EXTINF:0,GLOBO BRASILIA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45863
+#EXTINF:0,GLOBO BRASILIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/95986
+#EXTINF:0,GLOBO BRASILIA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/95987
+#EXTINF:0,GLOBO CABO BRANCO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65243
+#EXTINF:0,GLOBO CENTRO AMERICA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65221
+#EXTINF:0,GLOBO CENTRO AMERICA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65222
+#EXTINF:0,GLOBO CENTRO AMERICA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45919
+#EXTINF:0,GLOBO EPTV CAMPINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45819
+#EXTINF:0,GLOBO EPTV CAMPINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45818
+#EXTINF:0,GLOBO EPTV CAMPINAS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45849
+#EXTINF:0,GLOBO EPTV RIBEIRAO PRETO
+http://voz.one:80/alexfnt/vTFBGKdUYq/45850
+#EXTINF:0,GLOBO EPTV SAO CARLOS
+http://voz.one:80/alexfnt/vTFBGKdUYq/65225
+#EXTINF:0,GLOBO EPTV SUL DE MINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45824
+#EXTINF:0,GLOBO EPTV SUL DE MINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65223
+#EXTINF:0,GLOBO EPTV SUL DE MINAS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65224
+#EXTINF:0,GLOBO FLORIANOPOLIS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45869
+#EXTINF:0,GLOBO GAZETA ALAGOAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58825
+#EXTINF:0,GLOBO GAZETA ALAGOAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58824
+#EXTINF:0,GLOBO GAZETA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65265
+#EXTINF:0,GLOBO GAZETA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65266
+#EXTINF:0,GLOBO GAZETA SUL ES
+http://voz.one:80/alexfnt/vTFBGKdUYq/65267
+#EXTINF:0,GLOBO GAZETA VITORIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/65268
+#EXTINF:0,GLOBO GAZETA VITORIA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58819
+#EXTINF:0,GLOBO GAZETA VITORIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58820
+#EXTINF:0,GLOBO INTEGRAÇÃO JF HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45847
+#EXTINF:0,GLOBO INTEGRAÇÃO UBERLANDIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45846
+#EXTINF:0,GLOBO INTER DOS VALES
+http://voz.one:80/alexfnt/vTFBGKdUYq/45843
+#EXTINF:0,GLOBO INTER GRANDE MINAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/65270
+#EXTINF:0,GLOBO INTER TV ALTO LITORAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/65227
+#EXTINF:0,GLOBO INTER TV GRANDE MINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65228
+#EXTINF:0,GLOBO INTER TV GRANDE MINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65229
+#EXTINF:0,GLOBO INTER VALE MG HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45842
+#EXTINF:0,GLOBO INTERNACIONAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/45802
+#EXTINF:0,GLOBO JUAZEIRO BAHIA
+http://voz.one:80/alexfnt/vTFBGKdUYq/47696
+#EXTINF:0,GLOBO MINAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45864
+#EXTINF:0,GLOBO MINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45852
+#EXTINF:0,GLOBO MINAS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45868
+#EXTINF:0,Globo News 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89352
+#EXTINF:0,GLOBO NEWS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/691
+#EXTINF:0,GLOBO NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/692
+#EXTINF:0,GLOBO NEWS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/693
+#EXTINF:0,GLOBO NORDESTE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45844
+#EXTINF:0,GLOBO NORDESTE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45845
+#EXTINF:0,GLOBO NORDESTE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45853
+#EXTINF:0,GLOBO NOW
+http://voz.one:80/alexfnt/vTFBGKdUYq/66659
+#EXTINF:0,GLOBO NSC BLUMENAU FHD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/58823
+#EXTINF:0,GLOBO NSC FLORIANOPOLIS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/95988
+#EXTINF:0,GLOBO NSC FLORIANOPOLIS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64222
+#EXTINF:0,GLOBO NSC FLORIANOPOLIS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65231
+#EXTINF:0,GLOBO NSC JOINVILLE
+http://voz.one:80/alexfnt/vTFBGKdUYq/64240
+#EXTINF:0,GLOBO NSC JOINVILLE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57831
+#EXTINF:0,GLOBO NSC JOINVILLE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57832
+#EXTINF:0,GLOBO NSC SANTA CATARINA
+http://voz.one:80/alexfnt/vTFBGKdUYq/45813
+#EXTINF:0,GLOBO NSC TV CHAPECO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57830
+#EXTINF:0,GLOBO NSC TV CHAPECO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57829
+#EXTINF:0,GLOBO NSC TV CRICIUMA
+http://voz.one:80/alexfnt/vTFBGKdUYq/65232
+#EXTINF:0,GLOBO RBS PASSO FUNDO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57828
+#EXTINF:0,GLOBO RBS PASSO FUNDO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/57827
+#EXTINF:0,GLOBO RBS PELOTAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/45828
+#EXTINF:0,GLOBO RBS PELOTAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45829
+#EXTINF:0,GLOBO RBS POA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65234
+#EXTINF:0,GLOBO RBS POA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45806
+#EXTINF:0,GLOBO RBS POA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45857
+#EXTINF:0,GLOBO RBS TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/65233
+#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45827
+#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45826
+#EXTINF:0,GLOBO RBS TV CAXIAS DO SUL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64232
+#EXTINF:0,Globo RBS TV SANTA MARIA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45873
+#EXTINF:0,Globo RBS TV SANTA MARIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64220
+#EXTINF:0,Globo RBS TV SANTA MARIA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64221
+#EXTINF:0,GLOBO RECIFE
+http://voz.one:80/alexfnt/vTFBGKdUYq/45809
+#EXTINF:0,GLOBO REDE AMAZONICA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65235
+#EXTINF:0,GLOBO REDE AMAZONICA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/47700
+#EXTINF:0,GLOBO REDE AMAZONICA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/47699
+#EXTINF:0,GLOBO RIO SUL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64226
+#EXTINF:0,GLOBO RIO SUL HD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/64225
+#EXTINF:0,GLOBO RIO SUL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45866
+#EXTINF:0,GLOBO RJ
+http://voz.one:80/alexfnt/vTFBGKdUYq/65236
+#EXTINF:0,GLOBO RJ ALTO LITORAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/134001
+#EXTINF:0,GLOBO RJ FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45817
+#EXTINF:0,GLOBO RJ FHD (INTERIOR)
+http://voz.one:80/alexfnt/vTFBGKdUYq/45841
+#EXTINF:0,GLOBO RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45803
+#EXTINF:0,GLOBO RJ HD (INTERIOR)
+http://voz.one:80/alexfnt/vTFBGKdUYq/45840
+#EXTINF:0,GLOBO RJ PLANICE
+http://voz.one:80/alexfnt/vTFBGKdUYq/134000
+#EXTINF:0,GLOBO RJ SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45854
+#EXTINF:0,GLOBO RPC CASCAVEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/47698
+#EXTINF:0,GLOBO RPC CASCAVEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/47697
+#EXTINF:0,GLOBO RPC CURITIBA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56240
+#EXTINF:0,GLOBO RPC CURITIBA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45814
+#EXTINF:0,GLOBO RPC CURITIBA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56239
+#EXTINF:0,GLOBO RPC CURITIBA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45858
+#EXTINF:0,GLOBO RPC FOZ DO IGUAÇU FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45833
+#EXTINF:0,GLOBO RPC FOZ DO IGUAÇU HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45872
+#EXTINF:0,GLOBO RPC MARIGNA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65237
+#EXTINF:0,Globo Santa Cruz Bahia FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64235
+#EXTINF:0,Globo Santa Cruz Bahia HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45808
+#EXTINF:0,Globo Santa Cruz Bahia SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64236
+#EXTINF:0,GLOBO SERGIPE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64237
+#EXTINF:0,GLOBO SERGIPE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45804
+#EXTINF:0,GLOBO SERGIPE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64238
+#EXTINF:0,GLOBO SJ RIO PRETO
+http://voz.one:80/alexfnt/vTFBGKdUYq/65248
+#EXTINF:0,GLOBO SJ RIO PRETO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/75009
+#EXTINF:0,GLOBO SJ RIO PRETO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/75010
+#EXTINF:0,GLOBO SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45859
+#EXTINF:0,GLOBO SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45805
+#EXTINF:0,GLOBO SP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45855
+#EXTINF:0,GLOBO SP SD²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65238
+#EXTINF:0,GLOBO TRIBUNA SANTOS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45839
+#EXTINF:0,GLOBO TRIBUNA SANTOS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45838
+#EXTINF:0,GLOBO TRIBUNA SANTOS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64230
+#EXTINF:0,GLOBO TV ANHANGUERA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65239
+#EXTINF:0,GLOBO TV ANHANGUERA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58821
+#EXTINF:0,GLOBO TV ANHANGUERA GOIANIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58818
+#EXTINF:0,GLOBO TV ANHANGUERA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58822
+#EXTINF:0,GLOBO TV Bahia SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45917
+#EXTINF:0,GLOBO TV BAURU FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65260
+#EXTINF:0,GLOBO TV BAURU HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65261
+#EXTINF:0,GLOBO TV BAURU SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65262
+#EXTINF:0,Globo TV Brasilia HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65241
+#EXTINF:0,Globo TV Brasilia SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65242
+#EXTINF:0,GLOBO TV CABUGI FHD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/58813
+#EXTINF:0,GLOBO TV CABUGI HD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/58814
+#EXTINF:0,GLOBO TV CLUBE PIAUI HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65217
+#EXTINF:0,GLOBO TV DIARIO FORTALEZA
+http://voz.one:80/alexfnt/vTFBGKdUYq/134002
+#EXTINF:0,GLOBO TV DIARIO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45895
+#EXTINF:0,GLOBO TV DIARIO MOGI
+http://voz.one:80/alexfnt/vTFBGKdUYq/134003
+#EXTINF:0,GLOBO TV LIBERAL BELEM
+http://voz.one:80/alexfnt/vTFBGKdUYq/65240
+#EXTINF:0,GLOBO TV MIRANTE COCAIS
+http://voz.one:80/alexfnt/vTFBGKdUYq/64227
+#EXTINF:0,GLOBO TV MIRANTE SÃO LUIS
+http://voz.one:80/alexfnt/vTFBGKdUYq/64228
+#EXTINF:0,GLOBO TV MIRANTE SÃO LUIS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45865
+#EXTINF:0,Globo TV Morena FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65244
+#EXTINF:0,GLOBO TV MORENA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65245
+#EXTINF:0,GLOBO TV MORENA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65246
+#EXTINF:0,GLOBO TV PORTO VELHO
+http://voz.one:80/alexfnt/vTFBGKdUYq/133935
+#EXTINF:0,GLOBO TV RECIFE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65247
+#EXTINF:0,GLOBO TV REDE AMAZONICA MANAUS
+http://voz.one:80/alexfnt/vTFBGKdUYq/64223
+#EXTINF:0,GLOBO TV REDE AMAZONICA MANAUS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45867
+#EXTINF:0,GLOBO TV REDE AMAZONICA MANAUS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64224
+#EXTINF:0,GLOBO TV SOROCABA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65249
+#EXTINF:0,GLOBO TV SOROCABA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45925
+#EXTINF:0,GLOBO TV UBERABA
+http://voz.one:80/alexfnt/vTFBGKdUYq/134245
+#EXTINF:0,Globo TV Vanguarda
+http://voz.one:80/alexfnt/vTFBGKdUYq/112124
+#EXTINF:0,GLOBO VERDES MARES FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45821
+#EXTINF:0,GLOBO VERDES MARES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65250
+#EXTINF:0,GLOBO VERDES MARES SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65251
+#EXTINF:0,GloboNews (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13885
+#EXTINF:0,Gloob (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13886
+#EXTINF:0,GLOOB FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/639
+#EXTINF:0,GLOOB HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/640
+#EXTINF:0,GLOOB SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/641
+#EXTINF:0,GLOOBINHO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/668
+#EXTINF:0,GLOOBINHO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/642
+#EXTINF:0,GLOOBINHO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/663
+#EXTINF:0,GNT (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13887
+#EXTINF:0,GNT 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89353
+#EXTINF:0,GNT FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/766
+#EXTINF:0,GNT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/765
+#EXTINF:0,GNT SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/767
+#EXTINF:0,GOAT - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/260589
+#EXTINF:0,GOAT - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/260590
+#EXTINF:0,GOAT - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/252460
+#EXTINF:0,H2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13894
+#EXTINF:0,H2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/29
+#EXTINF:0,H2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/30
+#EXTINF:0,H2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/31
+#EXTINF:0,HBO (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13889
+#EXTINF:0,HBO 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/594
+#EXTINF:0,HBO 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/595
+#EXTINF:0,HBO 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/596
+#EXTINF:0,HBO 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/232
+#EXTINF:0,HBO Familly (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13888
+#EXTINF:0,HBO FAMILY FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/597
+#EXTINF:0,HBO FAMILY HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/598
+#EXTINF:0,HBO FAMILY SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/599
+#EXTINF:0,HBO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/600
+#EXTINF:0,HBO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/601
+#EXTINF:0,HBO MAX 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/57702
+#EXTINF:0,HBO MAX 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/57703
+#EXTINF:0,HBO MAX 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/57704
+#EXTINF:0,HBO MAX 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/66044
+#EXTINF:0,HBO MAX 5
+http://voz.one:80/alexfnt/vTFBGKdUYq/124780
+#EXTINF:0,HBO MUNDI (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13898
+#EXTINF:0,HBO MUNDI FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/602
+#EXTINF:0,HBO MUNDI HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/603
+#EXTINF:0,HBO MUNDI SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/604
+#EXTINF:0,HBO PLUS (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13890
+#EXTINF:0,HBO PLUS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/605
+#EXTINF:0,HBO PLUS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/606
+#EXTINF:0,HBO PLUS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/607
+#EXTINF:0,HBO POP (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13900
+#EXTINF:0,HBO POP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/608
+#EXTINF:0,HBO POP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/609
+#EXTINF:0,HBO POP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/610
+#EXTINF:0,HBO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/611
+#EXTINF:0,HBO Signature (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13891
+#EXTINF:0,HBO SIGNATURE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/612
+#EXTINF:0,HBO SIGNATURE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/613
+#EXTINF:0,HBO SIGNATURE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/614
+#EXTINF:0,HBO XTREME (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13899
+#EXTINF:0,HBO Xtreme FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/615
+#EXTINF:0,HBO Xtreme HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/616
+#EXTINF:0,HBO Xtreme SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/617
+#EXTINF:0,HGTV  SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/768
+#EXTINF:0,HGTV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13863
+#EXTINF:0,HGTV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/769
+#EXTINF:0,HGTV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/770
+#EXTINF:0,History (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13893
+#EXTINF:0,HISTORY CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/32
+#EXTINF:0,HISTORY CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/33
+#EXTINF:0,HISTORY CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/34
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13895
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/35
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/37
+#EXTINF:0,ID - INVESTIGAÇÃO DISCOVERY SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/36
+#EXTINF:0,Igreja HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65393
+#EXTINF:0,Igreja Universal HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65394
+#EXTINF:0,JP NEWS 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/71487
+#EXTINF:0,JP NEWS FHD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/71488
+#EXTINF:0,JP NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64284
+#EXTINF:0,JP NEWS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64283
+#EXTINF:0,Lifetime (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13896
+#EXTINF:0,LIFETIME FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/445
+#EXTINF:0,LIFETIME HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/446
+#EXTINF:0,LIFETIME SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/447
+#EXTINF:0,LIGA FUTSAL 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/65297
+#EXTINF:0,LIGA FUTSAL 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/65296
+#EXTINF:0,LIGA FUTSAL 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/65295
+#EXTINF:0,LIGA FUTSAL 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/46133
+#EXTINF:0,LOVE NATURE
+http://voz.one:80/alexfnt/vTFBGKdUYq/96150
+#EXTINF:0,Megapix (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13901
+#EXTINF:0,Megapix 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/233
+#EXTINF:0,MEGAPIX FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/448
+#EXTINF:0,MEGAPIX HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/449
+#EXTINF:0,MEGAPIX SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/450
+#EXTINF:0,MG - 98.0 FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34042
+#EXTINF:0,MG - Cultura FM 95.1
+http://voz.one:80/alexfnt/vTFBGKdUYq/34044
+#EXTINF:0,MG - Itatiaia FM 95.7
+http://voz.one:80/alexfnt/vTFBGKdUYq/34043
+#EXTINF:0,MODO VIAGEM FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65334
+#EXTINF:0,MODO VIAGEM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65335
+#EXTINF:0,MODO VIAGEM SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65336
+#EXTINF:0,MTV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13902
+#EXTINF:0,MTV 00s HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65333
+#EXTINF:0,MTV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/771
+#EXTINF:0,MTV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/790
+#EXTINF:0,MTV Live FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65330
+#EXTINF:0,MTV Live HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65331
+#EXTINF:0,MTV Live SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65332
+#EXTINF:0,MTV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/773
+#EXTINF:0,Multishow (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13903
+#EXTINF:0,Multishow 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/235
+#EXTINF:0,MULTISHOW FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/774
+#EXTINF:0,MULTISHOW HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/775
+#EXTINF:0,MULTISHOW SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/776
+#EXTINF:0,Music Box Brasil FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65326
+#EXTINF:0,Music Box Brasil HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45888
+#EXTINF:0,Music Box Brasil SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65327
+#EXTINF:0,Music Top HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65328
+#EXTINF:0,NatGeo (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13904
+#EXTINF:0,NATGEO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/39
+#EXTINF:0,NatGeo Wild (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13905
+#EXTINF:0,NATIONAL GEOGRAPHIC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/41
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/42
+#EXTINF:0,NATIONAL GEOGRAPHIC SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/43
+#EXTINF:0,National Geographics 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/234
+#EXTINF:0,NBA - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/258288
+#EXTINF:0,NBA - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/258289
+#EXTINF:0,NBA - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/258290
+#EXTINF:0,NBA - 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/258291
+#EXTINF:0,NICK JR FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/646
+#EXTINF:0,NICK JR HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/647
+#EXTINF:0,NICK JR SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/648
+#EXTINF:0,Nickelodeon (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13907
+#EXTINF:0,NICKELODEON FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/649
+#EXTINF:0,NICKELODEON HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/650
+#EXTINF:0,NICKELODEON SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/651
+#EXTINF:0,NickJr (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13908
+#EXTINF:0,NOSSO FUTEBOL - 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/131015
+#EXTINF:0,NOSSO FUTEBOL - 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/131016
+#EXTINF:0,NOSSO FUTEBOL - 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/131017
+#EXTINF:0,Novo Tempo
+http://voz.one:80/alexfnt/vTFBGKdUYq/736
+#EXTINF:0,Novo Tempo HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65397
+#EXTINF:0,OFF (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13909
+#EXTINF:0,OFF FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/777
+#EXTINF:0,OFF HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/778
+#EXTINF:0,OFF SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/779
+#EXTINF:0,Paramount (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13910
+#EXTINF:0,PARAMOUNT CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/451
+#EXTINF:0,PARAMOUNT CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/452
+#EXTINF:0,PARAMOUNT CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/453
+#EXTINF:0,Paramount+ 1 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84448
+#EXTINF:0,Paramount+ 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84449
+#EXTINF:0,Paramount+ 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84450
+#EXTINF:0,Paramount+ 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/84451
+#EXTINF:0,PAULISTÃO 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/261020
+#EXTINF:0,PAULISTÃO 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/261021
+#EXTINF:0,PAULISTÃO 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/261022
+#EXTINF:0,PAULISTÃO 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/261023
+#EXTINF:0,POLISHOP TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/795
+#EXTINF:0,Premiere 2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13912
+#EXTINF:0,PREMIERE 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/701
+#EXTINF:0,PREMIERE 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/702
+#EXTINF:0,PREMIERE 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/703
+#EXTINF:0,Premiere 3 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13913
+#EXTINF:0,PREMIERE 3 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/704
+#EXTINF:0,PREMIERE 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/705
+#EXTINF:0,PREMIERE 3 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/706
+#EXTINF:0,Premiere 4 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13914
+#EXTINF:0,PREMIERE 4 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/708
+#EXTINF:0,PREMIERE 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/707
+#EXTINF:0,PREMIERE 4 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/709
+#EXTINF:0,Premiere 5 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13915
+#EXTINF:0,PREMIERE 5 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/710
+#EXTINF:0,PREMIERE 5 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/711
+#EXTINF:0,PREMIERE 5 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/712
+#EXTINF:0,Premiere 6 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13916
+#EXTINF:0,PREMIERE 6 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/47703
+#EXTINF:0,PREMIERE 6 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/713
+#EXTINF:0,PREMIERE 6 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/714
+#EXTINF:0,Premiere 7 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13917
+#EXTINF:0,PREMIERE 7 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/697
+#EXTINF:0,PREMIERE 7 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/715
+#EXTINF:0,PREMIERE 7 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/716
+#EXTINF:0,Premiere Clubes (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13911
+#EXTINF:0,Premiere Clubes 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/220
+#EXTINF:0,PREMIERE CLUBES 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/45890
+#EXTINF:0,PREMIERE CLUBES FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/718
+#EXTINF:0,PREMIERE CLUBES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/719
+#EXTINF:0,PREMIERE CLUBES SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/720
+#EXTINF:0,PREMIERE MOSAICO
+http://voz.one:80/alexfnt/vTFBGKdUYq/717
+#EXTINF:0,PRIME BOX BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/794
+#EXTINF:0,PRIME BOX BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/793
+#EXTINF:0,PRIME BOX BRASIL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65325
+#EXTINF:0,Record 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/219
+#EXTINF:0,RECORD AL
+http://voz.one:80/alexfnt/vTFBGKdUYq/288
+#EXTINF:0,Record BA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65252
+#EXTINF:0,RECORD BELÉM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/287
+#EXTINF:0,RECORD BRASILIA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/273
+#EXTINF:0,RECORD CAMPINAS
+http://voz.one:80/alexfnt/vTFBGKdUYq/275
+#EXTINF:0,RECORD CAMPINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/276
+#EXTINF:0,RECORD GO HD 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/279
+#EXTINF:0,RECORD GOIAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/258096
+#EXTINF:0,RECORD GOIAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/258097
+#EXTINF:0,RECORD MANAUS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/314
+#EXTINF:0,RECORD MINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/285
+#EXTINF:0,RECORD NEWS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/689
+#EXTINF:0,RECORD NEWS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/686
+#EXTINF:0,RECORD NEWS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/690
+#EXTINF:0,RECORD PARANA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/46130
+#EXTINF:0,RECORD PARANA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/46129
+#EXTINF:0,RECORD PARANA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/271
+#EXTINF:0,RECORD PR
+http://voz.one:80/alexfnt/vTFBGKdUYq/272
+#EXTINF:0,RECORD RJ FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/289
+#EXTINF:0,RECORD RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/291
+#EXTINF:0,RECORD RJ SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/290
+#EXTINF:0,Record RS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/64242
+#EXTINF:0,RECORD RS SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/292
+#EXTINF:0,RECORD SC
+http://voz.one:80/alexfnt/vTFBGKdUYq/258304
+#EXTINF:0,RECORD SC HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/293
+#EXTINF:0,RECORD SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/294
+#EXTINF:0,RECORD SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/295
+#EXTINF:0,RECORD SP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/296
+#EXTINF:0,RECORD TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/277
+#EXTINF:0,RECORD TV CIDADE CE
+http://voz.one:80/alexfnt/vTFBGKdUYq/131019
+#EXTINF:0,Redbull TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65294
+#EXTINF:0,Rede Brasil TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/45915
+#EXTINF:0,Rede Familia FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65387
+#EXTINF:0,REDE FURACÃO
+http://voz.one:80/alexfnt/vTFBGKdUYq/45876
+#EXTINF:0,Rede Genesis FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65388
+#EXTINF:0,Rede Genesis SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65389
+#EXTINF:0,REDE MINAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45894
+#EXTINF:0,REDE TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/258
+#EXTINF:0,REDE TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/259
+#EXTINF:0,Rede TV! 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/236
+#EXTINF:0,Rede VIDA
+http://voz.one:80/alexfnt/vTFBGKdUYq/96152
+#EXTINF:0,RedeTV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/260
+#EXTINF:0,RIT TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/49789
+#EXTINF:0,RJ - BeatPlay FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34022
+#EXTINF:0,RJ - JB FM 99.9
+http://voz.one:80/alexfnt/vTFBGKdUYq/34023
+#EXTINF:0,RJ - Tupi FM 96.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34024
+#EXTINF:0,RS - 104 FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34025
+#EXTINF:0,RS - 92. FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34026
+#EXTINF:0,RS - Alegria FM 92.9
+http://voz.one:80/alexfnt/vTFBGKdUYq/34027
+#EXTINF:0,RS - Atlântida FM 94.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34028
+#EXTINF:0,RS - Gaúcha FM 93.7
+http://voz.one:80/alexfnt/vTFBGKdUYq/34029
+#EXTINF:0,RS - Guaíba FM 101.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34033
+#EXTINF:0,RS - Itapema FM 102.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34030
+#EXTINF:0,RS - JovenPan FM 97.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34031
+#EXTINF:0,SBT 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/303
+#EXTINF:0,SBT 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/237
+#EXTINF:0,SBT AM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65253
+#EXTINF:0,SBT BA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/298
+#EXTINF:0,SBT BSB
+http://voz.one:80/alexfnt/vTFBGKdUYq/299
+#EXTINF:0,SBT GO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65255
+#EXTINF:0,SBT MT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65257
+#EXTINF:0,SBT NACIONAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/65254
+#EXTINF:0,SBT PARANA
+http://voz.one:80/alexfnt/vTFBGKdUYq/309
+#EXTINF:0,SBT PARANA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/46132
+#EXTINF:0,SBT PARANA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/46131
+#EXTINF:0,SBT PI FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65258
+#EXTINF:0,SBT RJ FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/308
+#EXTINF:0,SBT RJ HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/313
+#EXTINF:0,SBT RS
+http://voz.one:80/alexfnt/vTFBGKdUYq/306
+#EXTINF:0,SBT SD²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65259
+#EXTINF:0,SBT SP FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/315
+#EXTINF:0,SBT SP HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/311
+#EXTINF:0,SBT SP HD²
+http://voz.one:80/alexfnt/vTFBGKdUYq/65256
+#EXTINF:0,SBT SP SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/310
+#EXTINF:0,Shoptime FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65316
+#EXTINF:0,Shoptime HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65317
+#EXTINF:0,SKY PLAY 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/343
+#EXTINF:0,SKY PLAY 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/344
+#EXTINF:0,SKY PLAY 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/345
+#EXTINF:0,SKY PLAY 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/346
+#EXTINF:0,SKY PLAY 05
+http://voz.one:80/alexfnt/vTFBGKdUYq/324
+#EXTINF:0,SKY PLAY 06
+http://voz.one:80/alexfnt/vTFBGKdUYq/338
+#EXTINF:0,SKY PLAY 07
+http://voz.one:80/alexfnt/vTFBGKdUYq/333
+#EXTINF:0,SKY PLAY 08
+http://voz.one:80/alexfnt/vTFBGKdUYq/339
+#EXTINF:0,SKY PLAY 09
+http://voz.one:80/alexfnt/vTFBGKdUYq/342
+#EXTINF:0,SKY PLAY 10
+http://voz.one:80/alexfnt/vTFBGKdUYq/335
+#EXTINF:0,SKY PLAY 11
+http://voz.one:80/alexfnt/vTFBGKdUYq/340
+#EXTINF:0,SONY FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/454
+#EXTINF:0,SONY HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/455
+#EXTINF:0,SONY MOVIES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/260565
+#EXTINF:0,SONY MOVIES SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/260566
+#EXTINF:0,SONY SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/456
+#EXTINF:0,SP - Antena 1 FM 94.7
+http://voz.one:80/alexfnt/vTFBGKdUYq/34035
+#EXTINF:0,SP - Coca Cola FM
+http://voz.one:80/alexfnt/vTFBGKdUYq/34036
+#EXTINF:0,SP - Mix FM 106.3
+http://voz.one:80/alexfnt/vTFBGKdUYq/34037
+#EXTINF:0,SP - Radio Globo FM 92.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34038
+#EXTINF:0,SP - Top FM 100.5
+http://voz.one:80/alexfnt/vTFBGKdUYq/34039
+#EXTINF:0,SP - Tropical FM 107.9
+http://voz.one:80/alexfnt/vTFBGKdUYq/34041
+#EXTINF:0,Space (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13920
+#EXTINF:0,SPACE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/457
+#EXTINF:0,SPACE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/458
+#EXTINF:0,SPACE SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/459
+#EXTINF:0,SporTV (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13923
+#EXTINF:0,SporTV 2 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13921
+#EXTINF:0,SPORTV 2 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/737
+#EXTINF:0,SPORTV 2 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/738
+#EXTINF:0,SPORTV 2 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/739
+#EXTINF:0,SporTV 3 (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13922
+#EXTINF:0,SPORTV 3 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/740
+#EXTINF:0,SPORTV 3 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/741
+#EXTINF:0,SPORTV 3 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/742
+#EXTINF:0,SporTv 4 (H.265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/56037
+#EXTINF:0,SPORTV 4 FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56036
+#EXTINF:0,SPORTV 4 HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56038
+#EXTINF:0,SPORTV 4 SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/56039
+#EXTINF:0,SporTV 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/240
+#EXTINF:0,SPORTV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/743
+#EXTINF:0,SPORTV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/744
+#EXTINF:0,SPORTV PLUS
+http://voz.one:80/alexfnt/vTFBGKdUYq/56165
+#EXTINF:0,SPORTV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/745
+#EXTINF:0,Star Channel (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13879
+#EXTINF:0,Star Channel 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/229
+#EXTINF:0,STAR CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/430
+#EXTINF:0,STAR CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/431
+#EXTINF:0,STAR CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/441
+#EXTINF:0,STAR+ 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/57676
+#EXTINF:0,STAR+ 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/57706
+#EXTINF:0,STAR+ 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/57707
+#EXTINF:0,STAR+ 4
+http://voz.one:80/alexfnt/vTFBGKdUYq/65302
+#EXTINF:0,STAR+ 5
+http://voz.one:80/alexfnt/vTFBGKdUYq/65303
+#EXTINF:0,STAR+ 6
+http://voz.one:80/alexfnt/vTFBGKdUYq/65304
+#EXTINF:0,STAR+ 7
+http://voz.one:80/alexfnt/vTFBGKdUYq/65305
+#EXTINF:0,Studio Universal (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13924
+#EXTINF:0,STUDIO UNIVERSAL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/460
+#EXTINF:0,STUDIO UNIVERSAL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/461
+#EXTINF:0,STUDIO UNIVERSAL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/462
+#EXTINF:0,TBC BRASIL CENTRAL
+http://voz.one:80/alexfnt/vTFBGKdUYq/131020
+#EXTINF:0,TCM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/467
+#EXTINF:0,TCM SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/468
+#EXTINF:0,Telecine Action (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13927
+#EXTINF:0,TeleCine Action 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89354
+#EXTINF:0,TELECINE ACTION FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/798
+#EXTINF:0,TELECINE ACTION HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/799
+#EXTINF:0,TELECINE ACTION SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/800
+#EXTINF:0,Telecine Cult (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13928
+#EXTINF:0,TELECINE CULT FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/801
+#EXTINF:0,TELECINE CULT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/802
+#EXTINF:0,TELECINE CULT SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/803
+#EXTINF:0,Telecine Fun (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13929
+#EXTINF:0,TELECINE FUN FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/804
+#EXTINF:0,TELECINE FUN HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/805
+#EXTINF:0,TELECINE FUN SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/797
+#EXTINF:0,Telecine Pipoca (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13930
+#EXTINF:0,Telecine Pipoca 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/238
+#EXTINF:0,TELECINE PIPOCA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/806
+#EXTINF:0,TELECINE PIPOCA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/807
+#EXTINF:0,TELECINE PIPOCA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/808
+#EXTINF:0,Telecine Premium (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13931
+#EXTINF:0,Telecine Premium 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/221
+#EXTINF:0,TELECINE PREMIUM FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/809
+#EXTINF:0,TELECINE PREMIUM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/810
+#EXTINF:0,TELECINE PREMIUM SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/811
+#EXTINF:0,Telecine Touch (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13932
+#EXTINF:0,TELECINE TOUCH FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/812
+#EXTINF:0,TELECINE TOUCH HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/813
+#EXTINF:0,TELECINE TOUCH SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/814
+#EXTINF:0,TERRA VIVA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45889
+#EXTINF:0,TLC (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13933
+#EXTINF:0,TMC FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/485
+#EXTINF:0,TNT (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13934
+#EXTINF:0,TNT 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/223
+#EXTINF:0,TNT FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/469
+#EXTINF:0,TNT HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/470
+#EXTINF:0,TNT NOVELAS (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13926
+#EXTINF:0,TNT NOVELAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/487
+#EXTINF:0,TNT NOVELAS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/466
+#EXTINF:0,TNT SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/471
+#EXTINF:0,TNT Series 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/224
+#EXTINF:0,TNT SERIES FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/472
+#EXTINF:0,TNT SERIES HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/473
+#EXTINF:0,TNT SERIES SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/474
+#EXTINF:0,TOONCAST FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/653
+#EXTINF:0,TOONCAST HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/664
+#EXTINF:0,TOONCAST SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/654
+#EXTINF:0,TRAVEL BOX BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45881
+#EXTINF:0,TRU TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/792
+#EXTINF:0,TRU TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/780
+#EXTINF:0,TRU TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65312
+#EXTINF:0,TV ANHANGUERA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58817
+#EXTINF:0,TV APARECIDA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/727
+#EXTINF:0,TV BRASIL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/261
+#EXTINF:0,TV BRASIL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/263
+#EXTINF:0,TV Camara FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65311
+#EXTINF:0,TV Camara HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45918
+#EXTINF:0,TV CULTURA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/254
+#EXTINF:0,TV CULTURA PA
+http://voz.one:80/alexfnt/vTFBGKdUYq/133933
+#EXTINF:0,Tv Escola
+http://voz.one:80/alexfnt/vTFBGKdUYq/45929
+#EXTINF:0,TV GAZETA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/266
+#EXTINF:0,TV INTEGRAÇÃO DIVINÓPOLIS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/58815
+#EXTINF:0,TV INTEGRAÇÃO DIVINÓPOLIS HD 
+http://voz.one:80/alexfnt/vTFBGKdUYq/58816
+#EXTINF:0,TV Justica
+http://voz.one:80/alexfnt/vTFBGKdUYq/45920
+#EXTINF:0,TV PAI ETERNO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/49788
+#EXTINF:0,TV PAMPA RS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45910
+#EXTINF:0,TV RA TIM BUM FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/655
+#EXTINF:0,TV RA TIM BUM HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/665
+#EXTINF:0,TV RA TIM BUM SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/666
+#EXTINF:0,TV Senado
+http://voz.one:80/alexfnt/vTFBGKdUYq/45922
+#EXTINF:0,TVE BAHIA 
+http://voz.one:80/alexfnt/vTFBGKdUYq/131018
+#EXTINF:0,TVE FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65263
+#EXTINF:0,TVE HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65264
+#EXTINF:0,UFC FIGHT PASS HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/130678
+#EXTINF:0,Universal Channel 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89355
+#EXTINF:0,UNIVERSAL TV FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/475
+#EXTINF:0,UNIVERSAL TV HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/476
+#EXTINF:0,UNIVERSAL TV SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/477
+#EXTINF:0,USA (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13925
+#EXTINF:0,USA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/463
+#EXTINF:0,USA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/464
+#EXTINF:0,USA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/465
+#EXTINF:0,Viva 4K
+http://voz.one:80/alexfnt/vTFBGKdUYq/89356
+#EXTINF:0,VIVA FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/784
+#EXTINF:0,VIVA HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/786
+#EXTINF:0,VIVA SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/785
+#EXTINF:0,Warner (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13941
+#EXTINF:0,WARNER CHANNEL FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/478
+#EXTINF:0,WARNER CHANNEL HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/479
+#EXTINF:0,WARNER CHANNEL SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/480
+#EXTINF:0,Woohoo (H265)
+http://voz.one:80/alexfnt/vTFBGKdUYq/13942
+#EXTINF:0,WOOHOO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/656
+#EXTINF:0,WOOHOO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/657
+#EXTINF:0,WOOHOO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/658
+#EXTINF:0,ZOOMO FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/659
+#EXTINF:0,ZOOMOO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/660
+#EXTINF:0,ZOOMOO SD
+http://voz.one:80/alexfnt/vTFBGKdUYq/661
+#EXTINF:0,[24H] 3 Palavrinhas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95650
+#EXTINF:0,[24H] Alladin
+http://voz.one:80/alexfnt/vTFBGKdUYq/95718
+#EXTINF:0,[24H] As Meninas Super poderosas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95653
+#EXTINF:0,[24H] As Meninas Superpoderosas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95719
+#EXTINF:0,[24H] Ben 10
+http://voz.one:80/alexfnt/vTFBGKdUYq/95720
+#EXTINF:0,[24H] BOB
+http://voz.one:80/alexfnt/vTFBGKdUYq/95748
+#EXTINF:0,[24H] Bob esponja
+http://voz.one:80/alexfnt/vTFBGKdUYq/95721
+#EXTINF:0,[24H] Capitão Caverna
+http://voz.one:80/alexfnt/vTFBGKdUYq/95712
+#EXTINF:0,[24H] Caverna do Dragão
+http://voz.one:80/alexfnt/vTFBGKdUYq/95660
+#EXTINF:0,[24H] Caverna do dragão
+http://voz.one:80/alexfnt/vTFBGKdUYq/95723
+#EXTINF:0,[24H] Central Kids
+http://voz.one:80/alexfnt/vTFBGKdUYq/95724
+#EXTINF:0,[24H] Chapolin colorado
+http://voz.one:80/alexfnt/vTFBGKdUYq/95725
+#EXTINF:0,[24H] Chapolin Colorado 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/126146
+#EXTINF:0,[24H] Chaves
+http://voz.one:80/alexfnt/vTFBGKdUYq/95662
+#EXTINF:0,[24H] Chaves Cartoon
+http://voz.one:80/alexfnt/vTFBGKdUYq/95726
+#EXTINF:0,[24H] Cine kids
+http://voz.one:80/alexfnt/vTFBGKdUYq/95727
+#EXTINF:0,[24H] Desenhos disney
+http://voz.one:80/alexfnt/vTFBGKdUYq/95731
+#EXTINF:0,[24H] Digimon
+http://voz.one:80/alexfnt/vTFBGKdUYq/95665
+#EXTINF:0,[24H] Digimon
+http://voz.one:80/alexfnt/vTFBGKdUYq/95732
+#EXTINF:0,[24H] Digimon 15º Aniversário
+http://voz.one:80/alexfnt/vTFBGKdUYq/95666
+#EXTINF:0,[24H] Dragon Ball
+http://voz.one:80/alexfnt/vTFBGKdUYq/95734
+#EXTINF:0,[24H] Dragon Ball 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95668
+#EXTINF:0,[24H] Dragon Ball 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95669
+#EXTINF:0,[24H] Dragon Ball Heroes
+http://voz.one:80/alexfnt/vTFBGKdUYq/95670
+#EXTINF:0,[24H] Dragon Ball Super
+http://voz.one:80/alexfnt/vTFBGKdUYq/95735
+#EXTINF:0,[24H] Dragon Ball Super 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95671
+#EXTINF:0,[24H] Dragon Ball Super 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95672
+#EXTINF:0,[24H] Dragon Ball Super 3
+http://voz.one:80/alexfnt/vTFBGKdUYq/95673
+#EXTINF:0,[24H] Dragon Ball Z
+http://voz.one:80/alexfnt/vTFBGKdUYq/95736
+#EXTINF:0,[24H] Dragon Ball Z 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95674
+#EXTINF:0,[24H] Dragon Ball Z 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95675
+#EXTINF:0,[24H] Eu a Patroa e as Crianças 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95676
+#EXTINF:0,[24H] Eu a Patroa e as Crianças 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95677
+#EXTINF:0,[24H] Flinstones
+http://voz.one:80/alexfnt/vTFBGKdUYq/95759
+#EXTINF:0,[24h] Galinha Pintadinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95681
+#EXTINF:0,[24H] Galinha pintadinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95737
+#EXTINF:0,[24H] Game of Thrones
+http://voz.one:80/alexfnt/vTFBGKdUYq/95682
+#EXTINF:0,[24H] He-Man
+http://voz.one:80/alexfnt/vTFBGKdUYq/95738
+#EXTINF:0,[24H] Hercules
+http://voz.one:80/alexfnt/vTFBGKdUYq/95742
+#EXTINF:0,[24H] Homem aranha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95740
+#EXTINF:0,[24H] Igreja Universal
+http://voz.one:80/alexfnt/vTFBGKdUYq/95730
+#EXTINF:0,[24H] Jack Chan
+http://voz.one:80/alexfnt/vTFBGKdUYq/95743
+#EXTINF:0,[24H] Jaclkie Chan 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95739
+#EXTINF:0,[24H] Jaspion
+http://voz.one:80/alexfnt/vTFBGKdUYq/95744
+#EXTINF:0,[24H] JIRAYA O Incrível Ninja
+http://voz.one:80/alexfnt/vTFBGKdUYq/95745
+#EXTINF:0,[24H] Kenan e Kel
+http://voz.one:80/alexfnt/vTFBGKdUYq/95746
+#EXTINF:0,[24H] KPOP TV
+http://voz.one:80/alexfnt/vTFBGKdUYq/95747
+#EXTINF:0,[24H] Luluzinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95749
+#EXTINF:0,[24H] MASCARA
+http://voz.one:80/alexfnt/vTFBGKdUYq/95698
+#EXTINF:0,[24H] Mortal Kombat
+http://voz.one:80/alexfnt/vTFBGKdUYq/95752
+#EXTINF:0,[24H] Mr.Ben
+http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:0,[24H] Naruto
+http://voz.one:80/alexfnt/vTFBGKdUYq/95686
+#EXTINF:0,[24H] Naruto
+http://voz.one:80/alexfnt/vTFBGKdUYq/95754
+#EXTINF:0,[24H] O Maskara
+http://voz.one:80/alexfnt/vTFBGKdUYq/95756
+#EXTINF:0,[24H] Os Flinstones
+http://voz.one:80/alexfnt/vTFBGKdUYq/95688
+#EXTINF:0,[24H] Os Simpsons 01
+http://voz.one:80/alexfnt/vTFBGKdUYq/95691
+#EXTINF:0,[24H] Os Simpsons 02
+http://voz.one:80/alexfnt/vTFBGKdUYq/95692
+#EXTINF:0,[24H] Os Simpsons 03
+http://voz.one:80/alexfnt/vTFBGKdUYq/95693
+#EXTINF:0,[24H] Os Simpsons 04
+http://voz.one:80/alexfnt/vTFBGKdUYq/95694
+#EXTINF:0,[24H] Os Vingadores
+http://voz.one:80/alexfnt/vTFBGKdUYq/95761
+#EXTINF:0,[24H] Peeppa Pig
+http://voz.one:80/alexfnt/vTFBGKdUYq/95717
+#EXTINF:0,[24H] Peixonautas
+http://voz.one:80/alexfnt/vTFBGKdUYq/95763
+#EXTINF:0,[24H] Peppa Pig
+http://voz.one:80/alexfnt/vTFBGKdUYq/95715
+#EXTINF:0,[24H] Pernalonga
+http://voz.one:80/alexfnt/vTFBGKdUYq/95764
+#EXTINF:0,[24H] Pink-e-Cerebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95697
+#EXTINF:0,[24H] Pinky e o Cérebro
+http://voz.one:80/alexfnt/vTFBGKdUYq/95765
+#EXTINF:0,[24H] Scooby-Doo
+http://voz.one:80/alexfnt/vTFBGKdUYq/95771
+#EXTINF:0,[24H] South Park
+http://voz.one:80/alexfnt/vTFBGKdUYq/95701
+#EXTINF:0,[24H] South Park
+http://voz.one:80/alexfnt/vTFBGKdUYq/95772
+#EXTINF:0,[24H] Thundercats
+http://voz.one:80/alexfnt/vTFBGKdUYq/95774
+#EXTINF:0,[24H] Thundercats
+http://voz.one:80/alexfnt/vTFBGKdUYq/95776
+#EXTINF:0,[24H] Timao e Pumba
+http://voz.one:80/alexfnt/vTFBGKdUYq/95777
+#EXTINF:0,[24H] Todo Mundo Odeia o Chris 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95702
+#EXTINF:0,[24H] Todo Mundo Odeia o Chris 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95703
+#EXTINF:0,[24H] Tom & Jerry
+http://voz.one:80/alexfnt/vTFBGKdUYq/95704
+#EXTINF:0,[24H] Tres Espias Demais
+http://voz.one:80/alexfnt/vTFBGKdUYq/95778
+#EXTINF:0,[24H] Um Maluco no Pedaço 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95705
+#EXTINF:0,[24H] Um Maluco no Pedaço 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95706
+#EXTINF:0,[24h] Ursinhos Carinhos
+http://voz.one:80/alexfnt/vTFBGKdUYq/95707
+#EXTINF:0,[24H] Vai que Cola 1
+http://voz.one:80/alexfnt/vTFBGKdUYq/95708
+#EXTINF:0,[24H] Vai que Cola 2
+http://voz.one:80/alexfnt/vTFBGKdUYq/95709
+#EXTINF:0,[24H] X-MEN
+http://voz.one:80/alexfnt/vTFBGKdUYq/95780
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Vevo_Thumbnail_2013.svg/revision/latest?cb=20210103132455" group-title="Geral",Vevo Christmas (NZ)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/logo-img-02.svg" group-title="Geral",Vevo Pop (NZ)
@@ -345,8 +2033,6 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="Geral",RDC TV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
-#EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",Record
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Geral",Rede Brasil de Comunicacao
@@ -379,10 +2065,6 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?check
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="Geral",Rede Sul
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Geral",Rede TV!
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Geral",Rede UTV
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Geral",Rede Vida
@@ -395,10 +2077,6 @@ https://5e50264bd6766.streamlock.net/rtg/videortg/playlist.m3u8
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Geral",Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTRio.br" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Geral",SBT Rio
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Geral",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SICTV.br" tvg-logo="https://i.imgur.com/mHxQyB2.png" group-title="Geral",SIC TV
@@ -422,8 +2100,6 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTM3U
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" group-title="Geral",TV Zyn (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://s2-globo-play.glbimg.com/SaUvDCT3G8gXYMir1Y66JmPtG_Q=/285x285/https://s2-globo-play.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="Geral",GE Fast (BR)
-https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lfwebwvwdaf0i/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/series/622102dae9e2e9001399c4a9/featuredImage.jpg?fill=blur&fit=fill&fm=jpg&q=75&w=1200" group-title="Geral",Pluto TV Naruto (BR)
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/5812b7d3249444e05d09cc49/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Pluto TV Anime
@@ -827,8 +2503,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Geral",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="BandMinasGerais.br" tvg-logo="https://i.imgur.com/hy7abJz.png" group-title="Geral",Band Minas Gerais
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Geral",Rede Brasil de Comunicacao
@@ -863,14 +2537,6 @@ https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="Geral",Rede Sul
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://i.imgur.com/ZJgD38F.png" group-title="Geral",Rede TV!
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVES.br" tvg-logo="https://i.imgur.com/k7vO9Bk.png" group-title="Geral",Rede TV! ES
-https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
-#EXTINF:-1 tvg-id="RedeTVMais.br" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="Geral",Rede TV! Mais
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! Tocantins
-https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Geral",Rede UTV
 https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="Geral",Rede Vida
@@ -883,16 +2549,6 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 https://ythls.armelin.one/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
 #EXTINF:-1 tvg-id="SantaCeciliaTV.br" tvg-logo="https://i.imgur.com/KxYsq1d.png" group-title="Geral",Santa Cecilia TV
 http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTCuiaba.br" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="Geral",SBT Cuiaba
-https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTPara.br" tvg-logo="https://i.imgur.com/iV1Ib7L.png" group-title="Geral",SBT Para
-https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
-#EXTINF:-1 tvg-id="SBTRio.br" tvg-logo="https://i.imgur.com/WLSauIE.png" group-title="Geral",SBT Rio
-https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
-#EXTINF:-1 tvg-id="SBTRioGrande.br" tvg-logo="https://i.imgur.com/it5aFKM.png" group-title="Geral",SBT Rio Grande
-https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Geral",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SESCTV.br" tvg-logo="https://i.imgur.com/Mu8O6CV.png" group-title="Geral",SESC TV
@@ -1228,8 +2884,6 @@ https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
 #EXTINF:-1 tvg-id="WebTVAguaBoa.br" tvg-logo="https://i.imgur.com/XrFoTDv.png" group-title="Geral",Web TV Agua Boa
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="WTVBrasil.br" tvg-logo="https://i.imgur.com/4T8z1Ni.png" group-title="Geral",WTV Brasil
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="Geral",RecordTV Sao Paulo
-http://painel.iptvmove.com:25461/live/danga07/1963/1264.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/e9ca6gc.png" group-title="Geral",OlayTürk Kayseri (720p) [Geo-blocked]
 https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a8/Powert%C3%BCrk_TV_logosu.png" group-title="Geral",POWER TURK FHD
@@ -1296,8 +2950,6 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8?checkedby:iptvcat.
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SD" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="Geral",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",RecordTV
-https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="Geral",Rede Mais (720p)
@@ -1557,12 +3209,6 @@ https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/HasBahCa.m3u8
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK Brasil
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/band_logo.png" group-title="Geral",BAND Full HD
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/record_news_logo.png" group-title="Geral",Record News Full HD
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/sbt_mato_grosso_logo.png" group-title="Geral",SBT Mato Grosso
-http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/goiania_24h_logo.png" group-title="Geral",Goiânia 24h - Av. Jamel Cecílio
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://example.com/sic_tv_internacional_logo.png" group-title="Geral",SIC TV Internacional de Portugal
@@ -1722,8 +3368,6 @@ https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1c3207336ef93a99e4678042297cd0a6.webp" group-title="Geral",Rede Clouding TV Ao Vivo
 https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bc/Logotipo_da_TV_Tropical_%28Natal%29.png" group-title="Geral",TV Tropical (Rede Record RN) Ao Vivo
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3887b3ba2258769221444dbb4e42a93d.webp" group-title="Geral",X PLUS TV Ao Vivo
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Geral",Rede NGT
@@ -1748,8 +3392,6 @@ https://cdn.jmvstream.com/w/LVW-8600/LVW8600_dPUj47PQ9P/playlist.m3u8
 https://video01.kshost.com.br:4443/erga9862/erga9862/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/7Q27r8FaSpbCL_uDm-XA4bQCeNtL5YfFQskmw9wRxAuAxqbjwZJy7KUV00pW63YSUg" group-title="Geral",TV Avivando Nações
 https://video01.kshost.com.br/edinardo2448/edinardo2448/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-massa_m.png" group-title="Geral",Rede Massa SBT (Paraná)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a690ff811f1c0bd3fd9ec6f6c1df5101.webp" group-title="Geral",Rede Mundo TV
 https://st-srv02.alfamax.com.br/REDE_MUNDO_2/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/de5e2a5c9eef76effa75993a224b9e61.webp" group-title="Geral",Redetv Mais
@@ -1784,8 +3426,6 @@ https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://linktr.ee/og/image/amazoniatveradio.jpg" group-title="Geral",Amazônia Tv e Rádio
 https://cdn.jmvstream.com/w/AVJ-13076/playlist/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a6/Logotipo_da_RBATV.png" group-title="Geral",RBATV (Band PA)
-https://cdn.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/dee1243c933082ee25e309ab91b54f4d.webp" group-title="Geral",TV NBT (Pará)
 https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.promotionsonly.com.au/hires/blue-stress-ball.jpg" group-title="Geral",TVM Pará
@@ -1796,10 +3436,6 @@ https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/TVMARAJOAR.png" group-title="Geral",TV Marajoara (Pará)
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/1984fc9fe0f8fa7c5298599d595b01ea.webp" group-title="Geral",Tv Paraense (SBT Castanhal)
-https://cdn.jmvstream.com/w/AVJ-13102/playlist/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://acesp.tv.br/images/logos/tvguaruja.jpg" group-title="Geral",Tv Guarajá - SBT (Parán)
-https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pa-str.srvsite.com/arquivos/6839/cabecalho-6839-20210615104114.png" group-title="Geral",Tv Curuai Web
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b788e9a872fd5fc15bd800d7a7e24d5e.webp" group-title="Geral",TV Aberta São Paulo
@@ -1866,8 +3502,6 @@ https://video04.logicahost.com.br/santiagoproducoes/santiagoproducoes/playlist.m
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/3rI-7_Uh6Hyev7DVkmBfuGkX4I21kuluGVTuQ0xJ2puYKmMx6LtAhGXiswXzx7Nz0x5K=w240-h480-rw" group-title="Geral",NTV Patos de Minas | BR
 https://video05.logicahost.com.br/ntvnet/ntvnet/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Record_News_logo_2022.svg" group-title="Geral",Record News Espirito Santo | BR
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_da_TVE_RS.png" group-title="Geral",TVE | BR
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/7856d68f41f8f261c2cdeca2b92dce7b.webp" group-title="Geral",Jetsons TV
