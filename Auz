@@ -29,8 +29,6 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
-https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="Geral",Estrella Games (1080p)
@@ -749,8 +747,6 @@ https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Geral",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
-https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
 #EXTINF:-1 tvg-id="UDGTV.mx" tvg-logo="https://i.imgur.com/QKvINA6.png" group-title="Geral",UDG TV
 https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Geral",Ultra TV Puebla
@@ -1806,6 +1802,8 @@ https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://playerv.logicahost.com.br/app-multi-plataforma/logo-filmestopmixtv.png" group-title="Geral",Top Mix Tv Filmes
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/1e5dd8729025d5eb431c8a3128716032.webp" group-title="Geral",TOP MIX TV 2
+https://video03.logicahost.com.br/topmixtv/topmixtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/36/Logotipo_da_Rede_Sul_de_Televis%C3%A3o.png" group-title="Geral",Rede Sul de Televisão (Rio Grande do Sul)
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9a/Logotipo_da_TV_Antena_10.png" group-title="Geral",Tv Antena 10 (Piauí)
@@ -1911,3 +1909,29 @@ https://tv02.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93e4744d46f34100599d4d2cba884b89.webp" group-title="Geral",Canal de Produtos
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Geral",TV Cordeiro
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
+https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
+https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Geral", Rádio Clube Fm 105,5
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/822ff116ce005bc871bd5c672bde1285.webp" group-title="Geral", Rádio Tv Ximenes
+https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Geral", SUPRA FM
+https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fafd72eaa884387136b6c74668aaf50b.webp" group-title="Geral", 99 FM Patos de Minas
+https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Geral", Rádio Clube 100,5 FM
+https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f033f9c44591cfd6aedfc2853b719249.webp" group-title="Geral", Catve FM Cascavel 91.7
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Geral", Rádio Monte FM 96.7
+https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="Geral", Latina TV
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Geral", TV Montanhesa
+https://qfm.geraistec.com.br/hlsm/index.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
+https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
