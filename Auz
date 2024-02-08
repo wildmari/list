@@ -19,7 +19,7 @@ https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Geral",Vivekanal Drama
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Geral",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Geral",Chespirito TV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
