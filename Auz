@@ -5,6 +5,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Geral",Todo Novelas
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
+https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Geral",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-5.jpg" group-title="Geral",Sony Canal Novelas 2
@@ -83,8 +85,14 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Geral",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRwMqGWcDtB6IuAW5Qi12wPRR0HgKuGUKDtIPQOEg=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",BLITS TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://w7.pngwing.com/pngs/764/817/png-transparent-triangle-point-green-leaf-up-arrow-file-angle-web-design-leaf-thumbnail.png" group-title="Geral",Comédia - Funny or Die (BR)
+https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://e7.pngegg.com/pngimages/94/214/png-clipart-triangle-red-computer-icons-red-shapes-angle-triangle.png" group-title="Geral",Filmstream (BR)
+https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Geral",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Geral",Canal 10 Cancun
@@ -223,6 +231,8 @@ https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Umuarama PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Cascavel/PR ao vivo
+https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MilenioTelevision.mx" tvg-logo="https://i.imgur.com/TG1T5Oh.png" group-title="Geral",Milenio Television
 https://mdstrm.com/live-stream-playlist/610178c7db32a4112d994650.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="Geral",MKK Web TV
@@ -1794,8 +1804,6 @@ https://video05.logicahost.com.br/tvguajara/tvguajara/playlist.m3u8
 https://stmv1.samcast.com.br/radiotvcuruai/radiotvcuruai/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b788e9a872fd5fc15bd800d7a7e24d5e.webp" group-title="Geral",TV Aberta São Paulo
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRwMqGWcDtB6IuAW5Qi12wPRR0HgKuGUKDtIPQOEg=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",BLITS TV
-https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-UJlJ7Miet06VhSxuo9yBFFCYX4gO7-y7QMYnURCVTz4aYzHWEeKWjkaK01Oi95izPWK0SX6Y33LO5GvMP81s7HC9xAJvzPONfkhtk3nOqnUwC1EvaWJzdVGBk8cfJmt0Fo3tiXIEQTYUlN-xqg8dB5PJgrjm7W8q9yRIHefjwg4r3p35-nDFT3Xj/w1200-h630-p-k-no-nu/TV%20SONATA.jpg" group-title="Geral",TV Sonata (Caieiras SP)
 https://video01.kshost.com.br:4443/tiago2001/tiago2001/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://atlas-content-cdn.pixelsquid.com/stock-images/ball-green-egg-chair-Xloov9B-600.jpg" group-title="Geral",Conectv (São Paulo)
@@ -1838,8 +1846,6 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
 https://tv02.zas.media:1936/imprensa/imprensa/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bandeira_de_Guarulhos.svg/2560px-Bandeira_de_Guarulhos.svg.png" group-title="Geral",Tv GRU Web
 https://stmv7.samcast.com.br/rogerio1505/rogerio1505/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Cascavel/PR ao vivo
-https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/SF-NtFL6RsLuiGaoU5wWb-J6dcst-nJX8cnR_yN09YSuEuFn3dlCWhBrg-0JRnL8pfyO" group-title="Geral",Rádio Difusora FM 98.9 (MG)
 https://difusorafm.brasilstream.com.br/hls/difusorafm/index.m3u8
 #EXTINF:0 tvg-country="AT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/255px-Flag_of_Austria.svg.png" group-title="Geral",Câmera ao vivo em Hahnenkamm - Kitzbühel (Áustria)
@@ -1872,14 +1878,8 @@ https://airvuz-dronetv-1-br.tcl.wurl.tv/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-historytimetclus-tcl/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/HWD_logo.svg" group-title="Geral",Made in Hollywood (BR)
 https://connection3-ent-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
-https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Green_triangle.svg/2304px-Green_triangle.svg.png" group-title="Geral",Real Stories 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realstories-tcl/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://w7.pngwing.com/pngs/764/817/png-transparent-triangle-point-green-leaf-up-arrow-file-angle-web-design-leaf-thumbnail.png" group-title="Geral",Comédia - Funny or Die (BR)
-https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://e7.pngegg.com/pngimages/94/214/png-clipart-triangle-red-computer-icons-red-shapes-angle-triangle.png" group-title="Geral",Filmstream (BR)
-https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TMZ_Logo.svg" group-title="Geral",TMZ
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,TMZ.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/98de6b5d6ae0e4caa4a60be5686d23f56632a857e6315cca0cb7a6387cda51e4.png" group-title="Geral",Fox Soul
