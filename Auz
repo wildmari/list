@@ -89,10 +89,12 @@ https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://w7.pngwing.com/pngs/764/817/png-transparent-triangle-point-green-leaf-up-arrow-file-angle-web-design-leaf-thumbnail.png" group-title="Geral",Comédia - Funny or Die (BR)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn-icons-png.flaticon.com/512/2368/2368227.png" group-title="Geral",Comédia - Funny or Die (BR)
 https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://e7.pngegg.com/pngimages/94/214/png-clipart-triangle-red-computer-icons-red-shapes-angle-triangle.png" group-title="Geral",Filmstream (BR)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://s2-techtudo.glbimg.com/cEZr7x8qU-uBuk6a7pGLiMcj-a8=/0x0:695x496/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/z/8/AM4aWnQ8aBOIJHmDbgFg/2015-04-01-ha-ha-nelson-simpsons-1.jpg" group-title="Geral",Pegadinhas 24 horas - Just for Laughs Gags (MX)
+https://distributionsjustepourrire-justforlaughsgags-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Geral",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Geral",Canal 10 Cancun
@@ -333,8 +335,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://play-lh.googleusercontent.com/2Ln9ESztz_riHBtv2p314MGLDnQ8j_jmxlTYgPoB88lxebZ3IU6MH08Gb5ezZgzu7mEu" group-title="Geral",Travel XP (NZ)
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://s2-techtudo.glbimg.com/cEZr7x8qU-uBuk6a7pGLiMcj-a8=/0x0:695x496/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/z/8/AM4aWnQ8aBOIJHmDbgFg/2015-04-01-ha-ha-nelson-simpsons-1.jpg" group-title="Geral",Pegadinhas 24 horas - Just for Laughs Gags (MX)
-https://distributionsjustepourrire-justforlaughsgags-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RalyTV.mx" tvg-logo="https://i.imgur.com/W8a1dIa.png" group-title="Geral",Raly TV
 https://cloudvideo.servers10.com:8081/8072/index.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="Geral",RBATV
