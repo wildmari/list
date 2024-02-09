@@ -61,6 +61,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
@@ -116,7 +120,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95753
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1016/100/png-transparent-bugs-bunny-speedy-gonzales-tasmanian-devil-looney-tunes-marvin-the-martian-looney-tunes-logo-computer-wallpaper-bunny-thumbnail.png" group-title="Geral",[24H] Pernalonga
 http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pink-e-Cerebro 1
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pink e Cerebro 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95697
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pinky e o Cérebro 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95765
@@ -219,8 +223,6 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 #EXTINF:-1 tvg-id="IMPDTV.br" tvg-logo="https://i.imgur.com/23m7LHH.png" group-title="Geral",IMPD TV
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="CaliforniaMediosTV.mx" tvg-logo="https://i.imgur.com/IDvpRNI.png" group-title="Geral",California Medios TV
 https://s5.mexside.net:1936/medios/medios/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal10Cancun.mx" tvg-logo="https://i.imgur.com/TvTn3hO.png" group-title="Geral",Canal 10 Cancun
@@ -2075,8 +2077,6 @@ https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="Geral",RDC TV
 https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Geral",Rede Brasil de Comunicacao
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="Geral",Rede Caxias
