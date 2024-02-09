@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Geral",Telemundo
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
@@ -7,8 +9,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Geral",Todo Novelas
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
-https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Séries",Pluto TV Telenovela
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Geral",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-5.jpg" group-title="Geral",Sony Canal Novelas 2
@@ -17,6 +19,8 @@ https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
 https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/600x337.webp?type=channelTile" group-title="Geral",Sony Canal Competencias (MX)
 https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
+https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Geral",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção
@@ -195,7 +199,7 @@ https://s22.maxcast.com.br:8210/live
 https://ssl1.transmissaodigital.com:20441/stream
 #EXTINF:-1 tvg-country="BR" tvg-id="CBN_Tocantins_Palmas.br" tvg-logo="https://play-lh.googleusercontent.com/5AX2X9jUdpyF3T4Op8gV6EogBtKM6GNXp_4husIGM3_VYk_aPm66XVCsA5DaGtg0dZI" group-title="Geral",CBN Tocantins (Palmas/TO)
 https://live.ojc.com.br/e9cd_6/myStream.m3u8
-#EXTINF:-1 tvg-country="BR" tvg-id="Radio_Araguaia_Gurupi.br" tvg-logo="https://irp.cdn-website.com/f716eb66/dms3rep/multi/gurupi-flat-f58dfe80.svg" group-title="Geral",Rádio Araguaia 96,7 Gurupi
+#EXTINF:-1 tvg-country="BR" tvg-id="Radio_Araguaia_Gurupi.br" tvg-logo="https://pbs.twimg.com/profile_images/1128679649/logo_araguaia_400x400.png" group-title="Geral",Rádio Araguaia 96,7 Gurupi
 https://live.ojc.com.br/e9cd_7/myStream.m3u8
 #EXTINF:-1 tvg-id="Radio_Cidade_FM_Gurupi.br" tvg-logo="http://redecidadefm.com.br/wp-content/themes/wr_redecidadefm/recursos/img/logomarca2.png" group-title="Geral",Rádio Cidade FM 102,1 Gurupi
 https://s40.maxcast.com.br:8024/live?id=1707445214959
@@ -238,19 +242,19 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedb
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.org
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Geral",NHK G (Osaka) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Geral",NHK World Japan (720p)
+#EXTINF:0 tvg-country="JP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Geral",NHK World Japan (720p)
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" group-title="Geral",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Geral",NHK World Japan
+#EXTINF:0 tvg-country="UN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/800px-NHK_World.svg.png" group-title="Geral",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Geral",NHK World Premium (1080p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Geral",NHK Worldᴴᴰ
+#EXTINF:0 tvg-country="GB" tvg-logo="https://production.listennotes.com/podcasts/english-news-nhk-world-radio-japan-nhk-K5PNwFQx-hB-d0PK69aD58z.1400x1400.jpg" group-title="Geral",NHK Worldᴴᴰ
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Geral",NHK Wolrd Japon
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Geral",NHK Wolrd Japon
 http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Geral",NHK World (Alt)HD
+#EXTINF:0 tvg-country="JP" tvg-logo="https://mms.businesswire.com/media/20170929005029/en/614181/5/NHK_WORLD_TV_LOGO_highres.jpg" group-title="Geral",NHK World (Alt) HD
 http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index&checkedby:iptvcat.org
 #EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Geral",NHK World HD
 http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s&checkedby:iptvcat.org
