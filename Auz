@@ -29,9 +29,9 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:0,TNT NOVELAS FHD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:0,TNT NOVELAS HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -154,51 +154,50 @@ https://edgeplay.canaldelcongreso.gob.mx/live_hd1/smil:canal-hd1.smil/playlist.m
 https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="Geral",Chroma TV
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-#EXTINF:0,[24H] Alladin
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest?cb=20190829033153" group-title="Geral",[24H] Alladin
 http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTINF:0,[24H] As Meninas Super poderosas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/The_Powerpuff_Girls.jpg/220px-The_Powerpuff_Girls.jpg" group-title="Geral",[24H] As Meninas Super poderosas 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTINF:0,[24H] As Meninas Superpoderosas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/The_Powerpuff_Girls.jpg/220px-The_Powerpuff_Girls.jpg" group-title="Geral",[24H] As Meninas Superpoderosas 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTINF:0,[24H] 3 Palavrinhas
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217444360612122624/Q4cNKtue_400x400.jpg" group-title="Geral",[24H] 3 Palavrinhas
 http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTINF:0,[24H] Chapolin colorado
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Geral",[24H] Chapolin colorado
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:0,[24H] Chapolin Colorado 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Geral",[24H] Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:0,[24H] Chaves
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Geral",[24H] Chaves 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:0,[24H] Chaves Cartoon
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Geral",[24H] Chaves 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95726
-#EXTINF:0,[24H] Jack Chan
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Geral",[24H] Jackie Chan
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:0,[24H] Jaclkie Chan 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Geral",[24H] Jackie Chan 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:0,[24H] Mr.Bean
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Geral",[24H] Mr.Bean
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:0,[24H] Luluzinha
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Geral",[24H] Luluzinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:0,[24H] Pernalonga
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1016/100/png-transparent-bugs-bunny-speedy-gonzales-tasmanian-devil-looney-tunes-marvin-the-martian-looney-tunes-logo-computer-wallpaper-bunny-thumbnail.png" group-title="Geral",[24H] Pernalonga
 http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:0,[24H] Pink-e-Cerebro
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pink-e-Cerebro 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:0,[24H] Pinky e o Cérebro
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pinky e o Cérebro 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:0,[24H] Scooby-Doo
-#EXTINF:0,[24H] Todo Mundo Odeia o Chris 1
+#EXTINF:-1 tvg-logo="" group-title="Geral",[24H] Scooby-Doo
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Geral",[24H] Todo Mundo Odeia o Chris 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:0,[24H] Todo Mundo Odeia o Chris 2
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Geral",[24H] Todo Mundo Odeia o Chris 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:0,[24H] Tom & Jerry
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Geral",[24H] Tom & Jerry
 http://voz.one:80/alexfnt/vTFBGKdUYq/95704
-#EXTINF:0,[24H] MÁSKARA
+#EXTINF:-1 tvg-logo="https://cosplace.com.br/wp-content/uploads/2021/04/O-MASKARA.jpg" group-title="Geral",[24H] O MÁSKARA 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:0,[24H] O Máskara
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/77/7a/49/777a49a0f9b83150d6e1c84a795f6ad2.jpg" group-title="Geral",[24H] O MÁSKARA 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:0,[24H] Mortal Kombat
+#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/11/Mortal-Kombat-Logo.png" group-title="Geral",[24H] Mortal Kombat
 http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:0,[24H] Jaspion
+#EXTINF:-1 tvg-logo="https://acdn.mitiendanube.com/stores/003/379/723/products/phpa3ddap-fb578e3a7bd76796a416955147486519-640-0.png" group-title="Geral",[24H] Jaspion
 http://voz.one:80/alexfnt/vTFBGKdUYq/95744
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
