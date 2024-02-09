@@ -7,6 +7,8 @@ https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox Türkiye (Turquia)
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Geral",RCN TELENOVELA HD (Colômbia)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/411
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Geral",Todo Novelas
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
 #EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Séries",Pluto TV Telenovela
@@ -39,6 +41,8 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Geral",BBC Drama Spain
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
@@ -59,6 +63,48 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO USA
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218314
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ATLANTA
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218315
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO BOSTON
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218316
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO CHICAGO
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218317
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO COLORADO
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218318
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO CONNECTICUT
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218319
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO DENVER
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218320
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO LOS ANGELES
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218322
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO MIAMI
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218323
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO NEW ORLEANS
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218324
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO NEW YORK
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218325
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO OKLAHOMA
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218326
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO PHOENIX
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218327
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO PUERTO RICO
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218328
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO SAN ANTONIO
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218329
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO SAN FRANCISCO
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218330
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO TAMPA
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218331
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO TEXAS
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218332
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO WASHINGTON
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
@@ -89,6 +135,8 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+#EXTINF:-1 tvg-country="MX" tvg-logo="https://www.seriados.tv.br/wp-content/uploads/2022/04/tcm_27042022_.png" group-title="Geral",TCM (Mexico)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/181563
 #EXTINF:0 tvg-logo="https://archive.org/download/golden-tv/Golden%20Logo.png" group-title="Geral",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Geral",Pluto TV Cine Drama
@@ -207,6 +255,12 @@ https://s40.maxcast.com.br:8024/live?id=1707445214959
 https://whd1.webradios.com.br:18516/8516
 
 
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Geral",Retro Plus (Canal em Espanhol)
+https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Geral",Retro Plus 2 (Canal em Espanhol)
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Geral",Retro Plus 3 (Canal em Espanhol)
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
@@ -329,6 +383,8 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.
 http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioyTelevisionBudokan.mx" tvg-logo="https://i.imgur.com/1rfoSt8.png" group-title="Geral",Radio y Television Budokan
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg" group-title="Geral",Santa Maria Television
+https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio17440_1544635650.jpg" group-title="Geral", Band FM 99.1
 http://voz.one:80/alexfnt/vTFBGKdUYq/34013
 #EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/noticias/647226ce8d8e3.jpeg" group-title="Geral", CBN FM 100.7 (Salvador)
@@ -383,6 +439,8 @@ https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Record.br" tvg-logo="https://i.imgur.com/sz9gTTr.png" group-title="Geral",Record
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+#EXTINF:-1 tvg-country="BR" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2023/04/10113111/TV-Globo-logo.jpg" group-title="Geral",Globo
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/212194
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Geral", GLOBO SUDOESTE BAHIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
 
