@@ -49,8 +49,6 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
-https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
@@ -61,6 +59,8 @@ https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://archive.org/download/golden-tv/Golden%20Logo.png" group-title="Geral",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
 #EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Geral",Pluto TV Cine Drama
@@ -92,6 +92,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Geral",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Geral",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="Geral",TCM - TV Cabo Mossoró
@@ -116,8 +118,6 @@ https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRwMqGWcDtB6IuAW5Qi12wPRR0HgKuGUKDtIPQOEg=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",BLITS TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://cdn-icons-png.flaticon.com/512/2368/2368227.png" group-title="Geral",Comédia - Funny or Die (BR)
 https://funny-or-die-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://s2-techtudo.glbimg.com/cEZr7x8qU-uBuk6a7pGLiMcj-a8=/0x0:695x496/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/z/8/AM4aWnQ8aBOIJHmDbgFg/2015-04-01-ha-ha-nelson-simpsons-1.jpg" group-title="Geral",Pegadinhas 24 horas - Just for Laughs Gags (MX)
@@ -301,17 +301,17 @@ https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://stream.oursnetworktv.com/latin/Metropolitelevision/playlist.m3u8
 #EXTINF:-1 tvg-id="MexiquenseTV.mx" tvg-logo="https://i.imgur.com/iVfzakA.png" group-title="Geral",Mexiquense TV
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Câmera em Umuarama PR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Câmera em Umuarama/PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Câmera em Cascavel/PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral", Câmera em Goiânia (GO)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral", Câmera em Goiânia/GO
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.cestasmichelli.com.br/images/localidades/Bandeira-da-Cidade-de-Guaratuba-PR.jpg" group-title="Geral", Câmera em Guaratuba - Praia Central
+#EXTINF:0 tvg-logo="https://static.cestasmichelli.com.br/images/localidades/Bandeira-da-Cidade-de-Guaratuba-PR.jpg" group-title="Geral", Câmera em Guaratuba/PR - Praia Central
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Geral", Câmera na Ponte Internacional da Amizade
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Geral", Câmera na Ponte Internacional da Amizade - Foz/PR
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a291121d5e3b7aec1bfed26767b3f47b.webp" group-title="Geral", Câmera em Lago Negro - Gramado (Rio Grande do Sul)
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a291121d5e3b7aec1bfed26767b3f47b.webp" group-title="Geral", Câmera em Lago Negro - Gramado/RS
 https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Geral", Câmera no Pico do Gavião (Divisa de MG e SP)
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
