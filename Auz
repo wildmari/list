@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-id="SIC_Novelas.pt" tvg-logo="" group-title="Geral",SIC (Novelas)
+#EXTINF:0 tvg-id="SIC_Novelas.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -230,27 +230,27 @@ https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK 2 (Japão-Mundo)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Geral",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Education",NHK E (Tokyo) (544p)
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Geral",NHK E (Tokyo) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Osaka) (544p)
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="Geral",NHK G (Osaka) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK World Japan (720p)
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Geral",NHK World Japan (720p)
 http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" group-title="Undefined",NHK WORLD TV
+#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" group-title="Geral",NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NHK World Japan
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Geral",NHK World Japan
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium (1080p)
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="Geral",NHK World Premium (1080p)
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NHK Worldᴴᴰ
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Geral",NHK Worldᴴᴰ
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Undefined",NHK Wolrd Japon
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Geral",NHK Wolrd Japon
 http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Undefined",NHK World (Alt)HD
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Geral",NHK World (Alt)HD
 http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index&checkedby:iptvcat.org
-#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Undefined",NHK World HD
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Geral",NHK World HD
 http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s&checkedby:iptvcat.org
 #EXTINF:-1 tvg-id="LavrasCETV.br" tvg-logo="https://i.imgur.com/y0LSin2.png" group-title="Geral",Lavras CE TV
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
