@@ -43,6 +43,8 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/La-rosa-de-guadalupe.jpg" group-title="Geral",La Rosa de Guadalupe (Série Mexicana)
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Geral",BBC Drama Espanha
