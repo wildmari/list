@@ -113,6 +113,23 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218331
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218332
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO WASHINGTON
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
+
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Dramas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ytimg.com/vi/9690O85vILc/sddefault.jpg" group-title="Geral",Pluto TV Novelas Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas (480p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV novelas Thriller
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+
+
+
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
@@ -295,9 +312,9 @@ https://qfm.geraistec.com.br/hlsm/index.m3u8
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK (Japão-Mundo)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="Geral",NHK (Japão-Mundo)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK 2 (Japão-Mundo)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="Geral",NHK 2 (Japão-Mundo)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Geral",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.org
