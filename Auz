@@ -1996,7 +1996,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/660
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
 
 
-
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Geral",TV Cordeiro
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://s2.glbimg.com/A5qLVa8YlxgYfD3UE9JueMYd_Do=/smart/e.glbimg.com/og/ed/f/original/2021/09/08/stevebluesclues.jpg" group-title="Geral",As pistas de Blue
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,[24H] Ben 10
