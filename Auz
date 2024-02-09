@@ -169,7 +169,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" group-title="Geral",TV Zyn (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="" group-title="Geral",Câmera em Vila Praia de Âncora (Portugal)
+#EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="https://www.cm-caminha.pt/thumbs/cmcaminha/uploads/content_image/image/388/3m1a3375_1_1024_2500.jpg" group-title="Geral",Câmera em Vila Praia de Âncora (Portugal)
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Câmera em Umuarama/PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
