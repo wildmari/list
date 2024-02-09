@@ -59,11 +59,11 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0 tvg-id="TVI_Africa.pt" tvg-logo="" group-title="Geral",TVI África
+#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="" group-title="Geral",TVI África
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:0 tvg-id="TVI_Reality.pt" tvg-logo="" group-title="Geral",TVI Reality (Big Brother Portugal)
+#EXTINF:0 tvg-country="PT" tvg-id="TVI_Reality.pt" tvg-logo="" group-title="Geral",TVI Reality (Big Brother Portugal)
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjQgMjoxMTozNiBBTSZoYXNoX3ZhbHVlPStJVVdqQzlIYVEwVkJKUUwreUwxZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNjlmZGNhYS1kN2QxLTQ1YjQtYmY5ZS1hZDFhZmYzNGIzYWE=/
-#EXTINF:0 tvg-id="Teledifusao_Macau.pt" tvg-logo="" group-title="Geral",Teledifusão de Macau (Cidade chinesa que fala Português)
+#EXTINF:0 tvg-country="PT" tvg-id="Teledifusao_Macau.pt" tvg-logo="" group-title="Geral",Teledifusão de Macau (Cidade chinesa que fala Português)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
@@ -189,11 +189,11 @@ https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m
 
 #EXTINF:-1 tvg-id="Tocantins_FM_Gurupi.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2be186d23b3a90f9ed70997cb8602349.webp" group-title="Geral",Tocantins FM Gurupi
 https://wms5.webradios.com.br:19030/9030
-#EXTINF:-1 tvg-id="Tocantins_FM_Araguaina.br" tvg-logo="https://lh3.googleusercontent.com/proxy/wgKqsCkHcSZpuV44XwceCBNh-VGXqPM--a1P1f0Rr3tQtXR2LkSfudJh35XobF3OhmOXVMa-MJEwgarZr7m81D4YHlckuJU4NkI4wYcEsPSE4LaekD91_JwI5t1269MO4vd8mU9i" group-title="Geral",Tocantins FM Araguaína
+#EXTINF:-1 tvg-country="BR" tvg-id="Tocantins_FM_Araguaina.br" tvg-logo="https://lh3.googleusercontent.com/proxy/wgKqsCkHcSZpuV44XwceCBNh-VGXqPM--a1P1f0Rr3tQtXR2LkSfudJh35XobF3OhmOXVMa-MJEwgarZr7m81D4YHlckuJU4NkI4wYcEsPSE4LaekD91_JwI5t1269MO4vd8mU9i" group-title="Geral",Tocantins FM Araguaína
 https://s22.maxcast.com.br:8210/live
 #EXTINF:-1 tvg-id="Radio_Conexao_Palmas.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f7e6b06e7ccf6fe4a1dca45f3a7d1def.jpg" group-title="Geral",Rádio Conexão Palmas/TO 98.1
 https://ssl1.transmissaodigital.com:20441/stream
-#EXTINF:-1 tvg-id="Radio_Araguaia_Gurupi.br" tvg-logo="https://irp.cdn-website.com/f716eb66/dms3rep/multi/gurupi-flat-f58dfe80.svg" group-title="Geral",Rádio Araguaia 96,7 Gurupi
+#EXTINF:-1 tvg-country="BR" tvg-id="Radio_Araguaia_Gurupi.br" tvg-logo="https://irp.cdn-website.com/f716eb66/dms3rep/multi/gurupi-flat-f58dfe80.svg" group-title="Geral",Rádio Araguaia 96,7 Gurupi
 https://live.ojc.com.br/e9cd_7/myStream.m3u8
 #EXTINF:-1 tvg-id="Radio_Cidade_FM_Gurupi.br" tvg-logo="http://redecidadefm.com.br/wp-content/themes/wr_redecidadefm/recursos/img/logomarca2.png" group-title="Geral",Rádio Cidade FM 102,1 Gurupi
 https://s40.maxcast.com.br:8024/live?id=1707445214959
