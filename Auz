@@ -43,7 +43,7 @@ https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/d0/La-rosa-de-guadalupe.jpg" group-title="Geral",Canal ViX (Mexico)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Geral",Canal ViX (Mexico)
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
@@ -3415,8 +3415,6 @@ https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 https://video04.logicahost.com.br/deivitcoimbra/deivitcoimbra/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-logo="https://example.com/itv_geo_logo.png" group-title="Geral",iTV Geo
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="US" tvg-logo="https://s2.glbimg.com/A5qLVa8YlxgYfD3UE9JueMYd_Do=/smart/e.glbimg.com/og/ed/f/original/2021/09/08/stevebluesclues.jpg" group-title="Geral",As pistas de Blue
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
 #EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/xjTU14t.jpg" group-title="Geral",ANC Televisión (480p) [Not 24/7]
 https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8?checkedby:iptvcat.com
