@@ -453,6 +453,12 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/212194
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Logotipo_da_TV_Globo.png" group-title="Geral", GLOBO SUDOESTE BAHIA
 http://voz.one:80/alexfnt/vTFBGKdUYq/47695
 
+#EXTINF:0,GLOBO TV DIARIO FORTALEZA
+http://voz.one:80/alexfnt/vTFBGKdUYq/134002
+#EXTINF:0,GLOBO TV DIARIO HD
+http://voz.one:80/alexfnt/vTFBGKdUYq/45895
+#EXTINF:0,GLOBO TV DIARIO MOGI
+http://voz.one:80/alexfnt/vTFBGKdUYq/134003
 #EXTINF:0 tvg-logo="https://www.exorbeo.com/wp-content/uploads/2014/07/AEHD-NA-CLARO-TV-QUANDO.jpg" group-title="Geral", A&E HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/418
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png" group-title="Geral", A&E HD
@@ -1036,12 +1042,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/58813
 http://voz.one:80/alexfnt/vTFBGKdUYq/58814
 #EXTINF:0,GLOBO TV CLUBE PIAUI HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65217
-#EXTINF:0,GLOBO TV DIARIO FORTALEZA
-http://voz.one:80/alexfnt/vTFBGKdUYq/134002
-#EXTINF:0,GLOBO TV DIARIO HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/45895
-#EXTINF:0,GLOBO TV DIARIO MOGI
-http://voz.one:80/alexfnt/vTFBGKdUYq/134003
 #EXTINF:0,GLOBO TV LIBERAL BELEM
 http://voz.one:80/alexfnt/vTFBGKdUYq/65240
 #EXTINF:0,GLOBO TV MIRANTE COCAIS
@@ -1926,6 +1926,9 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/660
 http://voz.one:80/alexfnt/vTFBGKdUYq/661
 
 
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://s2.glbimg.com/A5qLVa8YlxgYfD3UE9JueMYd_Do=/smart/e.glbimg.com/og/ed/f/original/2021/09/08/stevebluesclues.jpg" group-title="Geral",As pistas de Blue
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0,[24H] Ben 10
 http://voz.one:80/alexfnt/vTFBGKdUYq/95720
 #EXTINF:0,[24H] BOB
