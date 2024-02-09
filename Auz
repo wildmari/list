@@ -73,6 +73,59 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
+https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
+#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-logo="https://i.imgur.com/Gv75u5Z.png" group-title="Geral",Televisa Chihuahua
+https://ythls.armelin.one/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
+#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="Geral",Televisa Ciudad Juarez
+https://ythls.armelin.one/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
+#EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="Geral",Televisa Del Bajio
+https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
+#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="Geral",Televisa Del Golfo
+https://ythls.armelin.one/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
+#EXTINF:-1 tvg-id="TelevisaDurango.mx" tvg-logo="https://i.ibb.co/2d7H9Nz/Channels4-profile-8.jpg" group-title="Geral",Televisa Durango
+https://ythls.armelin.one/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
+#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Geral",Televisa Estado
+https://ythls.armelin.one/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
+#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Geral",Televisa Guadalajara
+https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
+#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-logo="https://i.imgur.com/STbuBVa.png" group-title="Geral",Televisa Guerrero
+https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
+#EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-logo="https://i.imgur.com/M2O164z.png" group-title="Geral",Televisa Laguna
+https://ythls.armelin.one/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
+#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="Geral",Televisa Mexicali
+https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
+#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="Geral",Televisa Monterrey
+https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
+#EXTINF:-1 tvg-id="TelevisaMorelos.mx" tvg-logo="https://i.imgur.com/kt6mB8Y.png" group-title="Geral",Televisa Morelos
+https://ythls.armelin.one/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
+#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-logo="https://i.imgur.com/NzSN2jI.png" group-title="Geral",Televisa Noreste
+https://ythls.armelin.one/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
+#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-logo="https://i.imgur.com/MNqBa1f.png" group-title="Geral",Televisa Piedras Negras
+https://ythls.armelin.one/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
+#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Geral",Televisa Puebla
+https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
+#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-logo="https://i.imgur.com/BKK0kTl.png" group-title="Geral",Televisa Queretaro
+https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
+#EXTINF:-1 tvg-id="TelevisaQuintanaRoo.mx" tvg-logo="https://i.ibb.co/W6mQCTV/Channels4-profile-9.jpg" group-title="Geral",Televisa Quintana Roo
+https://ythls.armelin.one/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
+#EXTINF:-1 tvg-id="TelevisaSaltillo.mx" tvg-logo="https://i.ibb.co/Zhm2BDD/Vc-NGCKrw-400x400.jpg" group-title="Geral",Televisa Saltillo
+https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
+#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-logo="https://i.imgur.com/oxt91dr.jpg" group-title="Geral",Televisa San Luis Potosi
+https://ythls.armelin.one/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
+#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Geral",Televisa Sinaloa
+https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
+#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="Geral",Televisa Sonora
+https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
+#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="Geral",Televisa Veracruz
+https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
+#EXTINF:-1 tvg-id="TelevisaVictoria.mx" tvg-logo="https://i.ibb.co/tX36t1Q/Televisa-Victoria-en-vivo-Online-1.png" group-title="Geral",Televisa Victoria
+https://ythls.armelin.one/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
+#EXTINF:-1 tvg-id="TelevisaYucatan.mx" tvg-logo="https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg" group-title="Geral",Televisa Yucatan
+https://ythls.armelin.one/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
+#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Geral",Televisa Zacatecas
+https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO USA
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218314
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ATLANTA
@@ -2328,58 +2381,6 @@ https://5e50264bd6766.streamlock.net/telemarcampeche/videotelemarcampeche/playli
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleritmo.mx" tvg-logo="https://i.imgur.com/9s380Bz.png" group-title="Geral",Teleritmo
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
-https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
-#EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-logo="https://i.imgur.com/Gv75u5Z.png" group-title="Geral",Televisa Chihuahua
-https://ythls.armelin.one/channel/UCjfxDe7In59Jbfw2HmIh_Vg.m3u8
-#EXTINF:-1 tvg-id="TelevisaCiudadJuarez.mx" tvg-logo="https://i.imgur.com/KssJGJk.png" group-title="Geral",Televisa Ciudad Juarez
-https://ythls.armelin.one/channel/UCot4t8PVKz8TT5xVM8Eb00w.m3u8
-#EXTINF:-1 tvg-id="TelevisaDelBajio.mx" tvg-logo="https://i.imgur.com/YYzZdRE.png" group-title="Geral",Televisa Del Bajio
-https://ythls.armelin.one/channel/UC-uYy4_jIvDoJ4wigEv1S5A.m3u8
-#EXTINF:-1 tvg-id="TelevisaDelGolfo.mx" tvg-logo="https://i.imgur.com/4SXWCW2.png" group-title="Geral",Televisa Del Golfo
-https://ythls.armelin.one/channel/UCQ08tNTPiBn44c975S81ftg.m3u8
-#EXTINF:-1 tvg-id="TelevisaDurango.mx" tvg-logo="https://i.ibb.co/2d7H9Nz/Channels4-profile-8.jpg" group-title="Geral",Televisa Durango
-https://ythls.armelin.one/channel/UCON7DvLd5N8tXivc9WqILxQ.m3u8
-#EXTINF:-1 tvg-id="TelevisaEstado.mx" tvg-logo="https://i.imgur.com/BT2ci5E.png" group-title="Geral",Televisa Estado
-https://ythls.armelin.one/channel/UC9DH82HVSf4katwMeUpY80w.m3u8
-#EXTINF:-1 tvg-id="TelevisaGuadalajara.mx" tvg-logo="https://i.imgur.com/Ow0vROp.png" group-title="Geral",Televisa Guadalajara
-https://ythls.armelin.one/channel/UCRujF_YxVVFmTRWURQH-Cww.m3u8
-#EXTINF:-1 tvg-id="TelevisaGuerrero.mx" tvg-logo="https://i.imgur.com/STbuBVa.png" group-title="Geral",Televisa Guerrero
-https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
-#EXTINF:-1 tvg-id="TelevisaLaguna.mx" tvg-logo="https://i.imgur.com/M2O164z.png" group-title="Geral",Televisa Laguna
-https://ythls.armelin.one/channel/UC_mwCcsKDJLSWjply5s0h8w.m3u8
-#EXTINF:-1 tvg-id="TelevisaMexicali.mx" tvg-logo="https://i.imgur.com/NIEWc2s.jpg" group-title="Geral",Televisa Mexicali
-https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
-#EXTINF:-1 tvg-id="TelevisaMonterrey.mx" tvg-logo="https://i.imgur.com/zQiEsnH.png" group-title="Geral",Televisa Monterrey
-https://ythls.armelin.one/channel/UCGDJLLphnP0zQQaE3kgo5Wg.m3u8
-#EXTINF:-1 tvg-id="TelevisaMorelos.mx" tvg-logo="https://i.imgur.com/kt6mB8Y.png" group-title="Geral",Televisa Morelos
-https://ythls.armelin.one/channel/UCcC9ykApQrgl4UxbKg2U4zw.m3u8
-#EXTINF:-1 tvg-id="TelevisaNoreste.mx" tvg-logo="https://i.imgur.com/NzSN2jI.png" group-title="Geral",Televisa Noreste
-https://ythls.armelin.one/channel/UC752DYv5vPlTSMrvEjfZXcw.m3u8
-#EXTINF:-1 tvg-id="TelevisaPiedrasNegras.mx" tvg-logo="https://i.imgur.com/MNqBa1f.png" group-title="Geral",Televisa Piedras Negras
-https://ythls.armelin.one/channel/UCxK8C1E8UZ5RipNXIBYEvTA.m3u8
-#EXTINF:-1 tvg-id="TelevisaPuebla.mx" tvg-logo="https://i.imgur.com/2dqF5S8.jpg" group-title="Geral",Televisa Puebla
-https://ythls.armelin.one/channel/UC-HNztluSQSffhIWJTL-LUw.m3u8
-#EXTINF:-1 tvg-id="TelevisaQueretaro.mx" tvg-logo="https://i.imgur.com/BKK0kTl.png" group-title="Geral",Televisa Queretaro
-https://ythls.armelin.one/channel/UC9QNz6VS3gGz55dzxAQtgtA.m3u8
-#EXTINF:-1 tvg-id="TelevisaQuintanaRoo.mx" tvg-logo="https://i.ibb.co/W6mQCTV/Channels4-profile-9.jpg" group-title="Geral",Televisa Quintana Roo
-https://ythls.armelin.one/channel/UC37V2K5_sXWqOhoc5WgiXhw.m3u8
-#EXTINF:-1 tvg-id="TelevisaSaltillo.mx" tvg-logo="https://i.ibb.co/Zhm2BDD/Vc-NGCKrw-400x400.jpg" group-title="Geral",Televisa Saltillo
-https://ythls.armelin.one/channel/UCpeD73Gb4KjKUL2gyoJ4gLw.m3u8
-#EXTINF:-1 tvg-id="TelevisaSanLuisPotosi.mx" tvg-logo="https://i.imgur.com/oxt91dr.jpg" group-title="Geral",Televisa San Luis Potosi
-https://ythls.armelin.one/channel/UCaRuyaHshLdq462E9_pLzdA.m3u8
-#EXTINF:-1 tvg-id="TelevisaSinaloa.mx" tvg-logo="https://i.imgur.com/nZ9HE94.png" group-title="Geral",Televisa Sinaloa
-https://ythls.armelin.one/channel/UCtm1LvYEIQ_NrfOUVJ08YhQ.m3u8
-#EXTINF:-1 tvg-id="TelevisaSonora.mx" tvg-logo="https://i.imgur.com/dlV2qX9.png" group-title="Geral",Televisa Sonora
-https://ythls.armelin.one/channel/UCyzWMHGS7bs0sot6KZk5EZg.m3u8
-#EXTINF:-1 tvg-id="TelevisaVeracruz.mx" tvg-logo="https://i.imgur.com/7UsilfH.png" group-title="Geral",Televisa Veracruz
-https://ythls.armelin.one/channel/UC5EnLdE7ASjYzWt7wvT-QSg.m3u8
-#EXTINF:-1 tvg-id="TelevisaVictoria.mx" tvg-logo="https://i.ibb.co/tX36t1Q/Televisa-Victoria-en-vivo-Online-1.png" group-title="Geral",Televisa Victoria
-https://ythls.armelin.one/channel/UCIqGddpV4flOlK3b-hgu9pQ.m3u8
-#EXTINF:-1 tvg-id="TelevisaYucatan.mx" tvg-logo="https://i.ibb.co/sm8Wnwn/IMG-20230724-113929.jpg" group-title="Geral",Televisa Yucatan
-https://ythls.armelin.one/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
-#EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Geral",Televisa Zacatecas
-https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 #EXTINF:-1 tvg-id="TerraViva.br" tvg-logo="https://i.imgur.com/wnYsE3O.png" group-title="Geral",Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 tvg-id="TlaxcalaTV.mx" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="Geral",Tlaxcala TV
@@ -3739,8 +3740,6 @@ https://tv02.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 https://caikron.com.br:19360/floripa/canal1.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93e4744d46f34100599d4d2cba884b89.webp" group-title="Geral",Canal de Produtos
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Geral",TV Cordeiro
-https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:80,RTP Memória
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
