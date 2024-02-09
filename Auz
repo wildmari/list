@@ -25,6 +25,8 @@ https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
 https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
 https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Geral",TNT Novela (Espanhol)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Geral",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção
@@ -43,7 +45,7 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Geral",BBC Drama Spain
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Geral",BBC Drama Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -67,6 +69,8 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO USA
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218314
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ATLANTA
@@ -111,12 +115,14 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Reality.pt" tvg-logo="https://tvi.iol.pt/tvireality/img/tvireality_5.png?v2" group-title="Geral",TVI Reality (Big Brother Portugal)
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjQgMjoxMTozNiBBTSZoYXNoX3ZhbHVlPStJVVdqQzlIYVEwVkJKUUwreUwxZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNjlmZGNhYS1kN2QxLTQ1YjQtYmY5ZS1hZDFhZmYzNGIzYWE=/
 #EXTINF:0 tvg-country="PT" tvg-id="Teledifusao_Macau.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Teledifus%C3%A3o_de_Macau.png" group-title="Geral",Teledifusão de Macau (Cidade chinesa que fala Português)
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/TeleMadrid.svg/1200px-TeleMadrid.svg.png" group-title="Geral",TELEMADRID (Espanha)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219118
+#EXTINF:0 tvg-country="ES" tvg-logo="https://camaradesevilla.com/wp-content/uploads/2019/04/LOGO-SIETE.png" group-title="Geral",7 TV SEVILLA (Canal da cidade do Vovoin)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219120
 #EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
@@ -285,6 +291,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://qfm.geraistec.com.br/hlsm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK (Japão-Mundo)
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
