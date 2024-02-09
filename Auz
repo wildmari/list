@@ -59,7 +59,7 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/TVI_%C3%81frica_%282017%E2%80%932020%29.svg" group-title="Geral",TVI África
+#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Reality.pt" tvg-logo="https://tvi.iol.pt/tvireality/img/tvireality_5.png?v2" group-title="Geral",TVI Reality (Big Brother Portugal)
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjQgMjoxMTozNiBBTSZoYXNoX3ZhbHVlPStJVVdqQzlIYVEwVkJKUUwreUwxZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNjlmZGNhYS1kN2QxLTQ1YjQtYmY5ZS1hZDFhZmYzNGIzYWE=/
