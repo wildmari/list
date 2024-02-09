@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="SIC_Novelas.pt" tvg-logo="" group-title="Geral",SIC (Novelas)
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox Türkiye (Turquia)
@@ -49,10 +51,20 @@ https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0,RTP Internacional
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
 https://ott3.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9bd1d2e18c2e6c9ca027b4dc639b3b02.webp" group-title="Geral",Mega TV (Brasil)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="TVI_Africa.pt" tvg-logo="" group-title="Geral",TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0 tvg-id="TVI_Reality.pt" tvg-logo="" group-title="Geral",TVI Reality (Big Brother Portugal)
+https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjQgMjoxMTozNiBBTSZoYXNoX3ZhbHVlPStJVVdqQzlIYVEwVkJKUUwreUwxZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNjlmZGNhYS1kN2QxLTQ1YjQtYmY5ZS1hZDFhZmYzNGIzYWE=/
+#EXTINF:0 tvg-id="Teledifusao_Macau.pt" tvg-logo="" group-title="Geral",Teledifusão de Macau (Cidade chinesa que fala Português)
+https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
@@ -157,6 +169,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" group-title="Geral",TV Zyn (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:0 tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="" group-title="Geral",Câmera em Vila Praia de Âncora (Portugal)
+https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Câmera em Umuarama/PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Câmera em Cascavel/PR
@@ -171,6 +185,21 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/p
 https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Geral", Câmera no Pico do Gavião (Divisa de MG e SP)
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="Tocantins_FM_Gurupi.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2be186d23b3a90f9ed70997cb8602349.webp" group-title="Geral",Tocantins FM Gurupi
+https://wms5.webradios.com.br:19030/9030
+#EXTINF:-1 tvg-id="Tocantins_FM_Araguaina.br" tvg-logo="https://lh3.googleusercontent.com/proxy/wgKqsCkHcSZpuV44XwceCBNh-VGXqPM--a1P1f0Rr3tQtXR2LkSfudJh35XobF3OhmOXVMa-MJEwgarZr7m81D4YHlckuJU4NkI4wYcEsPSE4LaekD91_JwI5t1269MO4vd8mU9i" group-title="Geral",Tocantins FM Araguaína
+https://s22.maxcast.com.br:8210/live
+#EXTINF:-1 tvg-id="Radio_Conexao_Palmas.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/f7e6b06e7ccf6fe4a1dca45f3a7d1def.jpg" group-title="Geral",Rádio Conexão Palmas/TO 98.1
+https://ssl1.transmissaodigital.com:20441/stream
+#EXTINF:-1 tvg-id="Radio_Araguaia_Gurupi.br" tvg-logo="https://irp.cdn-website.com/f716eb66/dms3rep/multi/gurupi-flat-f58dfe80.svg" group-title="Geral",Rádio Araguaia 96,7 Gurupi
+https://live.ojc.com.br/e9cd_7/myStream.m3u8
+#EXTINF:-1 tvg-id="Radio_Cidade_FM_Gurupi.br" tvg-logo="http://redecidadefm.com.br/wp-content/themes/wr_redecidadefm/recursos/img/logomarca2.png" group-title="Geral",Rádio Cidade FM 102,1 Gurupi
+https://s40.maxcast.com.br:8024/live?id=1707445214959
+#EXTINF:-1 tvg-id="MAIS_FM_Gurupi.br" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/68803.v16.png" group-title="Geral",MAIS FM 95.9 Gurupi
+https://whd1.webradios.com.br:18516/8516
+
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
@@ -197,6 +226,32 @@ https://qfm.geraistec.com.br/hlsm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK (Japão-Mundo)
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK 2 (Japão-Mundo)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="Undefined",NHK BSP4K (1080p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="Education",NHK E (Tokyo) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="General",NHK G (Osaka) (544p)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK World Japan (720p)
+http://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="UN" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nhkworldtv.png" group-title="Undefined",NHK WORLD TV
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",NHK World Japan
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_600k.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/4ESi2La.png" group-title="News",NHK World Premium (1080p)
+https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Undefined",NHK Worldᴴᴰ
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?checkedby:iptvcat.org
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Undefined",NHK Wolrd Japon
+http://tvpremiumhd.club/lista-gratuita/221424/tv/live.php?id=nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index.m3u8&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Undefined",NHK World (Alt)HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=b-nhkwtvglobal-i.akamaihd.net/hls/live/263941-b/nhkwtvglobal/index&checkedby:iptvcat.org
+#EXTINF:0 tvg-country="" tvg-logo="https://i.imgur.com/wRYAQ24.png" group-title="Undefined",NHK World HD
+http://tvpremiumhd.club/lista-gratuita/221424/tv/iptv.php?id=nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_wa_s&checkedby:iptvcat.org
 #EXTINF:-1 tvg-id="LavrasCETV.br" tvg-logo="https://i.imgur.com/y0LSin2.png" group-title="Geral",Lavras CE TV
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 #EXTINF:-1 tvg-id="LoboTV.mx" tvg-logo="https://i.imgur.com/3fA50RJ.png" group-title="Geral",Lobo TV
@@ -810,6 +865,10 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/47699
 http://voz.one:80/alexfnt/vTFBGKdUYq/64226
 #EXTINF:0,GLOBO RIO SUL HD 
 http://voz.one:80/alexfnt/vTFBGKdUYq/64225
+#EXTINF:-1 tvg-id="RBS_Porto_Alegre.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c3/RBS_TV.png" group-title="Geral",RBS Porto Alegre
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/49
+#EXTINF:-1 tvg-id="Globo_RPC_Maringa.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/76/Logotipo_da_RPC.png" group-title="Geral",Globo RPC Maringá
+http://s1.1-cup.net:2095/solucao111hgfgh77hu78/xplus1111XXhjgyu87/45
 #EXTINF:0,GLOBO RIO SUL SD
 http://voz.one:80/alexfnt/vTFBGKdUYq/45866
 #EXTINF:0,GLOBO RJ
@@ -2020,6 +2079,12 @@ https://ythls.armelin.one/channel/UCl5JKSQsl-_WSU1rz7_BCJA.m3u8
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7a54123d9b00987656ac69debd56e6bc.webp" group-title="Geral",Galicia TV América
 https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="TV_Galicia_Cultural.es" tvg-logo="" group-title="Geral",TV Galicia Cultural
+https://cultural-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="TV_Galicia_Infantil.es" tvg-logo="" group-title="Geral",TV Galicia Infantil
+https://infantil-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 tvg-id="TV_Galicia_Musigal.es" tvg-logo="" group-title="Geral",TV Galicia Musigal
+https://musigal-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nick_logo_2009.svg/2285px-Nick_logo_2009.svg.png" group-title="Geral",Nickelodeon Bob Esponja Calça Quadrada
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="BR" tvg-logo="https://designconceitual.com.br/wp-content/uploads/2023/10/Nickelodeon-splash-Logo-antigo.jpg" group-title="Geral",Nick Clássico
@@ -3249,8 +3314,6 @@ http://212.42.111.152:8080/hls/manas.m3u8?checkedby:iptvcat.com
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/HasBahCa.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86e786b1-c536-465d-8994-5c0c3caf4439.png" group-title="Geral",Marmaris Web TV
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/nhk_brasil_logo.png" group-title="Geral",NHK Brasil
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/goiania_24h_logo.png" group-title="Geral",Goiânia 24h - Av. Jamel Cecílio
 https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://example.com/sic_tv_internacional_logo.png" group-title="Geral",SIC TV Internacional de Portugal
@@ -3587,3 +3650,19 @@ https://caikron.com.br:19360/floripa/canal1.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvproduto/_definst_/tvproduto/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Geral",TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+#EXTINF:80,RTP Memória
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
+#EXTINF:80,RTP Açores
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
+#EXTINF:0,RTP Madeira
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+#EXTINF:0,RTP África
+#EXTVLCOPT:http-user-agent=Firefox
+#EXTVLCOPT:network-caching=1000
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
