@@ -1,14 +1,16 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Geral",Telemundo
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox Türkiye (Turquia)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Geral",Novelas da Televisa
+https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox (Turquia)
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Geral",VIZION PLUS (Albania)
+https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Geral",RCN TELENOVELA HD (Colômbia)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/411
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Geral",Todo Novelas
@@ -69,10 +71,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://images.squarespace-cdn.com/content/v1/6025076ca3b6330d94de45c0/1614094797818-YPSZFT3XEE1VNPHGR8N9/Novelas.jpg" group-title="Geral",Novela Channel (França)
+https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
 https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-logo="https://i.imgur.com/Gv75u5Z.png" group-title="Geral",Televisa Chihuahua
@@ -126,6 +128,12 @@ https://ythls.armelin.one/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Geral",Televisa Zacatecas
 https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ÁREA DE LA BAHÍA
+https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
+#EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",TELEMUNDO PUERTO RICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO USA
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218314
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ATLANTA
@@ -140,10 +148,10 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218318
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218319
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO DENVER
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218320
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO LOS ANGELES
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218322
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO LOS ANGELES
+https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO MIAMI
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218323
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO NEW ORLEANS
@@ -164,6 +172,8 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218330
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218331
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO TEXAS
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218332
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO LAREDO (TEXAS)
+https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTE2NDc1MDIsImlzcyI6IldMUyIsIm1kNSI6IjQwMWRkMDY2YjUyOGEwZWIxYzcxMzMxNjBhNDgyMGE5IiwibWlkIjoiMTMzNTUxOTgifQ.piLwptYMsquOvh5kVgvpuj2wYSd6SDOblXdfIXGk7PE
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO WASHINGTON
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 
@@ -180,7 +190,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV novelas Thriller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-
 
 
 #EXTINF:0 tvg-logo="https://cdn.mitvstatic.com/channels/br_mega-tv-brazil_m.png" group-title="Geral",Mega TV (Paraguai)
