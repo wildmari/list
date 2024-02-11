@@ -222,6 +222,12 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="Geral", MODO VIAGEM FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/65334
+#EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Geral",TV Gazeta
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.fstatic.com/public/articles/files/2014/11/1a6f3a69-961e-411b-9f5e-8e0eaae059bd.jpg" group-title="Geral", Pegadinhas do Silvio Santos
+http://ddsw.xyz:80/8590438094/9912004092/968600
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Geral", SOUL CINE CLUBE (Filmes antigos)
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
@@ -270,11 +276,6 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219120
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Geral", Polishop TV
 https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.fstatic.com/public/articles/files/2014/11/1a6f3a69-961e-411b-9f5e-8e0eaae059bd.jpg" group-title="Geral", Pegadinhas do Silvio Santos
-http://ddsw.xyz:80/8590438094/9912004092/968600
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Geral", SOUL CINE CLUBE (Filmes antigos)
-https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
