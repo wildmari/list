@@ -20,6 +20,8 @@ https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKm
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima (Segunda opção)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -59,9 +61,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (outro)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (Segunda opção)
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (outro)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (Terceira opção)
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
@@ -101,6 +103,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 #EXTINF:0 tvg-country="FR" tvg-logo="https://images.squarespace-cdn.com/content/v1/6025076ca3b6330d94de45c0/1614094797818-YPSZFT3XEE1VNPHGR8N9/Novelas.jpg" group-title="Geral",Novela Channel (França)
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="Geral", Stormcast Novelas TV (França)
+https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Geral",Jeannie é um Gênio TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:0 tvg-country="BR" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2023/11/pluto-tv-como-baixar-gratuitamente-na-smart-tv-samsung.jpg" group-title="Geral",Pluto TV Retrô
