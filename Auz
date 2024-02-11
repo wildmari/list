@@ -1,11 +1,13 @@
 #EXTM3U
+#EXTINF:-1,Novelisima
+https://snippet.univtec.com/player-standalone.html?source=sFuxwI37R9KMTs-KywMcBg&live=true&cast=true&client=nov&label=undefined&mute=undefined&poster=https://novelisima-vod.akamaized.net/nov/storage/60ca705cebebff160cf692b7/61312a62581c4911063f80f0/logo1024x1024.logo@1024x1024&autoplay=false&uuid=5262cad2-334d-4f4b-b8b5-23cd4d2cdaec&mainCategory=undefined&secondCategory=undefined&ua=GTM-N5T6N4B&ga=false&preroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F43459271%2C22717607058%2Floc-desktop%2Fnovelisima%2Fvod%2Fpreroll%26description_url%3Dhttps%3A%2F%2Fnovelisima.com%26env%3Dvp%26impl%3Ds%26gdfp_req%3D1%26url%3Dhttps%3A%2F%2Fnovelisima.com%26ciu_szs%3D%26vpos%3Dpreroll%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D0
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Geral",Tlenovelas (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
