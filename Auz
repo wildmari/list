@@ -7,19 +7,19 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Terceira opção)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima (2)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Geral",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Geral", Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima 2
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Geral", SERIES CLASSIC (Faroeste)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Geral", SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",Telemundo Internacional
 http://45.5.117.182:8000/play/a0fo/index.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
@@ -39,8 +39,6 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129029
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6665910
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Geral", SIC Caras (Quarta opção)
 http://ipflix.click:80/sq1x0qr86b/7777/7487
-#EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Geral", SIC MEO
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Geral", SIC Radical
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112041
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Geral", SIC Radical (Segunda opção)
@@ -57,6 +55,8 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112028
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Geral", SIC (KIDS) Terceira opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
+#EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Geral", SIC MEO
+https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
@@ -3870,33 +3870,33 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Geral",[24H] Smallville 01
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/8/88/SV_S2.png/revision/latest?cb=20200119221339" group-title="Geral",[24H] Smallville 02
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/8/88/SV_S2.png/revision/latest?cb=20200119221339" group-title="Smallville",[24H] Smallville 02
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/befd6572c62e5e112933f407220b32e16d2ae3a872fe01239a750140e07b8afb.jpg" group-title="Geral",[24H] Smallville 03
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/befd6572c62e5e112933f407220b32e16d2ae3a872fe01239a750140e07b8afb.jpg" group-title="Smallville",[24H] Smallville 03
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272738
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/e5/02/34/e502344f6587c2b8b885cfb472ef0ac9.jpg" group-title="Geral",[24H] Smallville 04
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/e5/02/34/e502344f6587c2b8b885cfb472ef0ac9.jpg" group-title="Smallville",[24H] Smallville 04
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272739
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/99c1281817a9b6a2e781e0adb93473b79a9eb83dd3f4f8f4864488fd1752577b.jpg" group-title="Geral",[24H] Smallville 05
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/99c1281817a9b6a2e781e0adb93473b79a9eb83dd3f4f8f4864488fd1752577b.jpg" group-title="Smallville",[24H] Smallville 05
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272740
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/cb452ccfa730114781d268acb4cd1654b714d6d026c1ca3043c592c04cb69a7c.jpg" group-title="Geral",[24H] Smallville 06
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/cb452ccfa730114781d268acb4cd1654b714d6d026c1ca3043c592c04cb69a7c.jpg" group-title="Smallville",[24H] Smallville 06
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272741
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/5/50/SV_SS7.png/revision/latest?cb=20200119202734" group-title="Geral",[24H] Smallville 07
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/5/50/SV_SS7.png/revision/latest?cb=20200119202734" group-title="Smallville",[24H] Smallville 07
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272742
-#EXTINF:0 tvg-logo="https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Smallville-Season-8.jpg" group-title="Geral",[24H] Smallville 08
+#EXTINF:0 tvg-logo="https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Smallville-Season-8.jpg" group-title="Smallville",[24H] Smallville 08
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272743
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/b/bf/SV_S9.png/revision/latest?cb=20200119194423" group-title="Geral",[24H] Smallville 09
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/b/bf/SV_S9.png/revision/latest?cb=20200119194423" group-title="Smallville",[24H] Smallville 09
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272744
-#EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Geral",[24H] Smallville 10
+#EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272745
