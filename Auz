@@ -1,14 +1,26 @@
 #EXTM3U
-#EXTINF:-1,Novelisima
-https://snippet.univtec.com/player-standalone.html?source=sFuxwI37R9KMTs-KywMcBg&live=true&cast=true&client=nov&label=undefined&mute=undefined&poster=https://novelisima-vod.akamaized.net/nov/storage/60ca705cebebff160cf692b7/61312a62581c4911063f80f0/logo1024x1024.logo@1024x1024&autoplay=false&uuid=5262cad2-334d-4f4b-b8b5-23cd4d2cdaec&mainCategory=undefined&secondCategory=undefined&ua=GTM-N5T6N4B&ga=false&preroll=https%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Flive%2Fads%3Fiu%3D%2F43459271%2C22717607058%2Floc-desktop%2Fnovelisima%2Fvod%2Fpreroll%26description_url%3Dhttps%3A%2F%2Fnovelisima.com%26env%3Dvp%26impl%3Ds%26gdfp_req%3D1%26url%3Dhttps%3A%2F%2Fnovelisima.com%26ciu_szs%3D%26vpos%3Dpreroll%26output%3Dvast%26sz%3D640x480%26unviewed_position_start%3D1%26ad_rule%3D0
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Segunda opção)
+http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Terceira opção)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Geral", SERIES CLASSIC (Faroeste)
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
+https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKmgm2aHfaNyxWUSYZYENs17zDvSLC3ChQVvpb9MutSntGg-eKf_Z59BR4uctsNgOYWgV0j5Zpq8HOqVIqbqG3bRhoidHPukO3P3SCUPPDwfM3fqnzbGZGcMwpnGGhJ3Kmq7Qyk_h_9eoKYp2eZtcbBlC7fpg-eH-zuqW-H50TErMJzU4HYwUPzcrqHIVML6Zsp7__OY9iEwxivQoxyBpnKPet7hzalqmlsbvtfA53cTvMUxpKx4XOh2cs2f5qQoYpY61krm_JHcsF_NJQMfkAQrnXv15d_2Ivlm3siwlrApSSR7g9HcQlnrRVRHyHNBLdbxMgZpy0qzWjFIy_bRvHyl7uNUpO_G-w2TSg1loaOvi0l62T539A-QvMoUSQWHSsHFuwXuQslHJ66D-sUI5tzl5uL6Vfp1Fa1JDPGMmB1VXsWg5AVr9zhejB6GXXxO_K2fW3eHq-856ONe8Yu5DErmJ5rgIjLJVtHa1pE_OKcy-hCQwfl-fgzi1eYthLp2WG6UAuFAn_xHbyhznHw1n8s-HlHMYm6edj5U-zQgTO51z_-HPm-Nnh3DLhDaHmksUNBUvGm0tQVa8WayEgZ81gIUGmRb86IXYAxDi4fKkZFqEYy68q8QbIKTPZRjWKbYXyz28zrSiTBViKHKbkFVdsZvHjiB1WZYvLQE1-ClqTX3qvW_RSw5Cf6epJHrgCddrA6SNFMG47_KwVL8MkZDNaZvWesD7JKflxL5_2zjQgK0x2pgXzmmcEJ_vXuVfGethTPhRQyZ5QIXoMXgfLAKz4fjOGAVySPIXqdosEFz_-ggSy4rwBlkcmGt-X6RC6lEpC4aJx-R-6Ct2QKDjUqKJkanr-QcbkZFoQS6VsJmeu769CYrBKNlb3zU9rcDNLHBBD5B-Fd7wZRe5XZJmMZ09XAaDOXTbctQNV6Agy5dyiABKgl1cy1lYXN0LTEwjgc.ts
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Geral", TV Novelas (Brasil)
+https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Geral",Novelas da Televisa
@@ -63,6 +75,8 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Geral",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Geral",Novelas - Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
 http://voz.one:80/alexfnt/vTFBGKdUYq/487
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Geral",Canal ViX (Mexico)
@@ -199,6 +213,28 @@ https://dai2-playlistserver.aws.syncbak.com/playlist/13355198/master.m3u8?access
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO WASHINGTON
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 
+#EXTINF:0 tvg-country="BR" tvg-logo="https://telaviva.com.br/wp-content/uploads/2022/05/PR-VIAJANDOPELOBRASIL-scaled.jpg" group-title="Geral", Viajando pelo Brasil
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="Geral", MODO VIAGEM FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/65334
+
+
+#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
+https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Faroeste
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Dramas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
@@ -226,22 +262,16 @@ https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219118
 #EXTINF:0 tvg-country="ES" tvg-logo="https://camaradesevilla.com/wp-content/uploads/2019/04/LOGO-SIETE.png" group-title="Geral",7 TV SEVILLA (Canal da cidade do Vovoin)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219120
-#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
-https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Faroeste
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/polishop-logo-1.png" group-title="Geral", Polishop TV
+https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
+
+#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.fstatic.com/public/articles/files/2014/11/1a6f3a69-961e-411b-9f5e-8e0eaae059bd.jpg" group-title="Geral", Pegadinhas do Silvio Santos
+http://ddsw.xyz:80/8590438094/9912004092/968600
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Geral", SOUL CINE CLUBE (Filmes antigos)
+https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-logo="https://www.seriados.tv.br/wp-content/uploads/2022/04/tcm_27042022_.png" group-title="Geral",TCM (Mexico)
@@ -2289,8 +2319,6 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 #EXTINF:-1 tvg-id="AMXNoticias.mx" tvg-logo="https://i.imgur.com/snIU1UA.jpg" group-title="Geral",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Geral",Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="Geral",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRwMqGWcDtB6IuAW5Qi12wPRR0HgKuGUKDtIPQOEg=s900-c-k-c0x00ffffff-no-rj" group-title="Geral",BLITS TV
