@@ -9,7 +9,7 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela", Novelas da Telemundo
+#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
