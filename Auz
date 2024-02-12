@@ -3921,6 +3921,35 @@ https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 (Espanha)
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
 
+
+#EXTINF:0,DC Comics 01
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271592
+#EXTINF:0,DC Comics 02
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271593
+#EXTINF:0,Batman - Trilogia
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271594
+#EXTINF:0,Marvel 01
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271595
+#EXTINF:0,Marvel 02
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271596
+#EXTINF:0,Marvel 03
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271597
+#EXTINF:0,Marvel 04
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271598
+#EXTINF:0,X-Men 01
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271599
+#EXTINF:0,X-Men 02
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271600
+
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272745
