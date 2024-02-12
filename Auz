@@ -30,6 +30,9 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63200
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/99829
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela", SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
