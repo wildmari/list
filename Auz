@@ -1,190 +1,206 @@
 #EXTM3U
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Geral", TV Novelas (Brasil)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Novela", TV Novelas (Brasil)
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Filmes de faroeste)
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Segunda opção)
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Segunda opção)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Geral",Grjngo (Terceira opção)
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Terceira opção)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Geral",Novelas da Televisa
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Geral", Novelas da Telemundo
+#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela", Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
-#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Geral", Novelissima 2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima 2
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+#EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima (Outra opção)
+https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Geral", SÉRIES CLASSICAS
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela", SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://45.5.117.182:8000/play/a0fo/index.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
+http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
-#EXTINF:0 tvg-country="BR" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+#EXTINF:0 tvg-country="BR" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62720
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Geral",TELEMUNDO CORPUS CHRISTI
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Novela",TELEMUNDO CORPUS CHRISTI
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Novela",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas) Segunda opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Novela",SIC (Novelas) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/666299727
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional) Segunda opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661408
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Geral",SIC (Internacional) Terceira opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional) Terceira opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/666297535
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Geral", SIC Caras
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela", SIC Caras
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112039
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Geral", SIC Caras (Segunda opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela", SIC Caras (Segunda opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129029
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Geral", SIC Caras (Terceira opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela", SIC Caras (Terceira opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6665910
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Geral", SIC Caras (Quarta opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela", SIC Caras (Quarta opção)
 http://ipflix.click:80/sq1x0qr86b/7777/7487
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Geral", SIC Radical
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela", SIC Radical
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112041
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Geral", SIC Radical (Segunda opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela", SIC Radical (Segunda opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661429
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Geral", SIC Radical (Segunda opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela", SIC Radical (Segunda opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129026
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Geral", SIC Mulher
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Novela", SIC Mulher
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112040
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Geral", SIC Mulher (Segunda opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Novela", SIC Mulher (Segunda opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661427
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Geral", SIC (KIDS)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela", SIC (KIDS)
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112028
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Geral", SIC (KIDS) Segunda opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela", SIC (KIDS) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Geral", SIC (KIDS) Terceira opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela", SIC (KIDS) Terceira opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
-#EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Geral", SIC MEO
+#EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Novela", SIC MEO
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKmgm2aHfaNyxWUSYZYENs17zDvSLC3ChQVvpb9MutSntGg-eKf_Z59BR4uctsNgOYWgV0j5Zpq8HOqVIqbqG3bRhoidHPukO3P3SCUPPDwfM3fqnzbGZGcMwpnGGhJ3Kmq7Qyk_h_9eoKYp2eZtcbBlC7fpg-eH-zuqW-H50TErMJzU4HYwUPzcrqHIVML6Zsp7__OY9iEwxivQoxyBpnKPet7hzalqmlsbvtfA53cTvMUxpKx4XOh2cs2f5qQoYpY61krm_JHcsF_NJQMfkAQrnXv15d_2Ivlm3siwlrApSSR7g9HcQlnrRVRHyHNBLdbxMgZpy0qzWjFIy_bRvHyl7uNUpO_G-w2TSg1loaOvi0l62T539A-QvMoUSQWHSsHFuwXuQslHJ66D-sUI5tzl5uL6Vfp1Fa1JDPGMmB1VXsWg5AVr9zhejB6GXXxO_K2fW3eHq-856ONe8Yu5DErmJ5rgIjLJVtHa1pE_OKcy-hCQwfl-fgzi1eYthLp2WG6UAuFAn_xHbyhznHw1n8s-HlHMYm6edj5U-zQgTO51z_-HPm-Nnh3DLhDaHmksUNBUvGm0tQVa8WayEgZ81gIUGmRb86IXYAxDi4fKkZFqEYy68q8QbIKTPZRjWKbYXyz28zrSiTBViKHKbkFVdsZvHjiB1WZYvLQE1-ClqTX3qvW_RSw5Cf6epJHrgCddrA6SNFMG47_KwVL8MkZDNaZvWesD7JKflxL5_2zjQgK0x2pgXzmmcEJ_vXuVfGethTPhRQyZ5QIXoMXgfLAKz4fjOGAVySPIXqdosEFz_-ggSy4rwBlkcmGt-X6RC6lEpC4aJx-R-6Ct2QKDjUqKJkanr-QcbkZFoQS6VsJmeu769CYrBKNlb3zU9rcDNLHBBD5B-Fd7wZRe5XZJmMZ09XAaDOXTbctQNV6Agy5dyiABKgl1cy1lYXN0LTEwjgc.ts
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Geral",TLNovelas Univision (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Geral",Ottera TV (Novelas turcas)
+#EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Novela",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Geral",Fox (Turquia)
+#EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Novela",Fox (Turquia)
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Geral",VIZION PLUS (Albania)
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
-#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Geral",RCN TELENOVELA HD (Colômbia)
+#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Novela",RCN TELENOVELA HD (Colômbia)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/411
-#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Geral",RCN TELENOVELA HD (Colômbia) 
+#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Novela",RCN TELENOVELA HD (Colômbia) Segunda opção
 http://45.5.117.182:8000/play/a0gk/index.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Geral",Todo Novelas
+#EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Novela",RCN TELENOVELA HD (Colômbia) Terceira opção
+http://stream.flynetwifi.com:1935/live/mobile-066/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a49294db31ae4263e6191f5e5900e3da.webp" group-title="Novela",Todo Novelas
 https://d2t7ujjc7lurgd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-q0go87ctcenys-ssai-prd/master.m3u8
-#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Geral",Pluto TV Telenovela
+#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-chno="340" tvg-logo="https://images.pluto.tv/channels/5f914f9dccb4de0007df8bc4/colorLogoPNG.png" group-title="Novela",Pluto TV Telenovela
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Geral",Sony Canal Novelas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Novela",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Geral",Sony Canal Novelas (Segunda opção)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a3bd552eca6645942a60a053fe61fafb.webp" group-title="Novela",Sony Canal Novelas (Segunda opção)
 https://8111cdb914be41de9a96651a8a8d5a5c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Redbox_SonyCanalNovelas/playlist.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-5.jpg" group-title="Geral",Sony Canal Novelas 2
+#EXTINF:0 tvg-country="US" tvg-logo="https://ustvgo.kissreport.com/wp-content/uploads/2023/06/1-5.jpg" group-title="Novela",Sony Canal Novelas 2
 https://spt-novelas-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/image_1200x675/public/sony_canal_3channels_hp_1600x900_0.jpg?itok=fO1bcxp4" group-title="Geral",Sony One Novelas 3 (MX)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/image_1200x675/public/sony_canal_3channels_hp_1600x900_0.jpg?itok=fO1bcxp4" group-title="Novela",Sony One Novelas 3 (MX)
 https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/600x337.webp?type=channelTile" group-title="Geral",Sony Canal Competencias (MX)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://image.xumo.com/v1/channels/channel/99991762/600x337.webp?type=channelTile" group-title="Novela",Sony Canal Competencias (MX)
 https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Geral",Sony Canal Comedias
+#EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Novela",Sony Canal Comedias
 https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Geral",TNT Novela (Espanhol)
+#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Geral",TV Novelas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Novela",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Geral",TVI Ficção (Segunda opção)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção (Segunda opção)
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112033
-#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Geral",Vive Kanal D Drama
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Geral",Chespirito TV
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama (Segunda opção)
+http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (Segunda opção)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
 https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas Latin America (Terceira opção)
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Terceira opção)
 http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +1
 https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +2
 https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="Geral",Estrella Games (1080p)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="Novela",Estrella Games (1080p)
 https://estrella-games-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Geral",Estrella TV East
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV East
 https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/estrellanews_artwork_horizontal.jpg" group-title="Geral",Estrella News (1080p)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/estrellanews_artwork_horizontal.jpg" group-title="Novela",Estrella News (1080p)
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Geral",Estrella TV (1080p)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Geral",Novelas - Azteca Internacional
-https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Geral",Canal ViX (Mexico)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Novela",Canal ViX (Mexico)
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Geral",TNT NOVELAS HD
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Novela",ViX Jajaja (1080p)
+https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Novela",ViX Jajaja (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Novela",ViX Parejas (1080p)
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Novela",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT NOVELAS FHD
+http://voz.one:80/alexfnt/vTFBGKdUYq/487
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT NOVELAS HD
 http://voz.one:80/alexfnt/vTFBGKdUYq/466
-#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Geral",BBC Drama Espanha
+#EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Novela",BBC Drama Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-country="US" tvg-logo="https://play-lh.googleusercontent.com/qm5AKfgUEET9-1xw_QhrWqfLWIAGx4nj4AjpJoxrdh1vUf9plKNyE7x3KeqJiBKPPuI" group-title="Geral",Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="Geral",Novelas Inolvidables
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="Novela",Novelas Inolvidables
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="Geral",Canela Telenovelas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e504b6f1e6d30c13ae95fc2064376e26.webp" group-title="Novela",Canela Telenovelas
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 #EXTINF:0,RTP Internacional (Portugal)
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://ia800306.us.archive.org/17/items/TV-RTPI/TV-RTPI_itemimage.jpg" group-title="Geral", RTP Internacional (Portugal) Segunda opção
+#EXTINF:0 tvg-country="PT" tvg-logo="https://ia800306.us.archive.org/17/items/TV-RTPI/TV-RTPI_itemimage.jpg" group-title="Novela", RTP Internacional (Portugal) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128886
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Geral", TVI Portugal
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Novela", TVI Portugal
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661410
-#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Geral",TVI África (Portugal)
+#EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Novela",TVI África (Portugal)
 https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-#EXTINF:0 tvg-country="FR" tvg-logo="https://images.squarespace-cdn.com/content/v1/6025076ca3b6330d94de45c0/1614094797818-YPSZFT3XEE1VNPHGR8N9/Novelas.jpg" group-title="Geral",Novela Channel (França)
+#EXTINF:0 tvg-country="FR" tvg-logo="https://images.squarespace-cdn.com/content/v1/6025076ca3b6330d94de45c0/1614094797818-YPSZFT3XEE1VNPHGR8N9/Novelas.jpg" group-title="Novela",Novela Channel (França)
 https://video1.getstreamhosting.com:1936/8284/8284/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Reality.pt" tvg-logo="https://tvi.iol.pt/tvireality/img/tvireality_5.png?v2" group-title="Geral",TVI Reality (Big Brother Portugal)
 https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireality-720_passthrough/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi85LzIwMjQgMjoxMTozNiBBTSZoYXNoX3ZhbHVlPStJVVdqQzlIYVEwVkJKUUwreUwxZlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNjlmZGNhYS1kN2QxLTQ1YjQtYmY5ZS1hZDFhZmYzNGIzYWE=/
-#EXTINF:0 tvg-country="FR" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="Geral", Stormcast Novelas TV (França)
+#EXTINF:0 tvg-country="FR" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="Novela", Stormcast Novelas TV (França)
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Geral",Jeannie é um Gênio TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Novela",Jeannie é um Gênio TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:0 tvg-country="BR" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2023/11/pluto-tv-como-baixar-gratuitamente-na-smart-tv-samsung.jpg" group-title="Geral",Pluto TV Retrô
+#EXTINF:0 tvg-country="BR" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2023/11/pluto-tv-como-baixar-gratuitamente-na-smart-tv-samsung.jpg" group-title="Novela",Pluto TV Retrô
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:0 tvg-country="BR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad6b2f65262119.5aee35605a4da.png" group-title="Geral",Séries japonesas antigas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad6b2f65262119.5aee35605a4da.png" group-title="Novela",Séries japonesas antigas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 
-#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
+#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Novela",Filmes Suspense
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Novela",Filmex Clasico
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Novela",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Novela",ISTV
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Novela",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Novela",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Novela",Classique TV 2
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Faroeste
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Novela",Classique TV Faroeste
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
@@ -298,24 +314,24 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.fstatic.com/public/articles/files/2014/11/1a6f3a69-961e-411b-9f5e-8e0eaae059bd.jpg" group-title="Geral", Pegadinhas do Silvio Santos
+#EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.fstatic.com/public/articles/files/2014/11/1a6f3a69-961e-411b-9f5e-8e0eaae059bd.jpg" group-title="Novela", Pegadinhas do Silvio Santos
 http://ddsw.xyz:80/8590438094/9912004092/968600
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Geral", SOUL CINE CLUBE (Filmes antigos)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Novela", SOUL CINE CLUBE (Filmes antigos)
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Dramas
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas Dramas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Romance
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas Romance
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.ytimg.com/vi/9690O85vILc/sddefault.jpg" group-title="Geral",Pluto TV Novelas Drama
+#EXTINF:0 tvg-country="US" tvg-logo="https://i.ytimg.com/vi/9690O85vILc/sddefault.jpg" group-title="Novela",Pluto TV Novelas Drama
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas (480p)
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas (480p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV novelas Thriller
+#EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV novelas Thriller
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
 
 
@@ -334,28 +350,42 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219120
 https://livestream.zazerconer.workers.dev/channel/UCbLV6ka_ajSvNb_UvCUpl_g.m3u8
 
 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Azteca_Guate_2017.png" group-title="Novela",TV Azteca Guate
+http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/51mKHJIifNL.png" group-title="Novela",TV Azteca Noreste (Info7 Monterrey) (720p)
+https://live.info7.mx/info7/stream.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/640px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Novela",Caracol (Colômbia)
+http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Geral",ATV Turquia (Avrupa)
+https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="Novela",ATV Sur (Peru)
+https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Novela",TRT 1 (Turquia)
+https://d1u68oyra9spme.cloudfront.net/master.m3u8
+
+
 #EXTINF:-1 tvg-id="TVGrandeNatal.br" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="Geral",TV Grande Natal
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
 #EXTINF:-1 tvg-country="MX" tvg-logo="https://www.seriados.tv.br/wp-content/uploads/2022/04/tcm_27042022_.png" group-title="Geral",TCM (Mexico)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/181563
 #EXTINF:0 tvg-logo="https://archive.org/download/golden-tv/Golden%20Logo.png" group-title="Geral",Golden TV
 https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
-#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Geral",Pluto TV Cine Drama
+#EXTINF:-1 tvg-id="PlutoTVCineDrama.br" tvg-logo="https://i.imgur.com/lf5oME7.png" group-title="Novela",Pluto TV Cine Drama
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Geral",Pluto TV Cine Familia
+#EXTINF:-1 tvg-id="PlutoTVCineFamilia.br" tvg-logo="https://i.imgur.com/r9UhBfV.png" group-title="Novela",Pluto TV Cine Familia
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="Geral",Pluto TV Filmes Acao
+#EXTINF:-1 tvg-id="PlutoTVFilmesAcao.br" tvg-logo="https://i.imgur.com/HkCV9cQ.png" group-title="Novela",Pluto TV Filmes Acao
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Geral",Pluto TV Investigacao
+#EXTINF:-1 tvg-id="PlutoTVInvestigacao.br" tvg-logo="https://i.imgur.com/JlQq0YJ.png" group-title="Novela",Pluto TV Investigacao
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://estaticos-cdn.sport.es/clip/127d56b9-20e7-4d8a-9dac-003a34e566e6_alta-libre-aspect-ratio_default_0.jpg" group-title="Geral",Rakuten Family (Portugal)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://estaticos-cdn.sport.es/clip/127d56b9-20e7-4d8a-9dac-003a34e566e6_alta-libre-aspect-ratio_default_0.jpg" group-title="Novela",Rakuten Family (Portugal)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVMisterios.br" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Geral",Pluto TV Misterios
+#EXTINF:-1 tvg-id="PlutoTVMisterios.br" tvg-logo="https://i.imgur.com/gwxX1Y3.png" group-title="Novela",Pluto TV Misterios
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="PlutoTVNatureza.br" tvg-logo="https://i.imgur.com/RuyQQ6M.png" group-title="Geral",Pluto TV Natureza
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="PlutoTVRetro.br" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Geral",Pluto TV Retro
+#EXTINF:-1 tvg-id="PlutoTVRetro.br" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="Novela",Pluto TV Retro
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.br" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Geral",Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
@@ -418,7 +448,7 @@ https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="Geral",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Geral",Adesso TV
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-logo="https://i.imgur.com/KgetM8j.png" group-title="Novela",Adesso TV
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" group-title="Geral",TV Zyn (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
@@ -2551,8 +2581,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8
 https://ythls.armelin.one/channel/UC-0IsdHsbWQcZolu66jkQZQ.m3u8
 #EXTINF:-1 tvg-id="TVCandides.br" tvg-logo="https://i.imgur.com/evKq5ze.png" group-title="Geral",TV Candides
 https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Geral",TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadeCanal9.br" tvg-logo="https://i.imgur.com/3AyMeWx.png" group-title="Geral",TV Cidade Canal 9
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCidadedePetropolis.br" tvg-logo="https://i.imgur.com/xUs8gHV.png" group-title="Geral",TV Cidade de Petropolis
@@ -3213,7 +3241,7 @@ https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8?checkedby:iptvc
 https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/8ea87965-bed0-40a7-a31a-1209612ee8d8.png" group-title="Geral",TRT Türk
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Geral",TürkHaber (720p)
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/2AcRKdL.png" group-title="Novela",TürkHaber (720p)
 https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="Geral",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8?checkedby:iptvcat.com
@@ -3271,7 +3299,7 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.c
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="Geral",Rede Mais (720p)
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="Geral",Rede Meio Norte (1080p)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="Novela",Rede Meio Norte (1080p)
 http://streaming.jornalmn.com.br/live/tvmn.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Geral",STZ TV (720p)
 https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.com
@@ -3291,7 +3319,7 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8?checkedby:ipt
 https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/1XrArrG.png" group-title="Geral",TV Boqueirão (720p)
 https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Geral",TV Brasil Oeste (720p)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="Novela",TV Brasil Oeste (720p)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/5gvGC0P.png" group-title="Geral",TV CN Agitos (360p)
 https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8?checkedby:iptvcat.com
@@ -3309,7 +3337,7 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.c
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Geral",TV Cordeiro (360p)
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Geral",TV Curuçá (360p)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Geral",TV Curuça (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png" group-title="Geral",TV Difusora São Luis
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com
@@ -3452,12 +3480,6 @@ https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8?chec
 https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CL;CO;MX;PE" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Geral",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Geral",ViX Jajaja (1080p)
-https://d1406h321fcaxw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hlqsnnxad8rlq-ssai-prd/dist/samsungtv/310/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Geral",ViX Jajaja (1080p)
-https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="Geral",ViX Parejas (1080p)
-https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/HV5tgcM.png" group-title="Geral",Visión Televisión (720p)
 https://cloudvideo.servers10.com:8081/8016/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SE" tvg-logo="https://i.imgur.com/5CdW62M.png" group-title="Geral",ATG
@@ -3695,7 +3717,7 @@ https://stmv1.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 https://video02.logicahost.com.br/livretv/livretv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/6641c69b2ada1f0ce0497ab22aa9a33b.webp" group-title="Geral",TV Gazeta RN
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/17a04dd675fb19365a3641baf35ab7e8.webp" group-title="Geral",TV Sonora
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/17a04dd675fb19365a3641baf35ab7e8.webp" group-title="Novela",TV Sonora
 https://cdn.jmvstream.com/w/LVW-8600/LVW8600_dPUj47PQ9P/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3ec84ad86010f81ad4ec36ed49ce7dd1.webp" group-title="Geral",TV Erga Omnes
 https://video01.kshost.com.br:4443/erga9862/erga9862/playlist.m3u8
@@ -3729,7 +3751,7 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Geral",TV Guará (Maranhão)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Geral",Web Tv Clássicos do Cinema
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Novela",Web Tv Clássicos do Cinema
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/Logotipo_da_TV_Nativa_%28Imperatriz%29.png" group-title="Geral",Nativa Tv (Amazonas)
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
