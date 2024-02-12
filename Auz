@@ -25,7 +25,10 @@ https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKm
 rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
-
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63200
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/99829
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela", SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
@@ -263,7 +266,10 @@ https://ythls.armelin.one/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Geral",Televisa Zacatecas
 https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Telemundo_39_%282018%29.png" group-title="Geral",TELEMUNDO DALLAS
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/82750
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Telemundo_Providence_%282018%29.svg" group-title="Geral",TELEMUNDO PROVIDENCE
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114321
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ÁREA DE LA BAHÍA
 https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",TELEMUNDO PUERTO RICO
