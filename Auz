@@ -19,8 +19,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Geral", SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",Telemundo Internacional
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
 http://45.5.117.182:8000/play/a0fo/index.m3u8
+#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
+#EXTINF:0 tvg-country="BR" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62720
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Geral",TELEMUNDO CORPUS CHRISTI
+https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas)
 https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Geral",SIC (Novelas) Segunda opção
@@ -162,6 +168,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d100
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 #EXTINF:0 tvg-country="BR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad6b2f65262119.5aee35605a4da.png" group-title="Geral",Séries japonesas antigas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+
+
+#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
+https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
+https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Faroeste
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
 https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
 #EXTINF:-1 tvg-id="TelevisaChihuahua.mx" tvg-logo="https://i.imgur.com/Gv75u5Z.png" group-title="Geral",Televisa Chihuahua
@@ -215,14 +240,9 @@ https://ythls.armelin.one/channel/UCMIYaH2cLoPS8Hcb-9AA2ZA.m3u8
 #EXTINF:-1 tvg-id="TelevisaZacatecas.mx" tvg-logo="https://i.imgur.com/vkT4zq7.png" group-title="Geral",Televisa Zacatecas
 https://ythls.armelin.one/channel/UCQb3i7gu9J8A4zzQU7j6C1Q.m3u8
 
-#EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218321
-#EXTINF:0 tvg-country="BR" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO INTERNACIONAL
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62720
+
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO ÁREA DE LA BAHÍA
 https://nbculocallive.akamaized.net/hls/live/2037097/bayarea/stream3/master.m3u8
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Geral",TELEMUNDO CORPUS CHRISTI
-https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:-1 tvg-country="PR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Telemundo_Puerto_Rico.svg/1200px-Telemundo_Puerto_Rico.svg.png" group-title="Geral",TELEMUNDO PUERTO RICO
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Geral",TELEMUNDO USA
@@ -284,22 +304,6 @@ http://ddsw.xyz:80/8590438094/9912004092/968600
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="FilmesSuspense.br" tvg-logo="https://i.imgur.com/45V9MKk.png" group-title="Geral",Filmes Suspense
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-id="FilmexClasico.mx" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="Geral",Filmex Clasico
-https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Geral",Filmstream (BR)
-https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Geral",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Geral",Classique TV 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Geral",Classique TV Faroeste
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Geral",Pluto TV Novelas Dramas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
@@ -3178,8 +3182,6 @@ http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVWebCamocim.br" tvg-logo="https://i.imgur.com/dQN6xcT.png" group-title="Geral",TV Web Camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
-#EXTINF:-1 tvg-id="TVWebParana.br" tvg-logo="https://i.imgur.com/HRfKUzS.png" group-title="Geral",TV Web Parana
-https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
 #EXTINF:-1 tvg-id="TVWTJMINAS.br" tvg-logo="https://i.imgur.com/e53513E.png" group-title="Geral",TV WTJMINAS
 https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Geral",TV Zoom
@@ -3307,7 +3309,7 @@ http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8?checkedby:iptvcat.c
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/wNULjux.png" group-title="Geral",TV Cordeiro (360p)
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Geral",TV Curuça (360p)
+#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Geral",TV Curuçá (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-difusora-s-o-luis_m.png" group-title="Geral",TV Difusora São Luis
 https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?checkedby:iptvcat.com
@@ -3522,10 +3524,6 @@ http://212.42.111.152:8080/hls/manas.m3u8?checkedby:iptvcat.com
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/HasBahCa.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://wmxznm9feqh3.merlincdn.net/assets/86e786b1-c536-465d-8994-5c0c3caf4439.png" group-title="Geral",Marmaris Web TV
 https://cdn-marmariswebtv.yayin.com.tr/marmariswebtv/marmariswebtv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/goiania_24h_logo.png" group-title="Geral",Goiânia 24h - Av. Jamel Cecílio
-https://5a7d54e35f9d2.streamlock.net/flamboyant/flamboyant.stream/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://example.com/sic_tv_internacional_logo.png" group-title="Geral",SIC TV Internacional de Portugal
-https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/tv_marajoara_logo.png" group-title="Geral",TV Marajoara
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/telecine_tv_agua_boa_logo.png" group-title="Geral",Telecine TV Água Boa
@@ -3546,7 +3544,7 @@ https://tvaovivo.sites.ufsc.br/hls/1.m3u8
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/webitv_logo.png" group-title="Geral",WEBITV Ao Vivo
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/webitv_logo.png" group-title="Geral",WEBITV
 https://video04.logicahost.com.br/deivitcoimbra/deivitcoimbra/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-logo="https://example.com/itv_geo_logo.png" group-title="Geral",iTV Geo
 https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
@@ -3599,8 +3597,6 @@ https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8?checkedby:iptvcat.com
 https://cp.panelchs.com:1936/8096/8096/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/ppBdqel.png" group-title="Geral",Eduvision (1080p)
 https://stmv3.voxtvhd.com.br/conex2/conex2/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CL;CO;MX;PA;PE" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Geral",Enlace
-https://livecdn.enlace.plus/enlace/smil:enlace-fhd.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/WgnZPol.png" group-title="Geral",Eureka (1080p)
 https://play.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/022/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="https://cdn.colombia.com/canales/famili-channel-5336.jpg" group-title="Geral",Famili Channel (720p)
@@ -3870,33 +3866,33 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/8/88/SV_S2.png/revision/latest?cb=20200119221339" group-title="Smallville",[24H] Smallville 02
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/befd6572c62e5e112933f407220b32e16d2ae3a872fe01239a750140e07b8afb.jpg" group-title="Smallville",[24H] Smallville 03
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272738
-#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/e5/02/34/e502344f6587c2b8b885cfb472ef0ac9.jpg" group-title="Smallville",[24H] Smallville 04
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272739
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/99c1281817a9b6a2e781e0adb93473b79a9eb83dd3f4f8f4864488fd1752577b.jpg" group-title="Smallville",[24H] Smallville 05
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272740
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/cb452ccfa730114781d268acb4cd1654b714d6d026c1ca3043c592c04cb69a7c.jpg" group-title="Smallville",[24H] Smallville 06
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272741
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/5/50/SV_SS7.png/revision/latest?cb=20200119202734" group-title="Smallville",[24H] Smallville 07
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272742
-#EXTINF:0 tvg-logo="https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Smallville-Season-8.jpg" group-title="Smallville",[24H] Smallville 08
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272743
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/b/bf/SV_S9.png/revision/latest?cb=20200119194423" group-title="Smallville",[24H] Smallville 09
-#EXTVLCOPT:network-caching=1000
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272744
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272745
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/b/bf/SV_S9.png/revision/latest?cb=20200119194423" group-title="Smallville",[24H] Smallville 09
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272744
+#EXTINF:0 tvg-logo="https://www.comingsoon.net/wp-content/uploads/sites/3/2023/09/Smallville-Season-8.jpg" group-title="Smallville",[24H] Smallville 08
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272743
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/5/50/SV_SS7.png/revision/latest?cb=20200119202734" group-title="Smallville",[24H] Smallville 07
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272742
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/cb452ccfa730114781d268acb4cd1654b714d6d026c1ca3043c592c04cb69a7c.jpg" group-title="Smallville",[24H] Smallville 06
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272741
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/99c1281817a9b6a2e781e0adb93473b79a9eb83dd3f4f8f4864488fd1752577b.jpg" group-title="Smallville",[24H] Smallville 05
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272740
+#EXTINF:0 tvg-logo="https://i.pinimg.com/736x/e5/02/34/e502344f6587c2b8b885cfb472ef0ac9.jpg" group-title="Smallville",[24H] Smallville 04
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272739
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/befd6572c62e5e112933f407220b32e16d2ae3a872fe01239a750140e07b8afb.jpg" group-title="Smallville",[24H] Smallville 03
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272738
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/8/88/SV_S2.png/revision/latest?cb=20200119221339" group-title="Smallville",[24H] Smallville 02
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
+#EXTVLCOPT:network-caching=1000
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
