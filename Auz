@@ -380,8 +380,12 @@ http://stream.flynetwifi.com:1935/live/mobile-148/playlist.m3u8
 https://live.info7.mx/info7/stream.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/640px-Caracol_Televisi%C3%B3n_logo.svg.png" group-title="Novela",Caracol (Colômbia)
 http://stream.flynetwifi.com:1935/live/mobile-062/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Geral",ATV Turquia (Avrupa)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Novela",ATV Turquia (Avrupa)
 https://ythls.armelin.one/channel/UCUVZ7T_kwkxDOGFcDlFI-hg.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Atv_logo_2010.svg" group-title="Novela",ATV Turquia (Avrupa) Segunda opção
+https://bozztv.com/inim03/live1/atv-tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ficus.tv/uploads/posts/2022-03/show-tv.webp" group-title="Novela",SHOWMAX (Turquia)
+https://new.cache-stream.workers.dev/stream/Y3vGHFrsqrs/live.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATV_Sur_-_2018_logo_%28final%29.png/1200px-ATV_Sur_-_2018_logo_%28final%29.png" group-title="Novela",ATV Sur (Peru)
 https://d3krdjs7is1y42.cloudfront.net/ATVSur/f05b236d4a4d43b3987d6f5ed5686d6e.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/1200px-TRT_1_logo_%282021-%29.svg.png" group-title="Novela",TRT 1 (Turquia)
@@ -3938,6 +3942,16 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 (Espanha)
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Drama_MBC.png/640px-Drama_MBC.png" group-title="Novela",MBC DRAMA USA (Novelas do Oriente Médio)
+https://mbcdrama-usa-ak.akamaized.net/out/v1/876f960feec24a8aba9e9d3f9023174b/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Drama_MBC.png/640px-Drama_MBC.png" group-title="Novela",MBC DRAMA (Novelas do Oriente Médio)
+https://shls-live-ak.akamaized.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/MBC_Drama_Plus_TV_Channel_Logo.png" group-title="Novela",MBC DRAMA PLUS (Novelas do Oriente Médio)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/MBC_Iraq.svg" group-title="Novela",MBC IRAQ (Árabe)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/az/d/d7/M%C9%99d%C9%99niyy%C9%99t_TV_loqo_%282011-2019%29.jpg" group-title="Novela",Medeniyyet TV (Azerbaijão)
+http://str.yodacdn.net/medeniyyet/index.m3u8
 
 
 #EXTINF:0,DC Comics 01
