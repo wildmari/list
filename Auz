@@ -81,6 +81,10 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
 #EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Novela", SIC MEO
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagempedia/images/0/07/Woody_Woodpecker_logo.jpg/revision/latest?cb=20200420234315&path-prefix=pt-br" group-title="Geral",Pica-Pau
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
+
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Novela",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -490,6 +494,11 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/p
 https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Geral", Câmera no Pico do Gavião (Divisa de MG e SP)
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Novela",ENTRETENDO FILMES
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_Scwpb1VeWTSvu8MRr5tYWRYrX1TMmd-MRqdJBdR57dM3KgOOBZxwPEzEea6joh3pj23fT4NWk_4O2jiKiHqLsKJMKKFKHOyKC_GOv5rN-jwNlvf7-3TKypy-0s" group-title="Novela",Bora Filmes
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Tocantins_FM_Gurupi.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2be186d23b3a90f9ed70997cb8602349.webp" group-title="Geral",Tocantins FM Gurupi
