@@ -17,6 +17,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima (Outra opção)
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKmgm2aHfaNyxWUSYZYENs17zDvSLC3ChQVvpb9MutSntGg-eKf_Z59BR4uctsNgOYWgV0j5Zpq8HOqVIqbqG3bRhoidHPukO3P3SCUPPDwfM3fqnzbGZGcMwpnGGhJ3Kmq7Qyk_h_9eoKYp2eZtcbBlC7fpg-eH-zuqW-H50TErMJzU4HYwUPzcrqHIVML6Zsp7__OY9iEwxivQoxyBpnKPet7hzalqmlsbvtfA53cTvMUxpKx4XOh2cs2f5qQoYpY61krm_JHcsF_NJQMfkAQrnXv15d_2Ivlm3siwlrApSSR7g9HcQlnrRVRHyHNBLdbxMgZpy0qzWjFIy_bRvHyl7uNUpO_G-w2TSg1loaOvi0l62T539A-QvMoUSQWHSsHFuwXuQslHJ66D-sUI5tzl5uL6Vfp1Fa1JDPGMmB1VXsWg5AVr9zhejB6GXXxO_K2fW3eHq-856ONe8Yu5DErmJ5rgIjLJVtHa1pE_OKcy-hCQwfl-fgzi1eYthLp2WG6UAuFAn_xHbyhznHw1n8s-HlHMYm6edj5U-zQgTO51z_-HPm-Nnh3DLhDaHmksUNBUvGm0tQVa8WayEgZ81gIUGmRb86IXYAxDi4fKkZFqEYy68q8QbIKTPZRjWKbYXyz28zrSiTBViKHKbkFVdsZvHjiB1WZYvLQE1-ClqTX3qvW_RSw5Cf6epJHrgCddrA6SNFMG47_KwVL8MkZDNaZvWesD7JKflxL5_2zjQgK0x2pgXzmmcEJ_vXuVfGethTPhRQyZ5QIXoMXgfLAKz4fjOGAVySPIXqdosEFz_-ggSy4rwBlkcmGt-X6RC6lEpC4aJx-R-6Ct2QKDjUqKJkanr-QcbkZFoQS6VsJmeu769CYrBKNlb3zU9rcDNLHBBD5B-Fd7wZRe5XZJmMZ09XAaDOXTbctQNV6Agy5dyiABKgl1cy1lYXN0LTEwjgc.ts
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela", SÉRIES CLASSICAS
@@ -67,13 +75,6 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
 #EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Novela", SIC MEO
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKmgm2aHfaNyxWUSYZYENs17zDvSLC3ChQVvpb9MutSntGg-eKf_Z59BR4uctsNgOYWgV0j5Zpq8HOqVIqbqG3bRhoidHPukO3P3SCUPPDwfM3fqnzbGZGcMwpnGGhJ3Kmq7Qyk_h_9eoKYp2eZtcbBlC7fpg-eH-zuqW-H50TErMJzU4HYwUPzcrqHIVML6Zsp7__OY9iEwxivQoxyBpnKPet7hzalqmlsbvtfA53cTvMUxpKx4XOh2cs2f5qQoYpY61krm_JHcsF_NJQMfkAQrnXv15d_2Ivlm3siwlrApSSR7g9HcQlnrRVRHyHNBLdbxMgZpy0qzWjFIy_bRvHyl7uNUpO_G-w2TSg1loaOvi0l62T539A-QvMoUSQWHSsHFuwXuQslHJ66D-sUI5tzl5uL6Vfp1Fa1JDPGMmB1VXsWg5AVr9zhejB6GXXxO_K2fW3eHq-856ONe8Yu5DErmJ5rgIjLJVtHa1pE_OKcy-hCQwfl-fgzi1eYthLp2WG6UAuFAn_xHbyhznHw1n8s-HlHMYm6edj5U-zQgTO51z_-HPm-Nnh3DLhDaHmksUNBUvGm0tQVa8WayEgZ81gIUGmRb86IXYAxDi4fKkZFqEYy68q8QbIKTPZRjWKbYXyz28zrSiTBViKHKbkFVdsZvHjiB1WZYvLQE1-ClqTX3qvW_RSw5Cf6epJHrgCddrA6SNFMG47_KwVL8MkZDNaZvWesD7JKflxL5_2zjQgK0x2pgXzmmcEJ_vXuVfGethTPhRQyZ5QIXoMXgfLAKz4fjOGAVySPIXqdosEFz_-ggSy4rwBlkcmGt-X6RC6lEpC4aJx-R-6Ct2QKDjUqKJkanr-QcbkZFoQS6VsJmeu769CYrBKNlb3zU9rcDNLHBBD5B-Fd7wZRe5XZJmMZ09XAaDOXTbctQNV6Agy5dyiABKgl1cy1lYXN0LTEwjgc.ts
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
-
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Novela",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
@@ -117,6 +118,8 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112033
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama (Segunda opção)
 http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama (Terceira opção)
+https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
@@ -167,6 +170,12 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
 https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://ia800306.us.archive.org/17/items/TV-RTPI/TV-RTPI_itemimage.jpg" group-title="Novela", RTP Internacional (Portugal) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128886
+#EXTINF:0 tvg-logo="https://images.vix.com/prd/channel-landscape/64a5b81bd79a948e6a55e201/a10b125b062e980f9fe51e4e7b693918?tr=w-1200,h-627,f-jpeg" group-title="Novela",Novelas Vix La Rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist_1280x720.m3u8
+#EXTINF:0 tvg-logo="" group-title="Novela",Novelas en Español (Espanha)
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504" group-title="Novela",Sony Novelas (Estados Unidos)
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Novela", TVI Portugal
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661410
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Novela",TVI África (Portugal)
@@ -485,7 +494,8 @@ https://s40.maxcast.com.br:8024/live?id=1707445214959
 #EXTINF:-1 tvg-id="MAIS_FM_Gurupi.br" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/68803.v16.png" group-title="Geral",MAIS FM 95.9 Gurupi
 https://whd1.webradios.com.br:18516/8516
 
-
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Geral",Univision (México)
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Geral",Retro Plus (Canal em Espanhol)
 https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Geral",Retro Plus 2 (Canal em Espanhol)
@@ -3888,6 +3898,23 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="" group-title="Novela",Sky Novela (Estrangeiro)
+http://5.206.237.251:1288/SkyNovela
+
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title="Novela",Filmes antigos do México - Canela Clasicos
+https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
+#EXTINF:0 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2020/06/CineSurreno_295x98.png" group-title="Novela",Filmes antigos do México - Cine Sureño
+https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Novela",Filmes antigos do México - D Pelicula
+https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 tvg-logo="https://htforum.net/data/attachments/8/8861-99901a1345909c74c1459a57927cc36c.jpg" group-title="Novela",Flou canela (Mexico)
+https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="Novela",Filmes antigos da Argentina (Cine ar)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 - (Filmes Espanha)
+https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
+
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272745
