@@ -114,14 +114,12 @@ https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção (Segunda opção)
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112033
-#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
-#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama (Segunda opção)
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama 1
 http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
-#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama (Terceira opção)
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama 2
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+#EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama 2 (Segunda opção)
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
@@ -328,6 +326,10 @@ http://ddsw.xyz:80/8590438094/9912004092/968600
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.soultv.com.br/wp-content/uploads/2022/02/SOUL-TV-LOGO-metalico.png" group-title="Novela", SOUL CINE CLUBE (Filmes antigos)
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 
+#EXTINF:0 tvg-logo="https://thestreamable.com/media/pages/video-streaming/canela-tv/966b22b886-1678379940/canela-tv-banner-1536x864-crop.png" group-title="Novela",Canela TV 1 (Mexico)
+https://cnm-cn-mx-std.otteravision.com/cnm/cn_mx_std/cn_mx_std_720.m3u8
+#EXTINF:0 tvg-logo="https://thestreamable.com/media/pages/video-streaming/canela-tv/966b22b886-1678379940/canela-tv-banner-1536x864-crop.png" group-title="Novela",Canela TV 2 (Mexico)
+https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
 
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas Dramas
@@ -410,6 +412,8 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95650
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Geral",[24H] Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Geral",[24H] Chaves 1
 http://voz.one:80/alexfnt/vTFBGKdUYq/95662
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Geral",[24H] Chaves 2
@@ -3912,7 +3916,9 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="Novela",Filmes antigos da Argentina (Cine ar)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 - (Filmes Espanha)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="Geral",La 1 (Espanha)
+https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 (Espanha)
 https://di2qeq48iv8ps.cloudfront.net/La_2_ES_4.m3u8
 
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
