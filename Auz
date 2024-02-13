@@ -148,6 +148,8 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Novela",Web Tv Clássicos do Cinema
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Novela",Canal ViX (Mexico)
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Novela",ViX Jajaja (1080p)
@@ -3787,8 +3789,6 @@ https://stmv1.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/ff/Logotipo_TV_Guar%C3%A1.png" group-title="Geral",TV Guará (Maranhão)
 https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Novela",Web Tv Clássicos do Cinema
-https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/68/Logotipo_da_TV_Nativa_%28Imperatriz%29.png" group-title="Geral",Nativa Tv (Amazonas)
 https://stmv1.srvif.com/nativatv/nativatv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://linktr.ee/og/image/amazoniatveradio.jpg" group-title="Geral",Amazônia Tv e Rádio
@@ -3927,6 +3927,8 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Novela",Sky Novela (Estrangeiro)
 http://5.206.237.251:1288/SkyNovela
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png" group-title="Geral",RTVE Espanha
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title="Novela",Filmes antigos do México - Canela Clasicos
 https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
@@ -3952,7 +3954,22 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/az/d/d7/M%C9%99d%C9%99niyy%C9%99t_TV_loqo_%282011-2019%29.jpg" group-title="Novela",Medeniyyet TV (Azerbaijão)
 http://str.yodacdn.net/medeniyyet/index.m3u8
-
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_WSml0ND_SnyHCHm6K6AMgQjOdjRmGi7KRO_ENS37f3H72t7IzV9bLvfv3LBQV_8MLSVYWDDNJLmJc-AKQN8gRTncra_NSVHui7jt3qN-_6VVJrlb8vV23U569buInU" group-title="Novela",Playpoca (Séries)
+http://168.205.87.198:8555/live/1501/123456/239.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_WSml0ND_SnyHCHm6K6AMgQjOdjRmGi7KRO_ENS37f3H72t7IzV9bLvfv3LBQV_8MLSVYWDDNJLmJc-AKQN8gRTncra_NSVHui7jt3qN-_6VVJrlb8vV23U569buInU" group-title="Novela",Playpoca (Filmes)
+http://168.205.87.198:8555/live/1501/123456/238.m3u8
+#EXTINF:0 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="Novela",Urban Movies (Filmes dublados)
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 tvg-logo="https://media.themoviedb.org/t/p/w500/xxlVX0cvecHGq866XTizdn2YgYT.jpg" group-title="Novela",A Feiticeira
+https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
+#EXTINF:0 tvg-logo="https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/abc-as-panteras-jaclyn-smith-farrah-fawcett-kate-jackson.jpg" group-title="As Panteras",As Panteras
+https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
+#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
+https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/lpqkXGCdb94/maxresdefault.jpg" group-title="Novela",Mistérios Sem Solução
+https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
+#EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892761_b_v13_aa.jpg" group-title="Novela",MacGyver
+https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 
 #EXTINF:0,DC Comics 01
 #EXTVLCOPT:network-caching=1000
