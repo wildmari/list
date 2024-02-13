@@ -4029,3 +4029,5 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w447540865.m3u8
