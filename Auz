@@ -148,6 +148,10 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Novela",[24H] Mr.Bean
+http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Novela",[24H] Luluzinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95749
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Novela",Web Tv Clássicos do Cinema
 https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Novela",Canal ViX (Mexico)
@@ -441,10 +445,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95726
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Geral",[24H] Jackie Chan 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Geral",[24H] Mr.Bean
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Geral",[24H] Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1016/100/png-transparent-bugs-bunny-speedy-gonzales-tasmanian-devil-looney-tunes-marvin-the-martian-looney-tunes-logo-computer-wallpaper-bunny-thumbnail.png" group-title="Geral",[24H] Pernalonga
 http://voz.one:80/alexfnt/vTFBGKdUYq/95764
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Geral",[24H] Pink e Cerebro 1
@@ -3962,7 +3962,7 @@ http://168.205.87.198:8555/live/1501/123456/238.m3u8
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.themoviedb.org/t/p/w500/xxlVX0cvecHGq866XTizdn2YgYT.jpg" group-title="Novela",A Feiticeira
 https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
-#EXTINF:0 tvg-logo="https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/abc-as-panteras-jaclyn-smith-farrah-fawcett-kate-jackson.jpg" group-title="As Panteras",As Panteras
+#EXTINF:0 tvg-logo="https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/abc-as-panteras-jaclyn-smith-farrah-fawcett-kate-jackson.jpg" group-title="Novela",As Panteras
 https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 #EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
 https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
