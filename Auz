@@ -2431,8 +2431,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Geral",GLN TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Geral",GLN TV
+https:\\stmv1.paineltv.net\glnfilmes\glnfilmes\chunklist_w1263571980.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="Geral",TCM - TV Cabo Mossoró
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/WgXsfIa.png" group-title="Geral",TV Vale do Uruará (614p)
@@ -3931,6 +3933,16 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 http://5.206.237.251:1288/SkyNovela
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/1280px-Logo_RTVE.svg.png" group-title="Geral",RTVE Espanha
 https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:0 tvg-logo="https://steffenzuidema.com/wp-content/uploads/2022/12/14.png" group-title="Filmes",Hello.TV
+http://cdn.connectbr.com.br/Hello/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Filmes",Cine Monde
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/NarutoUzumakiTresFases.png" group-title="Filmes",Naruto (Dublado)
+https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/NarutoUzumakiTresFases.png" group-title="Filmes",Naruto Shippuden (Dublado)
+https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
+#EXTINF:0 tvg-logo="https://s2-techtudo.glbimg.com/HJVgpENnRo6_wIMIn9OKJizBX90=/0x0:1024x623/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/D/t/YgIsilSBOeWuQknt64PQ/maxresdefault-2-.jpg" group-title="Animes",Death Note (Dublado)
+https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title="Filmes",Filmes antigos do México - Canela Clasicos
 https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
@@ -3956,9 +3968,9 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/az/d/d7/M%C9%99d%C9%99niyy%C9%99t_TV_loqo_%282011-2019%29.jpg" group-title="Novela",Medeniyyet TV (Azerbaijão)
 http://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_WSml0ND_SnyHCHm6K6AMgQjOdjRmGi7KRO_ENS37f3H72t7IzV9bLvfv3LBQV_8MLSVYWDDNJLmJc-AKQN8gRTncra_NSVHui7jt3qN-_6VVJrlb8vV23U569buInU" group-title="Filmes",Playpoca (Séries)
+#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
 http://168.205.87.198:8555/live/1501/123456/239.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_WSml0ND_SnyHCHm6K6AMgQjOdjRmGi7KRO_ENS37f3H72t7IzV9bLvfv3LBQV_8MLSVYWDDNJLmJc-AKQN8gRTncra_NSVHui7jt3qN-_6VVJrlb8vV23U569buInU" group-title="Filmes",Playpoca (Filmes)
+#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
 http://168.205.87.198:8555/live/1501/123456/238.m3u8
 #EXTINF:0 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="Filmes",Urban Movies (Filmes dublados)
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
