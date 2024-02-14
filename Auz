@@ -150,6 +150,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Desenho
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Filmes",[24H] Luluzinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do Cinema
@@ -3546,7 +3548,7 @@ http://89.254.128.5:22280/nicktoons/video.m3u8?checkedby:iptvcat.com
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",Vivax
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="FIlmes",Central TV de Curitiba
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="https://galeri12.uludagsozluk.com/597/kanal-33_959925.jpg" group-title="Geral",Kanal 33 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8?checkedby:iptvcat.com
@@ -3941,7 +3943,7 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8
 https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e3/NarutoUzumakiTresFases.png" group-title="Filmes",Naruto Shippuden (Dublado)
 https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
-#EXTINF:0 tvg-logo="https://s2-techtudo.glbimg.com/HJVgpENnRo6_wIMIn9OKJizBX90=/0x0:1024x623/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/D/t/YgIsilSBOeWuQknt64PQ/maxresdefault-2-.jpg" group-title="Animes",Death Note (Dublado)
+#EXTINF:0 tvg-logo="https://s2-techtudo.glbimg.com/HJVgpENnRo6_wIMIn9OKJizBX90=/0x0:1024x623/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/D/t/YgIsilSBOeWuQknt64PQ/maxresdefault-2-.jpg" group-title="Filmes",Death Note (Dublado)
 https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/295917016b5d38eb70994d8a7b51e808.webp" group-title="Filmes",Filmes antigos do México - Canela Clasicos
