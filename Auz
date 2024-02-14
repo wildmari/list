@@ -3540,9 +3540,9 @@ https://livecdn.live247stream.com/missionasia/tv/playlist.m3u8?checkedby:iptvcat
 http://89.254.128.5:22280/nicktoons/video.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/curta_logo.png" group-title="Geral",Curta
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Geral",Vivax
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",Vivax
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Geral",Central TV de Curitiba
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="FIlmes",Central TV de Curitiba
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="https://galeri12.uludagsozluk.com/597/kanal-33_959925.jpg" group-title="Geral",Kanal 33 (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8?checkedby:iptvcat.com
