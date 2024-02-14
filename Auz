@@ -3972,6 +3972,11 @@ https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892761_b_v13_aa.jpg" group-title="Filmes",MacGyver
 https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w447540865.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrCbvy4qj6J5n2Y_S-cXO6Rs0qWOtFmCqfAIg6i_scg&s" group-title="Filmes",CMN (Rede Bem TV) Goiânia
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
 
 #EXTINF:0,DC Comics 01
 #EXTVLCOPT:network-caching=1000
@@ -4031,5 +4036,4 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w447540865.m3u8
+
