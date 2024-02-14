@@ -201,11 +201,13 @@ https://video-auth4.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 #EXTINF:0 tvg-country="FR" tvg-logo="https://www.stormcastcinema.com/images/novelas.png" group-title="Novela", Stormcast Novelas TV (França)
 https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Filmes",Jeannie é um Gênio TV
+#EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Filmes",Jeannie é um Gênio
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
+#EXTINF:0 tvg-country="BR" tvg-logo="https://arquivos.tribunadepetropolis.com.br/media/2020/04/09033724/357fbf76c2fc0ef33b4612df04d88a9e-900x694.jpg" group-title="Novela",Jeannie é um Gênio
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6079c058aa05ac0007d10054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 #EXTINF:0 tvg-country="BR" tvg-logo="https://sobresagas.com.br/wp-content/uploads/2023/11/pluto-tv-como-baixar-gratuitamente-na-smart-tv-samsung.jpg" group-title="Filmes",Pluto TV Retrô
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
-#EXTINF:0 tvg-country="BR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad6b2f65262119.5aee35605a4da.png" group-title="Filmes",Séries japonesas antigas
+#EXTINF:0 tvg-country="BR" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/ad6b2f65262119.5aee35605a4da.png" group-title="Filmes",JASPION (A SÉRIE)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?advertisingId=%7BPSID%7D&appVersion=unknown&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&us_privacy=1YNY
 
 
@@ -3967,7 +3969,7 @@ https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 #EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Filmes",Os Três Patetas
 https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
 #EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
-https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/lpqkXGCdb94/maxresdefault.jpg" group-title="Novela",Mistérios Sem Solução
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892761_b_v13_aa.jpg" group-title="Filmes",MacGyver
@@ -4006,6 +4008,15 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271599
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271600
 
+#EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6fND6pMH0l4y6jRDFwfrOA&psig=AOvVaw0u-PBEOPVtXxmxm--8yn8g&ust=1708006259237000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDU5JuBq4QDFQAAAAAdAAAAABAD" group-title="Filmes",Cine Clássicos
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+#EXTINF:0 tvg-logo="https://imagem.natelinha.uol.com.br/grande/img20120417153713.jpg" group-title="Filmes",Arnold (A série)
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+#EXTINF:0 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="Filmes",TV DO POVO
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
+https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
+
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272745
@@ -4036,4 +4047,3 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
-
