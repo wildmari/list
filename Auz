@@ -4016,6 +4016,9 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
 https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV Pop Brasil (Rio de Janeiro)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
+
 
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville 10
 #EXTVLCOPT:network-caching=1000
