@@ -3742,6 +3742,8 @@ https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8?chec
 http://45.33.63.98/hls/abdi.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="https://i.imgur.com/e6esjLZ.jpg" group-title="Geral",Tu Universo TV (720p)
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://tvonline.global/wp-content/uploads/2021/06/vintagetv.jpeg" group-title="Geral", Vintage TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 #EXTINF:0 tvg-country="CL;CO;MX;PE" tvg-logo="https://i.imgur.com/BzQphbw.png" group-title="Geral",UCL (720p)
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CL;CO;PA;PE" tvg-logo="https://i.imgur.com/JkiFoXA.png" group-title="Geral",VPItv (1080p)
@@ -3986,7 +3988,16 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.buin.cl/wp-content/uploads/2023/05/Botonera_Mesa-de-trabajo-5-copia.jpg" group-title="Filmes", Buin Somos Todos (Faroeste em Espanhol)
 https://bst.buin.cl/0.m3u8
-
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes", TV Santa
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0cd101ded366a2ed9bd43401f5b1831.webp" group-title="Geral", TV GRANDE REDE
+https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0039f261a39308b098e87f62fbc178da.webp" group-title="Filmes", VILA TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist_w493787971.m3u8
+#EXTINF:0 tvg-logo="https://hortensiasnews.com.br/wp-content/uploads/2023/03/logo-tv-gramado-net.png" group-title="Filmes", TV GRAMADO NET
+https://isaocorp.cloudecast.com/tvgramado/index.m3u8
+#EXTINF:0 tvg-logo="https://www.usatoday.com/gcdn/-mm-/fbb0fd635bac41c985b489468a420232399711df/c=46-0-546-666/local/-/media/2017/01/18/USATODAY/USATODAY/636203499834803396-emojimovie-dom-firstLook-working004-rev-rgb.jpg" group-title="Entretenimento", Poop TV (Merda TV)
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="Novela",Sky Novela (Estrangeiro)
 http://5.206.237.251:1288/SkyNovela
@@ -4175,9 +4186,6 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 14)
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
-
-#EXTINF:0 tvg-logo="https://tvonline.global/wp-content/uploads/2021/06/vintagetv.jpeg" group-title="Filmes", Vintage TV
-https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
