@@ -3627,8 +3627,6 @@ https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/chunklist_w159584
 https://tvaovivo.sites.ufsc.br/hls/1.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/ibr8_logo.png" group-title="Geral",iBR8
 https://cdn.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/webitv_logo.png" group-title="Geral",WEBITV
 https://video04.logicahost.com.br/deivitcoimbra/deivitcoimbra/playlist.m3u8
 #EXTINF:0 tvg-country="GE" tvg-logo="https://example.com/itv_geo_logo.png" group-title="Geral",iTV Geo
@@ -4110,9 +4108,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
 https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
-#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV Pop Brasil (Rio de Janeiro)
-https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
-
 
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville - Temporada 10
 #EXTVLCOPT:network-caching=1000
@@ -4186,6 +4181,24 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 14)
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/f/2/d/f2d907475ac623f6e254911cfba77b24_fgraphic.jpg" group-title="Novela", TV ARACATI (O bem amado)
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
+#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes", ARCERTE TV
+https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes", TV QUE DEMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Local", REDE QUE DEMAIS
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
+https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ofatomaringa.com/wp-content/uploads/2022/12/LOGO70.png" group-title="Geral", O Fato Maringá/Paraná
+https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
+#EXTINF:0 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3370-294x165-FFFFFF.jpg" group-title="Geral", TV BRASIL POPULAR
+https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV Pop Brasil (Rio de Janeiro)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
+
 
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
