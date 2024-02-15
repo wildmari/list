@@ -203,6 +203,8 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist_1280x720.m3
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504" group-title="Novela",Sony Novelas (Estados Unidos)
 https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ef/Sony_Telenovelas.svg/revision/latest/scale-to-width-down/280?cb=20220403004504" group-title="Novela",Sony Novelas (Segunda opção)
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Novela", TVI Portugal
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661410
 #EXTINF:0 tvg-country="PT" tvg-id="TVI_Africa.pt" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/c7585a7826b90bc38ac664cb10be0a4f.webp" group-title="Novela",TVI África (Portugal)
@@ -3976,6 +3978,14 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219899.m3u8
 #EXTINF:0,[24H] Dragon Ball Z 2
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219900.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Three_Stooges_1937.jpg/250px-Three_Stooges_1937.jpg" group-title="Filmes", Os Três Patetas (Los Tres Chiflados)
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/06blQk_MW8hp4sQEfxlkxrm3Vlnyj0Wg6Diu_CdLui3wW8Pk9SXFaScG-ErDuKzYQes" group-title="Filmes", STV El Canal Familiar
+http://tiquiciatv.com:1935/stv/web/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.caracolatv.cl/wp-content/uploads/2022/11/LOGO-CARACOLA-05.png" group-title="Filmes", Caracola TV (Colômbia)
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://www.buin.cl/wp-content/uploads/2023/05/Botonera_Mesa-de-trabajo-5-copia.jpg" group-title="Filmes", Buin Somos Todos (Faroeste em Espanhol)
+https://bst.buin.cl/0.m3u8
 
 
 #EXTINF:0 tvg-logo="" group-title="Novela",Sky Novela (Estrangeiro)
@@ -4074,9 +4084,13 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271599
 #EXTINF:0,X-Men 02
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271600
+#EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes", Mi Televisión Classica (Faroeste)
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6fND6pMH0l4y6jRDFwfrOA&psig=AOvVaw0u-PBEOPVtXxmxm--8yn8g&ust=1708006259237000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDU5JuBq4QDFQAAAAAdAAAAABAD" group-title="Filmes",Cine Clássicos
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+#EXTINF:0 tvg-logo="https://lumine.tv/blog/wp-content/uploads/2023/06/FILMES-CLASSICOS-ESSENCIAIS-CHARLIE-CHAPLIN-LUZES-DA-CIDADE-LUMINE-TV-768x432.jpg" group-title="Filmes",Cine Clássico
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=6026fca0-c970-11eb-8484-c3c002d1fa3f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2d0e47f8-f10a-4450-8221-6f3976c9f746&userId=&serverSideAds=true
 #EXTINF:0 tvg-logo="https://imagem.natelinha.uol.com.br/grande/img20120417153713.jpg" group-title="Filmes",Arnold (A série)
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 #EXTINF:0 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="Filmes",TV DO POVO
