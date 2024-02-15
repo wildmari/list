@@ -148,10 +148,21 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes", Mr.Bean Clássico (Vídeo com todos os Episódios)
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico
 http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Desenho
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico (Segunda opção)
+https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
+http://offshore.lat:25461/eusmiarea@/12q12@@wpo/208602
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Quarta opção)
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Filmes",[24H] Luluzinha
 http://voz.one:80/alexfnt/vTFBGKdUYq/95749
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do Cinema
@@ -353,6 +364,10 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8
 https://cnm-cn-mx-std.otteravision.com/cnm/cn_mx_std/cn_mx_std_720.m3u8
 #EXTINF:0 tvg-logo="https://thestreamable.com/media/pages/video-streaming/canela-tv/966b22b886-1678379940/canela-tv-banner-1536x864-crop.png" group-title="Novela",Canela TV 2 (Mexico)
 https://d2134rcnlqol6j.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-b6l452oz4jqa1-ssai-prd/ctsa.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Novela",Kanal D
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Novela",Kanal D (Segunda opção)
+http://stream.tvcdn.net/ulusal/kanal-d.m3u8
 
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://www.digitaltveurope.com/files/2019/04/Screen-Shot-2019-04-11-at-13.21.19.png" group-title="Novela",Pluto TV Novelas Dramas
@@ -596,8 +611,10 @@ https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="MariaVision.mx" tvg-logo="https://i.imgur.com/GylOPxE.png" group-title="Geral",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/master.m3u8
-#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Geral",Master Show TV
+#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Novela",Master Show TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-logo="https://i.imgur.com/haXHFCT.png" group-title="Novela",Master Show TV (Segunda opção)
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
 #EXTINF:-1 tvg-id="MeganoticiasMX.mx" tvg-logo="https://i.imgur.com/kARz7SR.png" group-title="Geral",Meganoticias MX
 https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MetropoliTelevision.mx" tvg-logo="https://i.imgur.com/ajMAneN.jpg" group-title="Geral",Metropoli Television
@@ -3556,10 +3573,10 @@ http://stream.taksimbilisim.com:1935/kanal33/bant1/playlist.m3u8?checkedby:iptvc
 http://stream.taksimbilisim.com:1935/kanal33/smil:kanal33.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/5y7K9SS.png" group-title="Geral",Kanal 68 (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanal68/kanal68/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/pxpLpnH.png" group-title="Geral",Kanal 7 (576p) [Not 24/7]
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/pxpLpnH.png" group-title="Novela",Kanal 7 (576p) [Not 24/7]
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Geral",Kanal D (1080p)
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/pxpLpnH.png" group-title="Novela",Kanal 7 (Segunda opção)
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/3o8Rokp.png" group-title="Geral",Kanal Firat (720p) [Not 24/7]
 https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://i.imgur.com/DN6gdg2.png" group-title="Geral",Kanal S (720p)
@@ -3930,6 +3947,34 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Firefox
 #EXTVLCOPT:network-caching=1000
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:31,[24H] Dragon Ball [Filmes 1]
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219901.m3u8
+#EXTINF:62,[24H] Dragon Ball 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219893.m3u8
+#EXTINF:0,[24H] Dragon Ball 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219894.m3u8
+#EXTINF:0,[24H] Dragon Ball Heroes
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219895.m3u8
+#EXTINF:0,[24H] Dragon Ball Super 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219896.m3u8
+#EXTINF:0,[24H] Dragon Ball Super 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219897.m3u8
+#EXTINF:0,[24H] Dragon Ball Super 3
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219898.m3u8
+#EXTINF:0,[24H] Dragon Ball Z 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219899.m3u8
+#EXTINF:0,[24H] Dragon Ball Z 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219900.m3u8
+
 
 #EXTINF:0 tvg-logo="" group-title="Novela",Sky Novela (Estrangeiro)
 http://5.206.237.251:1288/SkyNovela
@@ -3992,7 +4037,10 @@ https://r.mjh.nz/PlutoTV/63eb95baa99571000898a078-alt.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist_w447540865.m3u8
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcrCbvy4qj6J5n2Y_S-cXO6Rs0qWOtFmCqfAIg6i_scg&s" group-title="Filmes",CMN (Rede Bem TV) Goiânia
 https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/862d5e4006babe84b0e5fb8cff6b46b7.webp" group-title="Novelas",TV8 (Turquia) Novelas
+http://stream.tvcdn.net/ulusal/tv8.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/800px-StarTV.svg.png" group-title="Novelas",Star TV (Turquia) Novelas
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
 #EXTINF:0,DC Comics 01
 #EXTVLCOPT:network-caching=1000
@@ -4064,3 +4112,9 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
+#EXTINF:0,[24H] Luluzinha 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
+#EXTINF:0,[24H] Luluzinha 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
