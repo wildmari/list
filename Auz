@@ -3748,6 +3748,8 @@ https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61da
 https://video.ejeserver.com/live/veotv.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="CO" tvg-logo="https://pbs.twimg.com/profile_images/1368732336691572740/4L5X_NhH_400x400.jpg" group-title="Geral",Valle del Cauca (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ba2c6be5bc77ca3a5172934ed3a38b03.webp" group-title="Novela",TELEUNIVERSO (República Dominicana)
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 #EXTINF:0 tvg-country="CO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/152804c64f8592569c4c211e6f3011a3.webp" group-title="Geral",Vida Nueva TV (480p) [Not 24/7]
 https://eu1.servers10.com:8081/vidanuevatv/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEl_M0QZ-_pc4UwgdB0PzDdE6DNx5Fi0BJ1aXa0U4IpxqDvOhxGJzyRpLZKtd3u5_khk2mZUUZOFn1udHSSIU41hMpNFwnoScN36hZ_fM1VKcdpX7nE3ApvIIbqlRly7bTOw5JLvAT2YBACzpJ7H1RHxlD9VY-SrbpDmQUGiJRFJtzPtgqvYaVIgSQ/w1200-h630-p-k-no-nu/WORDING%20TV.jpg" group-title="Geral",Wording TV Ao Vivo (Paraíso do Tocantins)
