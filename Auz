@@ -4041,8 +4041,10 @@ https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
 #EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Filmes",Os Três Patetas
 https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
-#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
+#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Filmes",Os Três Patetas
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
+#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/lpqkXGCdb94/maxresdefault.jpg" group-title="Novela",Mistérios Sem Solução
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892761_b_v13_aa.jpg" group-title="Filmes",MacGyver
@@ -4173,6 +4175,9 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 14)
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
+
+#EXTINF:0 tvg-logo="https://tvonline.global/wp-content/uploads/2021/06/vintagetv.jpeg" group-title="Filmes", Vintage TV
+https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist_w977108420.m3u8
 
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
