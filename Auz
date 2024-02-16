@@ -551,6 +551,8 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Filmes",Retro Plus 3 (Canal em Espanhol)
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:0 tvg-logo="https://jkfm.com.br/images/logo/blue-jk-logo.png" group-title="Geral", JK FM 102.7 (Brasília)
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
@@ -4199,6 +4201,11 @@ https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV Pop Brasil (Rio de Janeiro)
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
 
+#EXTINF:0 tvg-logo="https://static.timesofisrael.com/www/uploads/2016/05/%D7%90%D7%9D%D7%A6.jpg" group-title="Filmes", TOM E JERRY
+http://ddsw.xyz:80/8590438094/9912004092/968556
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
+http://ddsw.xyz:80/8590438094/9912004092/968514
 
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
