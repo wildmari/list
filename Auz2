@@ -22,24 +22,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/290684.m3u8
 #EXTINF:0,AGROMAIS SD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/617542.m3u8
-#EXTINF:0,Alexandre Pires [Live do Nego Véio]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220068.m3u8
-#EXTINF:0,Alexandre Pires e Seu Jorge [Live Irmãos]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220067.m3u8
-#EXTINF:0,AMAZON PRIME JOGO 1
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/610282.m3u8
-#EXTINF:0,AMAZON PRIME JOGO 2
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/288682.m3u8
-#EXTINF:0,AMAZON PRIME JOGO 3
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/288683.m3u8
-#EXTINF:0,AMAZON PRIME JOGO 4
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/288684.m3u8
 #EXTINF:0,AMC FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/107816.m3u8
@@ -115,9 +97,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/617885.m3u8
 #EXTINF:0,AXN SD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/617548.m3u8
-#EXTINF:0,B&M + Wesley Safadão [Live 19-09-2020]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220069.m3u8
 #EXTINF:0,BABY TV FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/1159606.m3u8
@@ -220,18 +199,9 @@ http://cs21.xyz:80/live/2545965177/0589983587/126738.m3u8
 #EXTINF:0,BAND TV GOIANIA HD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/276384.m3u8
-#EXTINF:0,Batman - Trilogia
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220119.m3u8
 #EXTINF:0,BBB 24 [CAM 1]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219830.m3u8
-#EXTINF:0,BBB 24 [CAM 10]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219839.m3u8
-#EXTINF:0,BBB 24 [CAM 11]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219840.m3u8
 #EXTINF:0,BBB 24 [CAM 2]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219831.m3u8
@@ -256,15 +226,18 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219837.m3u8
 #EXTINF:0,BBB 24 [CAM 9]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219838.m3u8
+#EXTINF:0,BBB 24 [CAM 10]
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219839.m3u8
+#EXTINF:0,BBB 24 [CAM 11]
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219840.m3u8
 #EXTINF:0,BBB 24 [MESACAST]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219829.m3u8
 #EXTINF:0,BBB 24 [MOSAICO]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219841.m3u8
-#EXTINF:0,Bebo e Choro]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220091.m3u8
 #EXTINF:0,BIS FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/107849.m3u8
@@ -1723,18 +1696,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/127037.m3u8
 #EXTINF:0,JOVEM PAN NEWS SD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/617675.m3u8
-#EXTINF:0,Leonardo e Bruno e Marrone]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220074.m3u8
-#EXTINF:0,Leonardo e Eduardo Costa [Cabaré]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220088.m3u8
-#EXTINF:0,Leonardo e Luiza e Maurílio [Aqui em Uberlândia]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220089.m3u8
-#EXTINF:0,Leonardo e Zé Felipe [Pai e Filho]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220090.m3u8
 #EXTINF:0,LIFETIME FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/108146.m3u8
@@ -1765,51 +1726,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/456905.m3u8
 #EXTINF:0,LOVE NATURE HD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/276459.m3u8
-#EXTINF:0,Maiara e Maraisa [Aqui em Casa 1]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220092.m3u8
-#EXTINF:0,Maiara e Maraisa [Aqui em Casa 2]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220093.m3u8
-#EXTINF:0,Maiara e Maraisa [Aqui na Fazenda]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220094.m3u8
-#EXTINF:0,Maiara e Maraisa [Drive-In Na Terra]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220095.m3u8
-#EXTINF:0,Maiara e Maraisa [Fun Live]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220096.m3u8
-#EXTINF:0,Maiara e Maraisa [Workshow]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220097.m3u8
-#EXTINF:0,Marilia Mendonça [Lado B]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220098.m3u8
-#EXTINF:0,Marilia Mendonça [Live Local]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220099.m3u8
-#EXTINF:0,Marilia Mendonça [Todos os Cantos]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220100.m3u8
-#EXTINF:0,Marilia Mendonça [Workshow]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220101.m3u8
-#EXTINF:0,Marvel 01
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220130.m3u8
-#EXTINF:0,Marvel 02
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220131.m3u8
-#EXTINF:0,Marvel 03
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220132.m3u8
-#EXTINF:0,Marvel 04
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220133.m3u8
-#EXTINF:0,Maze Runner - Trilogia
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220134.m3u8
 #EXTINF:0,Megapix 4K
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/281046.m3u8
@@ -2140,9 +2056,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/617736.m3u8
 #EXTINF:0,REDETV 4K
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/281055.m3u8
-#EXTINF:0,Retrô Cartoon
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/169351.m3u8
 #EXTINF:0,RIT TV HD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/108243.m3u8
@@ -2560,12 +2473,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/276399.m3u8
 #EXTINF:0,TRAVEL BOX BRASIL HD [ALT]
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/618013.m3u8
-#EXTINF:0,Trio Parada Dura [A Última Live - Especial Parrerito]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220112.m3u8
-#EXTINF:0,Trio Parada Dura e Cesar Menotti [Na Fazenda do Ratinho]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220111.m3u8
 #EXTINF:0,TRUTV FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/276707.m3u8
@@ -2692,9 +2599,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/617971.m3u8
 #EXTINF:0,WARNER CHANNEL SD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/617791.m3u8
-#EXTINF:0,Wesley Safadão e Raça Negra [Skol Sunset]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220114.m3u8
 #EXTINF:0,WOOHOO FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/108376.m3u8
