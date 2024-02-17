@@ -431,8 +431,6 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95650
 http://voz.one:80/alexfnt/vTFBGKdUYq/95725
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Filmes",[24H] Chapolin Colorado 2
 http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Filmes",[24H] Jackie Chan
 http://voz.one:80/alexfnt/vTFBGKdUYq/95743
@@ -4158,8 +4156,7 @@ http://voz.one:80/alexfnt/vTFBGKdUYq/95753
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico (Segunda opção)
 https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes", Coragem, o Cão Covarde
-http://cs21.xyz:80/live/2545965177/0589983587/2219876.m3u8
+
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/qP_bPZ__-EM/maxresdefault.jpg" group-title="Filmes", Galo e Pata
 http://cs21.xyz:80/live/2545965177/0589983587/2219908.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/82/Pantera_Cor_de_Rosa.png" group-title="Filmes", A pantera cor-de-rosa
@@ -4168,6 +4165,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219985.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219986.m3u8'
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Filmes", TV RATIMBUM HD
 http://cs21.xyz:80/live/2545965177/0589983587/108360.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes", Coragem, o Cão Covarde
+http://cs21.xyz:80/live/2545965177/0589983587/2219876.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes", Coragem, o Cão Covarde (Segunda opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2219877.m3u8
 #EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca
@@ -4175,9 +4174,9 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219879.m3u8
 #EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca (Segunda opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2219880.m3u8
 #EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca (Terceira opção)
-http://cs21.xyz:80/live/2545965177/0589983587/2219881.m3u8
-#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca (Quarta opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2219878.m3u8
+#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca (Nova animação)
+http://cs21.xyz:80/live/2545965177/0589983587/2219881.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/f/2/d/f2d907475ac623f6e254911cfba77b24_fgraphic.jpg" group-title="Filmes", TV ARACATI (O bem amado)
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
@@ -4231,9 +4230,7 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTINF:0,[24H] Luluzinha 2
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95662
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95726
+#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Novela",Chespirito TV
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
