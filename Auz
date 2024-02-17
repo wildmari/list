@@ -522,31 +522,31 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/466deabbd42d619f75a9134701c3e39b.webp" group-title="Filmes",Retro Plus 3 (Canal em Espanhol)
 https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:0 tvg-logo="https://jkfm.com.br/images/logo/blue-jk-logo.png" group-title="Geral", JK FM 102.7 (Brasília)
+#EXTINF:0 tvg-logo="https://jkfm.com.br/images/logo/blue-jk-logo.png" group-title="Rádio", JK FM 102.7 (Brasília)
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Geral",106 Sertaneja
+#EXTINF:0 tvg-country="BR" tvg-logo="https://assets.clubefm.com.br/uploads/site/logo/2/106-sertaneja-4fff3e1f118ab621432fa4d74136e042e86b6eedbabf561ded0dfd61123d980e.png" group-title="Rádio",106 Sertaneja
 https://live.cdn.upx.com/2384/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Geral",Rádio D2
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/HpwA7mPQgXshTtFeu1vMQQcdrVOZSjKDdYEoAHfa16qSv79ND81rVwLjIVxAH15DaQ" group-title="Rádio",Rádio D2 95,3 (Santa Rita do Sapucaí/MG)
 https://serv3.videovox.pw/ibraim3622/ibraim3622/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Geral", Rádio Clube Fm 105,5
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/272cf3e763cadea0a4dc12297aef8f76.webp" group-title="Rádio", Rádio Clube Fm 105,5
 https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/822ff116ce005bc871bd5c672bde1285.webp" group-title="Geral", Rádio Tv Ximenes
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/822ff116ce005bc871bd5c672bde1285.webp" group-title="Rádio", Rádio Tv Ximenes
 https://stmv2.samcast.com.br/radiotvximenesfm/radiotvximenesfm/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Geral", SUPRA FM
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4c5b6bfa30d2a85b0332b4f2d12dc72c.webp" group-title="Rádio", SUPRA FM
 https://live.cdn.upx.com/00079/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fafd72eaa884387136b6c74668aaf50b.webp" group-title="Geral", 99 FM Patos de Minas
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fafd72eaa884387136b6c74668aaf50b.webp" group-title="Rádio", 99 FM Patos de Minas
 https://clubefm.brasilstream.com.br/hls/clubefm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Geral", Rádio Clube 100,5 FM
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/873280c74a305ffe7e2d2d2f62c65597.webp" group-title="Rádio", Rádio Clube 100,5 FM
 https://live.cdn.upx.com/5e5c_5/myStream.sdp/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f033f9c44591cfd6aedfc2853b719249.webp" group-title="Geral", Catve FM Cascavel 91.7
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/f033f9c44591cfd6aedfc2853b719249.webp" group-title="Rádio", Catve FM Cascavel 91.7
 https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Geral", Rádio Monte FM 96.7
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/034b957933f30a5521e5d38d43639e00.webp" group-title="Rádio", Rádio Monte FM 96.7
 https://montefm.brasilstream.com.br/hls/montefm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/94e8afcb96adf8a2d8b63e2845dfd30e.webp" group-title="Geral", Latina TV
 https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Geral", TV Montanhesa
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d365417227e8d20195abd479d4094b3a.webp" group-title="Rádio", TV Montanhesa
 https://qfm.geraistec.com.br/hlsm/index.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Geral", Rádio Difusora 95.3 FM
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Rádio", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
 
 
@@ -703,9 +703,9 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2023/04/10113111/TV-Globo-logo.jpg" group-title="Geral",Globo
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/212194
-#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/7b/c6/5d/7bc65d4a894ae1c81e60889e63d48d54.jpg" group-title="Geral", Rádio Difusora AM 960
+#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/7b/c6/5d/7bc65d4a894ae1c81e60889e63d48d54.jpg" group-title="Rádio", Rádio Difusora AM 960
 http://voz.one:80/alexfnt/vTFBGKdUYq/34011
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/R%C3%A1dio_Gazeta_AM_logo.png" group-title="Geral", Rádio Gazeta AM 1260 (Maceió)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/R%C3%A1dio_Gazeta_AM_logo.png" group-title="Rádio", Rádio Gazeta AM 1260 (Maceió)
 http://voz.one:80/alexfnt/vTFBGKdUYq/34008
 
 
@@ -1993,7 +1993,7 @@ https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8?che
 https://w2.manasat.com:443/tserkov-online/smil:tserkov-online.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" group-title="Geral",ON FM (720p)
 https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Geral",Rádio Sines (720p)
+#EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/Oe6F1nL.png" group-title="Rádio",Rádio Sines (720p)
 https://streamer-a01.videos.sapo.pt/live/radiosinesdireto/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="PT" tvg-logo="https://i.imgur.com/jYIf7Mz.png" group-title="Geral",Sobrenatural TV
 http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8?checkedby:iptvcat.com
@@ -2307,7 +2307,7 @@ https://5d82644094cc0.streamlock.net/tvcacique/tvcacique/playlist.m3u8
 https://a.cdni.live/midtv/midtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4acc74c31e9cddc8c8416abdc96ebd3e.webp" group-title="Geral",TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/accee0416a96e05415fb16faf2cf7e5e.webp" group-title="Geral",Rádio Redentor DF
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/accee0416a96e05415fb16faf2cf7e5e.webp" group-title="Rádio",Rádio Redentor DF
 https://virtues.es:1936/redentor/redentor/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ed25aae6cd1cd562aff84aaaa01d6784.webp" group-title="Geral",Radio Esportes Brasília
 https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
