@@ -162,10 +162,12 @@ https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u
 https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Novela",Azteca Internacional
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT NOVELAS FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/487
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT NOVELAS HD
-http://voz.one:80/alexfnt/vTFBGKdUYq/466
+#EXTINF:0,TNT NOVELAS HD [ALT]
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/617954.m3u8
+#EXTINF:0,TNT NOVELAS SD
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://i.pinimg.com/originals/9f/7c/ea/9f7cea3486caf94e8abf397aea578575.png" group-title="Novela",BBC Drama Espanha
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Turma_da_M%C3%B4nica_Logo.svg/2560px-Turma_da_M%C3%B4nica_Logo.svg.png" group-title="Geral",TV Turma da Mônica
@@ -327,8 +329,6 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://telaviva.com.br/wp-content/uploads/2022/05/PR-VIAJANDOPELOBRASIL-scaled.jpg" group-title="Geral", Viajando pelo Brasil
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Logotipo_do_Modo_Viagem.svg/1280px-Logotipo_do_Modo_Viagem.svg.png" group-title="Geral", MODO VIAGEM FHD
-http://voz.one:80/alexfnt/vTFBGKdUYq/65334
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Geral",TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! Tocantins
@@ -422,43 +422,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-id="PlutoTVVidaReal.br" tvg-logo="https://i.imgur.com/dRbBbxP.png" group-title="Geral",Pluto TV Vida Real
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/b/bb/Profile_-_Aladdin.png/revision/latest?cb=20190829033153" group-title="Filmes",[24H] Alladin
-http://voz.one:80/alexfnt/vTFBGKdUYq/95718
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/The_Powerpuff_Girls.jpg/220px-The_Powerpuff_Girls.jpg" group-title="Filmes",[24H] As Meninas Super poderosas 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95653
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/d/db/The_Powerpuff_Girls.jpg/220px-The_Powerpuff_Girls.jpg" group-title="Filmes",[24H] As Meninas Superpoderosas 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95719
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1217444360612122624/Q4cNKtue_400x400.jpg" group-title="Filmes",[24H] 3 Palavrinhas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95650
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Filmes",[24H] Chapolin colorado
-http://voz.one:80/alexfnt/vTFBGKdUYq/95725
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/b/b9/El_Chapul%C3%ADn_Colorado_logo_%28Brazilian_Portuguese%29.png/revision/latest?cb=20230504031442" group-title="Filmes",[24H] Chapolin Colorado 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/126146
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Filmes",[24H] Jackie Chan
-http://voz.one:80/alexfnt/vTFBGKdUYq/95743
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jackiechanadventures/images/1/16/Jackie.1.png/revision/latest?cb=20150422193025" group-title="Filmes",[24H] Jackie Chan 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95739
-#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1016/100/png-transparent-bugs-bunny-speedy-gonzales-tasmanian-devil-looney-tunes-marvin-the-martian-looney-tunes-logo-computer-wallpaper-bunny-thumbnail.png" group-title="Filmes",[24H] Pernalonga
-http://voz.one:80/alexfnt/vTFBGKdUYq/95764
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Filmes",[24H] Pink e Cerebro 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95697
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/P/pinky-en-brain-logo-1FDBA80086-seeklogo.com.png" group-title="Filmes",[24H] Pinky e o Cérebro 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95765
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2023/06/Scooby-Doo-Logo.png" group-title="Filmes",[24H] Scooby-Doo
-http://voz.one:80/alexfnt/vTFBGKdUYq/95771
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Filmes",[24H] Todo Mundo Odeia o Chris 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95702
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Filmes",[24H] Todo Mundo Odeia o Chris 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95703
-#EXTINF:-1 tvg-logo="https://cosplace.com.br/wp-content/uploads/2021/04/O-MASKARA.jpg" group-title="Filmes",[24H] O MÁSKARA 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95698
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/77/7a/49/777a49a0f9b83150d6e1c84a795f6ad2.jpg" group-title="Filmes",[24H] O MÁSKARA 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95756
-#EXTINF:-1 tvg-logo="https://logosmarcas.net/wp-content/uploads/2020/11/Mortal-Kombat-Logo.png" group-title="Filmes",[24H] Mortal Kombat
-http://voz.one:80/alexfnt/vTFBGKdUYq/95752
-#EXTINF:-1 tvg-logo="https://acdn.mitiendanube.com/stores/003/379/723/products/phpa3ddap-fb578e3a7bd76796a416955147486519-640-0.png" group-title="Filmes",[24H] Jaspion
-http://voz.one:80/alexfnt/vTFBGKdUYq/95744
 #EXTINF:-1 tvg-id="GikTVMX.mx" tvg-logo="https://i.imgur.com/Gwz78jZ.png" group-title="Geral",GikTVMX
 #EXTVLCOPT:http-referrer=https://giktvmx.g3radio.mx
 https://pistream.ddns.net/hls/stream.m3u8
@@ -548,6 +511,22 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://qfm.geraistec.com.br/hlsm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Rádio", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Rádio", Rádio Tupi FM 96.5 (Rio de Janeiro/RJ)
+https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/51OBp-HMs3L.png" group-title="Rádio", Rádio Itatiaia 95,7 (Belo Horizonte/MG)
+https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/6b/Logotipo_da_R%C3%A1dio_Clube_%28Fortaleza%29.png" group-title="Rádio", Rádio Clube Fortaleza 1200 AM (Fortaleza/CE)
+https://ythls.armelin.one/channel/UC5DzzKYARkStu98sWyCI6zg.m3u8
+#EXTINF:0 tvg-logo="https://radioolinda.com.br/wp-content/uploads/2022/01/cropped-logo-radio-ai-2.png" group-title="Rádio", Rádio Olinda 105,3 FM (Olinda/PE)
+https://5a57bda70564a.streamlock.net/radioolinda/radioolinda.sdp/chunklist_w1548909010.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b9/Logotipo_R%C3%A1dio_Sociedade.jpg" group-title="Rádio", Rádio Sociedade 102,5 (Salvador/BA)
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w232524436.m3u8
+#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio13695_1545903190.png" group-title="Rádio", Rádio Minas 104.1 FM (Divinópolis/MG)
+https://cdn.jmvstream.com/w/LVW-8064/LVW8064_mRt4RUB3CL/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio14180_1519906564.jpg" group-title="Rádio", Rádio Sertaneja 95.3 (Divinópolis/MG)
+https://cdn.jmvstream.com/w/LVW-8063/LVW8063_wasjsoUgqw/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://imagens.appradio.pro/radios/xl/radio11910_1510309989.jpg" group-title="Rádio", Rádio Cultura Pará FM 93,7 (Belém/PA)
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1230197756.m3u8
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/250px-NHK_World.svg.png" group-title="Geral",NHK (Japão-Mundo)
@@ -651,14 +630,6 @@ http://200.194.238.229:8383/live/primer/playlist.m3u8
 https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 #EXTINF:-1 tvg-country="ES" tvg-logo="https://pbs.twimg.com/profile_images/445976084186554368/Ch4aqZPR_400x400.jpeg" group-title="Geral",Santa Maria Television
 https://pantera1-100gb-cl-movistar.dps.live/smtv/smtv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio17440_1544635650.jpg" group-title="Geral", Band FM 99.1
-http://voz.one:80/alexfnt/vTFBGKdUYq/34013
-#EXTINF:0 tvg-logo="https://tudoradio.com/img/uploads/noticias/647226ce8d8e3.jpeg" group-title="Geral", CBN FM 100.7 (Salvador)
-http://voz.one:80/alexfnt/vTFBGKdUYq/34016
-#EXTINF:0 tvg-logo="https://felizfm.fm/wp-content/uploads/2019/10/LOGO_FELIZFM.png" group-title="Geral", Feliz FM 92.3 (Salvador)
-http://voz.one:80/alexfnt/vTFBGKdUYq/34014
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/80/Logotipo_da_GFM.png" group-title="Geral", GFM 90.1 (Salvador)
-http://voz.one:80/alexfnt/vTFBGKdUYq/34012
 #EXTINF:0 tvg-country="BR" tvg-logo="https://s2-globo-play.glbimg.com/SaUvDCT3G8gXYMir1Y66JmPtG_Q=/285x285/https://s2-globo-play.glbimg.com/gpHRWkVEklSy9sLihfB1e7s44zE=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/o/l/K09AXlQK2RbJTlBMlDMA/logo-ge-fast.png" group-title="Geral",GE Fast (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lfwebwvwdaf0i/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/sbt_mato_grosso_logo.png" group-title="Geral",SBT Mato Grosso
@@ -703,134 +674,18 @@ https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-country="BR" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2023/04/10113111/TV-Globo-logo.jpg" group-title="Geral",Globo
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/212194
-#EXTINF:0 tvg-logo="https://i.pinimg.com/474x/7b/c6/5d/7bc65d4a894ae1c81e60889e63d48d54.jpg" group-title="Rádio", Rádio Difusora AM 960
-http://voz.one:80/alexfnt/vTFBGKdUYq/34011
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/R%C3%A1dio_Gazeta_AM_logo.png" group-title="Rádio", Rádio Gazeta AM 1260 (Maceió)
-http://voz.one:80/alexfnt/vTFBGKdUYq/34008
 
 
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b8250fa16013cc8a6c1e7cc40da2748.webp" group-title="Filmes",TV Cordeiro
 https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://s2.glbimg.com/A5qLVa8YlxgYfD3UE9JueMYd_Do=/smart/e.glbimg.com/og/ed/f/original/2021/09/08/stevebluesclues.jpg" group-title="Filmes",As pistas de Blue
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0,[24H] Ben 10
-http://voz.one:80/alexfnt/vTFBGKdUYq/95720
-#EXTINF:0,[24H] BOB
-http://voz.one:80/alexfnt/vTFBGKdUYq/95748
-#EXTINF:0,[24H] Bob esponja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95721
-#EXTINF:0,[24H] Capitão Caverna
-http://voz.one:80/alexfnt/vTFBGKdUYq/95712
-#EXTINF:0,[24H] Caverna do Dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95660
-#EXTINF:0,[24H] Caverna do dragão
-http://voz.one:80/alexfnt/vTFBGKdUYq/95723
-#EXTINF:0,[24H] Central Kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95724
-#EXTINF:0,[24H] Cine kids
-http://voz.one:80/alexfnt/vTFBGKdUYq/95727
-#EXTINF:0,[24H] Desenhos disney
-http://voz.one:80/alexfnt/vTFBGKdUYq/95731
-#EXTINF:0,[24H] Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95665
-#EXTINF:0,[24H] Digimon
-http://voz.one:80/alexfnt/vTFBGKdUYq/95732
-#EXTINF:0,[24H] Digimon 15º Aniversário
-http://voz.one:80/alexfnt/vTFBGKdUYq/95666
-#EXTINF:0,[24H] Dragon Ball
-http://voz.one:80/alexfnt/vTFBGKdUYq/95734
-#EXTINF:0,[24H] Dragon Ball 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95668
-#EXTINF:0,[24H] Dragon Ball 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95669
-#EXTINF:0,[24H] Dragon Ball Heroes
-http://voz.one:80/alexfnt/vTFBGKdUYq/95670
-#EXTINF:0,[24H] Dragon Ball Super
-http://voz.one:80/alexfnt/vTFBGKdUYq/95735
-#EXTINF:0,[24H] Dragon Ball Super 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95671
-#EXTINF:0,[24H] Dragon Ball Super 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95672
-#EXTINF:0,[24H] Dragon Ball Super 3
-http://voz.one:80/alexfnt/vTFBGKdUYq/95673
-#EXTINF:0,[24H] Dragon Ball Z
-http://voz.one:80/alexfnt/vTFBGKdUYq/95736
-#EXTINF:0,[24H] Dragon Ball Z 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95674
-#EXTINF:0,[24H] Dragon Ball Z 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95675
-#EXTINF:0,[24H] Eu a Patroa e as Crianças 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95676
-#EXTINF:0,[24H] Eu a Patroa e as Crianças 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95677
-#EXTINF:0,[24H] Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95759
-#EXTINF:0,[24h] Galinha Pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95681
-#EXTINF:0,[24H] Galinha pintadinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95737
-#EXTINF:0,[24H] Game of Thrones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95682
-#EXTINF:0,[24H] He-Man
-http://voz.one:80/alexfnt/vTFBGKdUYq/95738
-#EXTINF:0,[24H] Hercules
-http://voz.one:80/alexfnt/vTFBGKdUYq/95742
-#EXTINF:0,[24H] Homem aranha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95740
-#EXTINF:0,[24H] Igreja Universal
-http://voz.one:80/alexfnt/vTFBGKdUYq/95730
-#EXTINF:0,[24H] JIRAYA O Incrível Ninja
-http://voz.one:80/alexfnt/vTFBGKdUYq/95745
-#EXTINF:0,[24H] Kenan e Kel
-http://voz.one:80/alexfnt/vTFBGKdUYq/95746
-#EXTINF:0,[24H] KPOP TV
-http://voz.one:80/alexfnt/vTFBGKdUYq/95747
-#EXTINF:0,[24H] Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95686
-#EXTINF:0,[24H] Naruto
-http://voz.one:80/alexfnt/vTFBGKdUYq/95754
+
 #EXTINF:0,[24H] Os Flinstones
-http://voz.one:80/alexfnt/vTFBGKdUYq/95688
-#EXTINF:0,[24H] Os Simpsons 01
-http://voz.one:80/alexfnt/vTFBGKdUYq/95691
-#EXTINF:0,[24H] Os Simpsons 02
-http://voz.one:80/alexfnt/vTFBGKdUYq/95692
-#EXTINF:0,[24H] Os Simpsons 03
-http://voz.one:80/alexfnt/vTFBGKdUYq/95693
-#EXTINF:0,[24H] Os Simpsons 04
-http://voz.one:80/alexfnt/vTFBGKdUYq/95694
-#EXTINF:0,[24H] Os Vingadores
-http://voz.one:80/alexfnt/vTFBGKdUYq/95761
-#EXTINF:0,[24H] Peeppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95717
-#EXTINF:0,[24H] Peixonautas
-http://voz.one:80/alexfnt/vTFBGKdUYq/95763
-#EXTINF:0,[24H] Peppa Pig
-http://voz.one:80/alexfnt/vTFBGKdUYq/95715
-#EXTINF:0,[24H] South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95701
-#EXTINF:0,[24H] South Park
-http://voz.one:80/alexfnt/vTFBGKdUYq/95772
-#EXTINF:0,[24H] Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95774
-#EXTINF:0,[24H] Thundercats
-http://voz.one:80/alexfnt/vTFBGKdUYq/95776
-#EXTINF:0,[24H] Timao e Pumba
-http://voz.one:80/alexfnt/vTFBGKdUYq/95777
-#EXTINF:0,[24H] Tres Espias Demais
-http://voz.one:80/alexfnt/vTFBGKdUYq/95778
-#EXTINF:0,[24H] Um Maluco no Pedaço 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95705
-#EXTINF:0,[24H] Um Maluco no Pedaço 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95706
-#EXTINF:0,[24h] Ursinhos Carinhos
-http://voz.one:80/alexfnt/vTFBGKdUYq/95707
-#EXTINF:0,[24H] Vai que Cola 1
-http://voz.one:80/alexfnt/vTFBGKdUYq/95708
-#EXTINF:0,[24H] Vai que Cola 2
-http://voz.one:80/alexfnt/vTFBGKdUYq/95709
-#EXTINF:0,[24H] X-MEN
-http://voz.one:80/alexfnt/vTFBGKdUYq/95780
+http://24hrs.homelinux.com:80/24H-osflistony/video.m3u8?token=a4A2wbotS3
+#EXTINF:0,[24H] Um Maluco no Pedaço
+http://24hrs.homelinux.com:80/24H-ummaluconopedaco/video.m3u8
+
 #EXTINF:0 tvg-country="PT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/60/Vevo_Thumbnail_2013.svg/revision/latest?cb=20210103132455" group-title="Geral",Vevo Christmas (NZ)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevochristmasau-samsungnz/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://brand.vevo.com/wp-content/uploads/2021/03/logo-img-02.svg" group-title="Geral",Vevo Pop (NZ)
@@ -955,10 +810,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac60007
 https://video01.logicahost.com.br/brasilhits/brasilhits/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/05/CAPA.jpg" group-title="Geral",TV Futuro (Cultura RN)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Geral",GLN TV
-https:\\stmv1.paineltv.net\glnfilmes\glnfilmes\chunklist_w1263571980.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/af00a626f71e3a3dfadb5a5c8ffa086c.webp" group-title="Geral",TCM - TV Cabo Mossoró
 https://live.tcm10.com.br/tcm10hd/stream.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/WgXsfIa.png" group-title="Geral",TV Vale do Uruará (614p)
@@ -1436,8 +1287,10 @@ http://streaming.jornalmn.com.br/live/tvmn.m3u8
 https://acesso.ecast.site:3456/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="Geral",Rede Minas
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
-#EXTINF:-1 tvg-id="RedeMundoTV.br" tvg-logo="https://i.imgur.com/2dsnTGd.png" group-title="Geral",Rede Mundo TV
+#EXTINF:-1 tvg-id="RedeMundoTV.br" tvg-logo="https://i.imgur.com/2dsnTGd.png" group-title="Filmes",Rede Mundo TV
 https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeMundoTV.br" tvg-logo="https://i.imgur.com/2dsnTGd.png" group-title="Filmes",Rede Mundo TV (Segunda opção)
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="Geral",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-id="RedePremiumTV.br" tvg-logo="https://i.imgur.com/jMHaHAR.png" group-title="Geral",Rede Premium TV
@@ -1512,6 +1365,8 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati
 https://livefocamundo.com:8081/tvaracati/index.m3u8
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Segunda opção)
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Geral",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/LCETtuk.png" group-title="Geral",TV Aratu
@@ -2514,6 +2369,8 @@ https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 #EXTINF:0 tvg-logo="https://s2-techtudo.glbimg.com/HJVgpENnRo6_wIMIn9OKJizBX90=/0x0:1024x623/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/D/t/YgIsilSBOeWuQknt64PQ/maxresdefault-2-.jpg" group-title="Filmes",Death Note (Dublado)
 https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
+#EXTINF:0 tvg-logo="https://awtv.com.br/wp-content/uploads/2020/03/AWTV-LOGO-ALPHA5_VALE-e1670591941407.png" group-title="Filmes", AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/A9_fFGyVCaGvLabtDayHp-wGioER4GkcesRvoC0yi4FjcfnIHjRoUejUBv1ldOFsAkY=w240-h480-rw" group-title="Geral",Vila TV News (Petrópolis/RJ)
 https://streamserver.streamingdevideo.com.br:443/8072/8072/playlist.m3u8
@@ -2632,6 +2489,8 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/smallville/images/9/96/SV_S1.png/revision/latest?cb=20200119195707" group-title="Smallville",[24H] Smallville - Temporada 01
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Filmes",[24H] Todo Mundo Odeia o Chris 1
+http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
@@ -2685,8 +2544,6 @@ https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8i
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes", Mr.Bean Clássico (Vídeo com todos os Episódios)
 https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 #EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico (Segunda opção)
 https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
 
 
@@ -2721,7 +2578,7 @@ https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.
 #EXTINF:0 tvg-logo="https://static.timesofisrael.com/www/uploads/2016/05/%D7%90%D7%9D%D7%A6.jpg" group-title="Filmes", [24H] Tom & Jerry
 http://ddsw.xyz:80/8590438094/9912004092/968556
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",[24H] Tom & Jerry (Segunda opção)
-http://voz.one:80/alexfnt/vTFBGKdUYq/95704
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",[24H] Tom & Jerry (Terceira opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2220051.m3u8
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
@@ -2750,7 +2607,10 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
+https:\\stmv1.paineltv.net\glnfilmes\glnfilmes\chunklist_w1263571980.m3u8
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
