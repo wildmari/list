@@ -148,25 +148,7 @@ https://estrellatv-plex.amagi.tv/playlist.m3u8
 https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes", Mr.Bean Clássico (Vídeo com todos os Episódios)
-https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico
-http://voz.one:80/alexfnt/vTFBGKdUYq/95753
-#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico (Segunda opção)
-https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
-http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Quarta opção)
-http://offshore.lat:25461/eusmiarea@/12q12@@wpo/208602
 
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Filmes",[24H] Luluzinha
-http://voz.one:80/alexfnt/vTFBGKdUYq/95749
-#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do Cinema
-https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/ViX_Logo.svg/640px-ViX_Logo.svg.png" group-title="Novela",Canal ViX (Mexico)
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/UL1JtYb.png" group-title="Novela",ViX Jajaja (1080p)
@@ -232,16 +214,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Filmes",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
-https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Filmes",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV
-https://stmv1.srvif.com/classique/classique/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Filmes",Classique TV 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
 https://ythls.armelin.one/channel/UC5ZtV3bu3bjSuOLoA6oCFIg.m3u8
@@ -4040,12 +4015,6 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/az/d/d7/M%C9%99d%C9%99niyy%C9%99t_TV_loqo_%282011-2019%29.jpg" group-title="Novela",Medeniyyet TV (Azerbaijão)
 http://str.yodacdn.net/medeniyyet/index.m3u8
-#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
-http://168.205.87.198:8555/live/1501/123456/239.m3u8
-#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
-http://168.205.87.198:8555/live/1501/123456/238.m3u8
-#EXTINF:0 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="Filmes",Urban Movies (Filmes dublados)
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://media.themoviedb.org/t/p/w500/xxlVX0cvecHGq866XTizdn2YgYT.jpg" group-title="Filmes",A Feiticeira
 https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 #EXTINF:0 tvg-logo="https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/abc-as-panteras-jaclyn-smith-farrah-fawcett-kate-jackson.jpg" group-title="Novela",As Panteras
@@ -4097,8 +4066,6 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271599
 #EXTINF:0,X-Men 02
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/271600
-#EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes", Mi Televisión Classica (Faroeste)
-https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:0 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUC6fND6pMH0l4y6jRDFwfrOA&psig=AOvVaw0u-PBEOPVtXxmxm--8yn8g&ust=1708006259237000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDU5JuBq4QDFQAAAAAdAAAAABAD" group-title="Filmes",Cine Clássicos
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3247&deviceLon=-48.2925&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
@@ -4142,6 +4109,13 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272737
 #EXTVLCOPT:network-caching=1000
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272736
 
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
+http://ddsw.xyz:80/8590438094/9912004092/968514
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
+https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://ofatomaringa.com/wp-content/uploads/2022/12/LOGO70.png" group-title="Geral", O Fato Maringá/Paraná
+https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 01)
 https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
 
@@ -4184,32 +4158,65 @@ https://obs.line-scdn.net/0hFBCtdz7kGW1-DTPeYwlmOk1bGgJNYQpuGjtIcy5jT1RbPFkyRG1U
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 14)
 https://obs.line-scdn.net/0h2gObp0LwbUhyG0f6hhQSH05NbidBd35LFi08ViJ1MHldKSocTX8iKVcTYSxbLyoYC3xyLlQYMn1W/720p.m3u8
 
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes", Mr.Bean Clássico (Vídeo com todos os Episódios)
+https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico
+http://voz.one:80/alexfnt/vTFBGKdUYq/95753
+#EXTINF:-1 tvg-logo="https://pm1.aminoapps.com/6659/113b5b3e95ba4efb3779ff7ac864c9db4560dfa1_00.jpg" group-title="Filmes",[24H] Mr.Bean Clássico (Segunda opção)
+https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
+
+
+
+
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/f/2/d/f2d907475ac623f6e254911cfba77b24_fgraphic.jpg" group-title="Novela", TV ARACATI (O bem amado)
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
-#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes", ARCERTE TV
-https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes", TV QUE DEMAIS
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Local", REDE QUE DEMAIS
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
-https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://ofatomaringa.com/wp-content/uploads/2022/12/LOGO70.png" group-title="Geral", O Fato Maringá/Paraná
-https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
+
 #EXTINF:0 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3370-294x165-FFFFFF.jpg" group-title="Geral", TV BRASIL POPULAR
 https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
-#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV Pop Brasil (Rio de Janeiro)
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Geral",TV POP BRASIL (Rio de Janeiro)
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
 
 #EXTINF:0 tvg-logo="https://static.timesofisrael.com/www/uploads/2016/05/%D7%90%D7%9D%D7%A6.jpg" group-title="Filmes", TOM E JERRY
 http://ddsw.xyz:80/8590438094/9912004092/968556
+#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
+http://168.205.87.198:8555/live/1501/123456/239.m3u8
+#EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
+http://168.205.87.198:8555/live/1501/123456/238.m3u8
+#EXTINF:0 tvg-logo="https://d14z5zgripclfw.cloudfront.net/account351-i1091/channel/2/thumb_logo-urbanmovies-1642531517.png" group-title="Filmes",Urban Movies (Filmes dublados)
+http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes", Mi Televisión Classica (Faroeste)
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes", ARCERTE TV
+https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes", TV QUE DEMAIS
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes", REDE QUE DEMAIS
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do Cinema
+https://rpn3.bozztv.com/ssh101/ssh101/classicosdocinema/playlist.m3u8
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV2.br" tvg-logo="https://i.imgur.com/FvUHbQm.png" group-title="Filmes",Classique TV 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
-http://ddsw.xyz:80/8590438094/9912004092/968514
-
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Quarta opção)
+http://offshore.lat:25461/eusmiarea@/12q12@@wpo/208602
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTINF:0,[24H] Luluzinha 2
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-B2Q6qvJ9Pow/Tsq65IAj6KI/AAAAAAAAUXU/YurVhtksVSo/s1600/luluzinha_f_008.jpg" group-title="Filmes",[24H] Luluzinha
+http://voz.one:80/alexfnt/vTFBGKdUYq/95749
+
