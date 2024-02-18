@@ -5,8 +5,8 @@ https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Segunda opção)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo (Terceira opção)
-https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="Novelas", AZTECA UNO
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
@@ -2379,6 +2379,10 @@ https://cnm-cn-cc.otteravision.com/cnm/cc/cc_720p_high.m3u8
 https://cinesureno-distro.amagi.tv/CineSureno-roku/master_5.m3u8
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Filmes",Filmes antigos do México - D Pelicula
 https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/D/de-pelicula-logo-F97A15125D-seeklogo.com.png" group-title="Filmes",Filmes antigos do México - D Pelicula Plus
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63734
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Filmes",Filmes antigos do México - D Pelicula Clássicos
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63736
 #EXTINF:0 tvg-logo="https://htforum.net/data/attachments/8/8861-99901a1345909c74c1459a57927cc36c.jpg" group-title="Filmes",Flou canela (Mexico)
 https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="Filmes",Filmes antigos da Argentina (Cine ar)
@@ -2633,11 +2637,15 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTINF:0,[24H] Luluzinha 2
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves (Segunda opção)
+http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 2
 https://c2td.short.gy/yuNvgO
-#EXTINF:0 tvg-country="BR" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDA3OWI4MzgtNmVjMi00YmM2LTllZjYtNDEyZGZjYzllNTI4XkEyXkFqcGdeQXVyMTIzMzk3NDIy._V1_.jpg" group-title="Filmes",Chespirito TV
-http://168.205.87.198:8555/live/1492/123456/159.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo (Terceira opção)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
