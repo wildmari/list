@@ -2621,6 +2621,8 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinema10.com.br/upload/noticias/2021-2/120281373.jpg" group-title="Filmes, Cine Faroeste
+http://dns.acaidopara.net:8080/George4899/Halas4899/56761
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
@@ -2631,6 +2633,10 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
 http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
+http://dns.acaidopara.net:8080/George4899/Halas4899/11593
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu
+http://dns.acaidopara.net:8080/George4899/Halas4899/82906
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
