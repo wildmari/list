@@ -2643,6 +2643,10 @@ http://168.205.87.198:8555/live/1496/123456/159.m3u8
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 2
 https://c2td.short.gy/yuNvgO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves em espanhol
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110486
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves Animado em espanhol
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110624
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo (Terceira opção)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
