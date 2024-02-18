@@ -2459,8 +2459,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609059dc63be6e0007b
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
 #EXTINF:0 tvg-logo="https://www.tvdopovo.com/wp-content/uploads/2019/02/tv1.png" group-title="Filmes",TV DO POVO
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
-https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
+
 
 #EXTINF:0 tvg-logo="https://img.rgstatic.com/content/show/be3f7108-9eb5-4e03-9698-36f4dcc680ca/395d4177-b579-4316-a10f-1f4279763acd/poster-500.jpg" group-title="Smallville",[24H] Smallville - Temporada 10
 #EXTVLCOPT:network-caching=1000
@@ -2586,7 +2585,8 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
 https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
-
+#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
+https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
 #EXTINF:0 tvg-logo="https://static.timesofisrael.com/www/uploads/2016/05/%D7%90%D7%9D%D7%A6.jpg" group-title="Filmes", [24H] Tom & Jerry
 http://ddsw.xyz:80/8590438094/9912004092/968556
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",[24H] Tom & Jerry (Segunda opção)
@@ -2649,6 +2649,8 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110486
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110624
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo (Terceira opção)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo Espanhol
+https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
