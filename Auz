@@ -2661,3 +2661,7 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
+http://dns.acaidopara.net:8080/George4899/Halas4899/897603
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Amor Secreto
+http://dns.acaidopara.net:8080/George4899/Halas4899/897604
