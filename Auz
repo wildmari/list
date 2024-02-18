@@ -2597,6 +2597,8 @@ http://168.205.87.198:8555/live/1501/123456/238.m3u8
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes", Mi Televisión Classica (Faroeste)
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Logotipo_da_TV_Litoral_%28Santos%29.jpg" group-title="Filmes", TV LITORAL (Rio Grande do Norte)
+https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w2072818652.m3u8
 #EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes", ARCERTE TV
 https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes", TV QUE DEMAIS
