@@ -81,17 +81,16 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
 #EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Novela", SIC MEO
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagempedia/images/0/07/Woody_Woodpecker_logo.jpg/revision/latest?cb=20200420234315&path-prefix=pt-br" group-title="Geral",Pica-Pau
-http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
-
+#EXTINF:0 tvg-country="PT" tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/02/SIC-Replay.jpg" group-title="Novela", SIC REPLAY
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a32a3b6cc344dbd6c/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+#EXTINF:0 tvg-country="PT" tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/02/SIC-Alta-Definicao.jpg" group-title="Novela", SIC ALTA DEFINIÇÃO
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a863b1c5e7e32550b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
 
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://img.freepik.com/vetores-premium/bola-amarela-ilustracao-vetorial_177761-1168.jpg" group-title="Novela",Ottera TV (Novelas turcas)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 #EXTINF:0 tvg-country="TR" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/03/fox-turkiye-logo.png" group-title="Novela",Fox (Turquia)
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
-#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
-https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Novela",RCN TELENOVELA HD (Colômbia)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/411
 #EXTINF:-1 tvg-country="CO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/RCN_Novelas_logo_2019.png/640px-RCN_Novelas_logo_2019.png" group-title="Novela",RCN TELENOVELA HD (Colômbia) Segunda opção
@@ -150,6 +149,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
+https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:0 tvg-logo="https://ramenparados.com/wp-content/uploads/2023/06/Pluto-TV-K-Drama.jpg" group-title="Novela", Pluto TV K-Drama (Novelas Coreanas)
 https://r.mjh.nz/PlutoTV/6475bfec536e0c0008858e9f-alt.m3u8
 
@@ -2128,8 +2129,6 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
 https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_NGT.png" group-title="Geral",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulb_TV.jpg/1200px-Ulb_TV.jpg" group-title="Geral",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.abc.go.gov.br/images/LOGO/AO_VIVO_TV.png" group-title="Geral",TV Brasil Central (TBC)
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://storage.googleapis.com/production-hostgator-brasil-v1-0-9/169/368169/zODiP1r1/f8ea91fdd47e47759947aec1d42225b2" group-title="Geral",Megha Web Tv
@@ -2371,8 +2370,6 @@ https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8
 https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8
 #EXTINF:0 tvg-logo="https://s2-techtudo.glbimg.com/HJVgpENnRo6_wIMIn9OKJizBX90=/0x0:1024x623/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/D/t/YgIsilSBOeWuQknt64PQ/maxresdefault-2-.jpg" group-title="Filmes",Death Note (Dublado)
 https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8
-#EXTINF:0 tvg-logo="https://awtv.com.br/wp-content/uploads/2020/03/AWTV-LOGO-ALPHA5_VALE-e1670591941407.png" group-title="Filmes", AWTV
-https://acesso.ecast.site:3070/live/awtvlive.m3u8
 
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/A9_fFGyVCaGvLabtDayHp-wGioER4GkcesRvoC0yi4FjcfnIHjRoUejUBv1ldOFsAkY=w240-h480-rw" group-title="Geral",Vila TV News (Petrópolis/RJ)
 https://streamserver.streamingdevideo.com.br:443/8072/8072/playlist.m3u8
@@ -2497,6 +2494,8 @@ http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
 http://ddsw.xyz:80/8590438094/9912004092/968514
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagempedia/images/0/07/Woody_Woodpecker_logo.jpg/revision/latest?cb=20200420234315&path-prefix=pt-br" group-title="Geral",Pica-Pau
+http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://ofatomaringa.com/wp-content/uploads/2022/12/LOGO70.png" group-title="Geral", O Fato Maringá/Paraná
@@ -2549,7 +2548,12 @@ https://www.dropbox.com/s/86zww54vybbqipw/Mr.%20Bean.mp4?raw=1
 https://ch.iptvmate.net/dafdd26663411d09d5321e4f0af1c4f0.m3u8
 #EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/3LYp4KCoxAtKuMgDN5S6kHSxFuA7qxQoUNftznmnzyjcDp4bgqe6CGSQ4YMdFJ4rDAM" group-title="Geral", AYNI TV (Bolívia)
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
-
+#EXTINF:0 tvg-logo="https://awtv.com.br/wp-content/uploads/2020/03/AWTV-LOGO-ALPHA5_VALE-e1670591941407.png" group-title="Filmes", AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulb_TV.jpg/1200px-Ulb_TV.jpg" group-title="Filmes",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulb_TV.jpg/1200px-Ulb_TV.jpg" group-title="Filmes",ULB TV
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/qP_bPZ__-EM/maxresdefault.jpg" group-title="Filmes", Galo e Pata
 http://cs21.xyz:80/live/2545965177/0589983587/2219908.m3u8
@@ -2612,9 +2616,9 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
-https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
-https:\\stmv1.paineltv.net\glnfilmes\glnfilmes\chunklist_w1263571980.m3u8
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
