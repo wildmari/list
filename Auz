@@ -11,6 +11,8 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas clássicas da Telemundo
+https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima 2
@@ -33,8 +35,6 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/99829
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela",SÉRIES CLASSICAS
-https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://45.5.117.182:8000/play/a0fo/index.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
@@ -458,11 +458,6 @@ https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/p
 https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Geral", Câmera no Pico do Gavião (Divisa de MG e SP)
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
-
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
-http://cdn.connectbr.com.br/Entretendo/index.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_Scwpb1VeWTSvu8MRr5tYWRYrX1TMmd-MRqdJBdR57dM3KgOOBZxwPEzEea6joh3pj23fT4NWk_4O2jiKiHqLsKJMKKFKHOyKC_GOv5rN-jwNlvf7-3TKypy-0s" group-title="Filmes",Bora Filmes
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="Tocantins_FM_Gurupi.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2be186d23b3a90f9ed70997cb8602349.webp" group-title="Geral",Tocantins FM Gurupi
@@ -2345,8 +2340,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:0 tvg-logo="https://www.buin.cl/wp-content/uploads/2023/05/Botonera_Mesa-de-trabajo-5-copia.jpg" group-title="Filmes", Buin Somos Todos (Faroeste em Espanhol)
 https://bst.buin.cl/0.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes", TV Santa
-https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f0cd101ded366a2ed9bd43401f5b1831.webp" group-title="Geral", TV GRANDE REDE
 https://cdn-ronaldo-8623-1.ciclano.io:1443/ronaldo-8623-1/ronaldo-8623-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/0039f261a39308b098e87f62fbc178da.webp" group-title="Filmes", VILA TV
@@ -2505,6 +2498,12 @@ https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 01)
 https://obs.line-scdn.net/0hBo8Nn7agHUAFNzflqd9iFzZhHi82Ww5DYQFMXlVZRHYsBFMTP1lWJihlS3gvDlxTOFkFcnI-Eyc/720p.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/El_Chapolin_Colorado.jpg" group-title="Filmes", Chapolin 1 e 2
+http://dns.acaidopara.net:8080/George4899/Halas4899/82899
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/El_Chapolin_Colorado.jpg" group-title="Filmes", Chapolin 3 e 4
+http://dns.acaidopara.net:8080/George4899/Halas4899/82900
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/El_Chapolin_Colorado.jpg" group-title="Filmes", Chapolin 5, 6 e 7
+http://dns.acaidopara.net:8080/George4899/Halas4899/82901
 
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 02)
 https://obs.line-scdn.net/0hbqNH_kmTPV5zMRf_MktCCU9nPjFAXS5dFwdsQCNff2xZAnkMR1N7MVY5MT1ZCH0KClYiOVU3YW4L/720p.m3u8
@@ -2570,6 +2569,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/108360.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219876.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes", Coragem, o Cão Covarde (Segunda opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2219877.m3u8
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes", Coragem, o Cão Covarde (Terceira opção)
+http://dns.acaidopara.net:8080/George4899/Halas4899/11523
 #EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca
 http://cs21.xyz:80/live/2545965177/0589983587/2219879.m3u8
 #EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes", A corrida maluca (Segunda opção)
@@ -2627,28 +2628,23 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/56761
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
-http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
-http://dns.acaidopara.net:8080/George4899/Halas4899/11593
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu
-http://dns.acaidopara.net:8080/George4899/Halas4899/82906
-#EXTINF:0,[24H] Luluzinha 1
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
-#EXTINF:0,[24H] Luluzinha 2
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves (Segunda opção)
 http://168.205.87.198:8555/live/1492/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves 2
 https://c2td.short.gy/yuNvgO
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",Chaves 1 e 2
+http://dns.acaidopara.net:8080/George4899/Halas4899/82896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/El_Chavo_Roberto_Bola%C3%B1os.png" group-title="Filmes",Chaves 1 e 2
+http://dns.acaidopara.net:8080/George4899/Halas4899/82896
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/El_Chavo_Roberto_Bola%C3%B1os.png" group-title="Filmes",Chaves 3 e 4
+http://dns.acaidopara.net:8080/George4899/Halas4899/82897
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/bb/El_Chavo_Roberto_Bola%C3%B1os.png" group-title="Filmes",Chaves 5, 6 e 7
+http://dns.acaidopara.net:8080/George4899/Halas4899/82898
+#EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela",SÉRIES CLASSICAS
+https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves em espanhol
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110486
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves Animado em espanhol
@@ -2661,7 +2657,40 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
+#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes", TV Santa
+https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
+http://cdn.connectbr.com.br/Entretendo/index.m3u8
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/_Scwpb1VeWTSvu8MRr5tYWRYrX1TMmd-MRqdJBdR57dM3KgOOBZxwPEzEea6joh3pj23fT4NWk_4O2jiKiHqLsKJMKKFKHOyKC_GOv5rN-jwNlvf7-3TKypy-0s" group-title="Filmes",Bora Filmes
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Segunda opção)
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",[24H] Mr.Bean Animado (Terceira opção)
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
+http://dns.acaidopara.net:8080/George4899/Halas4899/11593
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu
+http://dns.acaidopara.net:8080/George4899/Halas4899/82906
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Addams_Family_%28HB%29.jpg" group-title="Filmes",A família Adams
+#EXTINF:0,[24H] Luluzinha 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
+#EXTINF:0,[24H] Luluzinha 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
+
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
 http://dns.acaidopara.net:8080/George4899/Halas4899/897603
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Novelas
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Amor Secreto
 http://dns.acaidopara.net:8080/George4899/Halas4899/897604
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Café com Aroma de Mulher
+http://dns.acaidopara.net:8080/George4899/Halas4899/898939
+#EXTINF:-1 channel-id="pluto-5e84dbf4a838b60007ffbba1" tvg-id="5e84dbf4a838b60007ffbba1" tvg-chno="2710" tvg-logo="https://images.pluto.tv/channels/5e84dbf4a838b60007ffbba1/colorLogoPNG.png" group-title="Novela",Novelas com a vovó
+https://i.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="https://images.pluto.tv/channels/5e84dc59026b9b000766f9a2/colorLogoPNG.png" group-title="Novela",Mais Novelas
+https://i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8
