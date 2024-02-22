@@ -2699,3 +2699,11 @@ https://i.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Curro Jiménez
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=768" group-title="Vix", Vix Teresa
+https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Vix", Vix La rosa de Guadalupe
+https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=768" group-title="Vix", Vix Cómo dice el dicho
+https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=768" group-title="Vix", Vix Las 3 Marias
+https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
