@@ -2627,13 +2627,13 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTVWestern.br" tvg-logo="https://i.imgur.com/rHxcraT.png" group-title="Filmes",Classique TV Faroeste
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinema10.com.br/upload/noticias/2021-2/120281373.jpg" group-title="Filmes, Cine Faroeste
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cinema10.com.br/upload/noticias/2021-2/120281373.jpg" group-title="Filmes", Cine Faroeste
 http://dns.acaidopara.net:8080/George4899/Halas4899/56761
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
+#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Filmes",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Chespirito_1993_text_logo.png" group-title="Filmes",[24H] Chesperito
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110576
@@ -2685,7 +2685,6 @@ http://51.159.104.29:8080/mrbean/index.m3u8
 http://dns.acaidopara.net:8080/George4899/Halas4899/11593
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu
 http://dns.acaidopara.net:8080/George4899/Halas4899/82906
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Addams_Family_%28HB%29.jpg" group-title="Filmes",A família Adams
 #EXTINF:0,[24H] Luluzinha 1
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
