@@ -11,6 +11,8 @@ http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
+#EXTINF:-1 tvg-id="ITBA14000026G" tvg-name="Televisa Telenovelas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ITBA14000026G_20210609T004928.png" group-title="Novela",Televisa Telenovelas
+https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas clássicas da Telemundo
@@ -31,12 +33,11 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas 2
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63200
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas 2 (Segunda opção)
+http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Pluto TV Telenovelas
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://45.5.117.182:8000/play/a0fo/index.m3u8
@@ -116,8 +117,6 @@ https://spt-sonyonenovelas-1-mx.tcl.wurl.tv/playlist.m3u8
 https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://images.pluto.tv/channels/60492bb931054f00073c0b4e/featuredImage.jpg?auto=&fill=blur&fit=fill&ixlib=react-9.1.5&h=185&w=412" group-title="Novela",Sony Canal Comedias
 https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
-https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Novela",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção
@@ -150,6 +149,10 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
+
 #EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
 http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
@@ -1343,7 +1346,7 @@ https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="TNTSports5.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="Geral",TNT Sports 5
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Geral";Music;News",TV A7 Plus
+#EXTINF:-1 tvg-id="TVA7Plus.br" tvg-logo="https://i.imgur.com/qeo2oPM.png" group-title="Geral",TV A7 Plus
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAberta.br" tvg-logo="https://i.imgur.com/SCz53uO.png" group-title="Geral",TV Aberta
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
@@ -1363,10 +1366,6 @@ https://ythls.armelin.one/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAparecida.br" tvg-logo="https://i.imgur.com/kxrja0X.png" group-title="Geral",TV Aparecida
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Segunda opção)
-https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="Geral",TV Arapuan
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAratu.br" tvg-logo="https://i.imgur.com/LCETtuk.png" group-title="Geral",TV Aratu
@@ -2584,6 +2583,10 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219881.m3u8
 
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/f/2/d/f2d907475ac623f6e254911cfba77b24_fgraphic.jpg" group-title="Filmes", TV ARACATI (O bem amado)
 https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Segunda opção)
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Terceira opção)
+https://livefocamundo.com:8081/tvaracati/index.m3u8
 #EXTINF:0 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3370-294x165-FFFFFF.jpg" group-title="Filmes", TV BRASIL POPULAR
 https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
@@ -2630,6 +2633,8 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/56761
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.glntv.com.br/admin/assets/img/users/8639-2023-01-02.png" group-title="Filmes",GLN TV
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves (Segunda opção)
@@ -2682,7 +2687,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 
-
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT Novelas (Espanhol)
+http://186.148.163.18:8000/play/a057/index.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Amor Secreto
 http://dns.acaidopara.net:8080/George4899/Halas4899/897604
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Café com Aroma de Mulher
