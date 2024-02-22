@@ -3,19 +3,19 @@
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
-http://dns.acaidopara.net:8080/George4899/Halas4899/897603
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="Novela", Univision
+https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Segunda opção)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="Novela", AZTECA UNO
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
-#EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
+#EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
-#EXTINF:-1 tvg-id="ITBA14000026G" tvg-name="Televisa Telenovelas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ITBA14000026G_20210609T004928.png" group-title="Novela",Televisa Telenovelas
+#EXTINF:-1 tvg-id="ITBA14000026G" tvg-name="Televisa Telenovelas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ITBA14000026G_20210609T004928.png" group-title="Novela",Televisa Telenovelas (Segunda opção)
 https://a1a6e9e8871c44a291f1bf09a08aa5e2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-it_Televisa/playlist.m3u8
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas clássicas da Telemundo
+#EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo (Segunda opção)
 https://i.mjh.nz/PlutoTV/5cf96cc422df39f1a338d165-alt.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
@@ -2687,6 +2687,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
+http://dns.acaidopara.net:8080/George4899/Halas4899/897603
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png" group-title="Novela",TNT Novelas (Espanhol)
 http://186.148.163.18:8000/play/a057/index.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Amor Secreto
@@ -2699,11 +2701,11 @@ https://i.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Curro Jiménez
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=768" group-title="Vix", Vix Teresa
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=768" group-title="Novela", Vix Teresa
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Vix", Vix La rosa de Guadalupe
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Novela", Vix La rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=768" group-title="Vix", Vix Cómo dice el dicho
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=768" group-title="Novela", Vix Cómo dice el dicho
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=768" group-title="Vix", Vix Las 3 Marias
+#EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=768" group-title="Novela", Vix Las 3 Marias
 https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
