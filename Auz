@@ -25,6 +25,8 @@ https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
 #EXTINF:0 tvg-country="MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Univision_tlnovelas_2012.svg/revision/latest?cb=20201112235141" group-title="Novela",TLNovelas Univision (Segunda opção)
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/99829
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (Terceira opção)
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas 2
@@ -116,8 +118,6 @@ https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Novela",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção
@@ -150,6 +150,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:0 tvg-logo="https://ramenparados.com/wp-content/uploads/2023/06/Pluto-TV-K-Drama.jpg" group-title="Novela", Pluto TV K-Drama (Novelas Coreanas)
@@ -2655,8 +2657,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes", TV Santa
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
