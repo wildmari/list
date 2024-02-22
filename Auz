@@ -2635,6 +2635,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w1897790152.m3u8
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Chespirito_1993_text_logo.png" group-title="Filmes",[24H] Chesperito
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110576
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves (Segunda opção)
@@ -2651,6 +2653,8 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/82897
 http://dns.acaidopara.net:8080/George4899/Halas4899/82898
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/640px-El_Chapul%C3%ADn_Colorado_logo.svg.png" group-title="Filmes",Chapolin
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/232227
+#EXTINF:-1 tvg-logo="https://conteudo.imguol.com.br/c/entretenimento/49/2015/07/24/desenho-animado-do-chapolin-colorado-estreia-no-canal-de-las-estrellas-da-televisa-1437772816349_300x300.png" group-title="Filmes", EL CHAPULIN ANIMADO
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110625
 #EXTINF:0 tvg-country="BR" tvg-logo="https://play-lh.googleusercontent.com/ktIdLayj2HXZ5JR_7wVTcd9xLmnWwIdYH2GWlgnhxslDM1L6n38aofiVh02x0QOAr5Pe=w240-h480-rw" group-title="Novela",SÉRIES CLASSICAS
 https://srv6.zcast.com.br/adriano8425/adriano8425/chunklist_w1423268919.m3u8
 
