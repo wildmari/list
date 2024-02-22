@@ -3,6 +3,8 @@
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
+http://dns.acaidopara.net:8080/George4899/Halas4899/897603
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Segunda opção)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="Novela", AZTECA UNO
@@ -19,18 +21,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 #EXTINF:0 tvg-country="BR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/Novelisima_logo.png/revision/latest?cb=20211105070018" group-title="Novela", Novelissima (Outra opção)
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Univision_tlnovelas_2012.svg/revision/latest?cb=20201112235141" group-title="Novela",TLNovelas Univision (México)
 http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62703
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-https://video-edge-65e8ae.sao05.abs.hls.ttvnw.net/v1/segment/CroFRvZ8MzBP53a_jKmgm2aHfaNyxWUSYZYENs17zDvSLC3ChQVvpb9MutSntGg-eKf_Z59BR4uctsNgOYWgV0j5Zpq8HOqVIqbqG3bRhoidHPukO3P3SCUPPDwfM3fqnzbGZGcMwpnGGhJ3Kmq7Qyk_h_9eoKYp2eZtcbBlC7fpg-eH-zuqW-H50TErMJzU4HYwUPzcrqHIVML6Zsp7__OY9iEwxivQoxyBpnKPet7hzalqmlsbvtfA53cTvMUxpKx4XOh2cs2f5qQoYpY61krm_JHcsF_NJQMfkAQrnXv15d_2Ivlm3siwlrApSSR7g9HcQlnrRVRHyHNBLdbxMgZpy0qzWjFIy_bRvHyl7uNUpO_G-w2TSg1loaOvi0l62T539A-QvMoUSQWHSsHFuwXuQslHJ66D-sUI5tzl5uL6Vfp1Fa1JDPGMmB1VXsWg5AVr9zhejB6GXXxO_K2fW3eHq-856ONe8Yu5DErmJ5rgIjLJVtHa1pE_OKcy-hCQwfl-fgzi1eYthLp2WG6UAuFAn_xHbyhznHw1n8s-HlHMYm6edj5U-zQgTO51z_-HPm-Nnh3DLhDaHmksUNBUvGm0tQVa8WayEgZ81gIUGmRb86IXYAxDi4fKkZFqEYy68q8QbIKTPZRjWKbYXyz28zrSiTBViKHKbkFVdsZvHjiB1WZYvLQE1-ClqTX3qvW_RSw5Cf6epJHrgCddrA6SNFMG47_KwVL8MkZDNaZvWesD7JKflxL5_2zjQgK0x2pgXzmmcEJ_vXuVfGethTPhRQyZ5QIXoMXgfLAKz4fjOGAVySPIXqdosEFz_-ggSy4rwBlkcmGt-X6RC6lEpC4aJx-R-6Ct2QKDjUqKJkanr-QcbkZFoQS6VsJmeu769CYrBKNlb3zU9rcDNLHBBD5B-Fd7wZRe5XZJmMZ09XAaDOXTbctQNV6Agy5dyiABKgl1cy1lYXN0LTEwjgc.ts
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-rtsp://mafreebox.freebox.fr/fbxtv_pub/stream?namespace=1&service=409&flavour=sd
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63200
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
+#EXTINF:0 tvg-country="MX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Univision_tlnovelas_2012.svg/revision/latest?cb=20201112235141" group-title="Novela",TLNovelas Univision (Segunda opção)
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/99829
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (Terceira opção)
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist_1024x576.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",TLNovelas 2
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63200
+#EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Pluto TV Telenovelas
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
@@ -115,8 +118,6 @@ https://spt-sonyonecompetencias-1-mx.tcl.wurl.tv/playlist.m3u8
 https://spt-comedias-1-us.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCaravelas.br" tvg-logo="https://i.imgur.com/naVyW1Z.png" group-title="Novela",TV Caravelas
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
-#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
-http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2437cbe531e5ae3848b86db3d2c212e3.webp" group-title="Novela",TV Novelas
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a464ae68b020893d77567b327533efa8.webp" group-title="Novela",TVI Ficção
@@ -149,6 +150,8 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:0 tvg-country="ES" tvg-logo="https://pbs.twimg.com/media/FxO4KzSWIAI6A9f.jpg" group-title="Novela",TNT Novela (Espanhol)
+http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/219053
 #EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/1200px-Vizion_Plus.svg.png" group-title="Novela",VIZION PLUS (Albania)
 https://mfe01.tring.al/delta/105/out/u/1180_1.m3u8
 #EXTINF:0 tvg-logo="https://ramenparados.com/wp-content/uploads/2023/06/Pluto-TV-K-Drama.jpg" group-title="Novela", Pluto TV K-Drama (Novelas Coreanas)
@@ -1265,8 +1268,7 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
 #EXTINF:-1 tvg-id="AmazonSat.br" tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Geral",Amazon Sat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
 #EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="Geral",Rede Brasil de Comunicacao
 http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
 #EXTINF:-1 tvg-id="RedeCaxias.br" tvg-logo="https://i.imgur.com/zqiOQJ1.png" group-title="Geral",Rede Caxias
@@ -2655,8 +2657,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes", Chaves (Desenho Animado)
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Univision_tlnovelas_%282019%29.svg/1920px-Univision_tlnovelas_%282019%29.svg.png" group-title="Novela",TLNovelas Univision (México)
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63201
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes", TV Santa
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
@@ -2682,10 +2682,7 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
-http://dns.acaidopara.net:8080/George4899/Halas4899/897603
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Novelas
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Amor Secreto
 http://dns.acaidopara.net:8080/George4899/Halas4899/897604
 #EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Café com Aroma de Mulher
@@ -2696,8 +2693,6 @@ https://i.mjh.nz/PlutoTV/5e84dbf4a838b60007ffbba1-alt.m3u8
 https://i.mjh.nz/PlutoTV/5e84dc59026b9b000766f9a2-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Curro Jiménez
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1acd36779de70007a680d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 channel-id="pluto-5e84dc59026b9b000766f9a2" tvg-id="5e84dc59026b9b000766f9a2" tvg-chno="2725" tvg-logo="" group-title="Novela",Pluto TV Telenovelas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60b4c06717da110007ee1af6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0,A&E FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/107813.m3u8
