@@ -2,6 +2,10 @@
 
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=768" group-title="Vix", Vix Teresa
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Grey%27s_Anatomy_Logo.svg/2560px-Grey%27s_Anatomy_Logo.svg.png" group-title="Novela",Grey's Anatomy
+http://dns.acaidopara.net:8080/George4899/Halas4899/896839
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a9/Homens_de_preto_s%C3%A9rie.jpg/revision/latest?cb=20221106002304&path-prefix=pt-br" group-title="Filmes",Homens de Preto (A série animada)
+http://dns.acaidopara.net:8080/George4899/Halas4899/82970
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Vix", Vix La rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=768" group-title="Vix", Vix Cómo dice el dicho
