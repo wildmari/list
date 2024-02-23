@@ -6,6 +6,8 @@ https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
 http://dns.acaidopara.net:8080/George4899/Halas4899/896839
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a9/Homens_de_preto_s%C3%A9rie.jpg/revision/latest?cb=20221106002304&path-prefix=pt-br" group-title="Filmes",Homens de Preto (A série animada)
 http://dns.acaidopara.net:8080/George4899/Halas4899/82970
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novela",Um Maluco no Pedaço
+http://dns.acaidopara.net:8080/George4899/Halas4899/897969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novelas",O Rei do Gado
 http://dns.acaidopara.net:8080/George4899/Halas4899/897607
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Vix", Vix La rosa de Guadalupe
