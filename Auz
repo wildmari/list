@@ -2760,6 +2760,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Chespirito_1993_text_logo.png" group-title="Filmes",[24H] Chesperito
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110576
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/Chespirito_1993_text_logo.png" group-title="Filmes",[24H] Chesperito 2
+http://168.205.87.198:8555/live/1492/123456/159.m3u8?ManoTV
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves
 http://168.205.87.198:8555/live/1496/123456/159.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/turma-do-kamil/images/6/67/Chaves.png/revision/latest?cb=20210321171029&path-prefix=pt-br" group-title="Filmes",[24H] Chaves (Segunda opção)
@@ -2813,6 +2815,8 @@ http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&ex
 http://51.159.104.29:8080/mrbean/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
 http://dns.acaidopara.net:8080/George4899/Halas4899/11593
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 2
+http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/82906
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
@@ -2858,6 +2862,8 @@ https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",Filmes de Faroeste
 http://iptvplay.xyz:8080/serginho23/s2155151o/75775
+#EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/herois/images/0/00/Popeye_the_Sailor.png/revision/latest?cb=20221219211943&path-prefix=pt-br" group-title="Filmes",Popeye
+http://24hrs.homelinux.com:80/24H-Popeye.S01/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1,[24H] Shurato
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 1
