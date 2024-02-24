@@ -2712,6 +2712,10 @@ http://ddsw.xyz:80/8590438094/9912004092/968556
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",[24H] Tom & Jerry (Terceira opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2220051.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",[24H] Tom & Jerry (Quarta opção)
+http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
+#EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",[24H] Faísca e Fumaça
+http://dns.acaidopara.net:8080/George4899/Halas4899/84570
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
 http://168.205.87.198:8555/live/1501/123456/239.m3u8
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
