@@ -2984,9 +2984,9 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219891.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219892.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 5
 http://infraz.top:80/u8sp825b/dmyvdxn2/27186.ts
-#EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas Latinoamérica
+#EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",Tlnovelas Latinoamérica
 http://190.90.154.73:8080/play/a01d/index.m3u8
-#EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas México
+#EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",Tlnovelas México
 http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Largados_e_Pelados_Brasil_poster.jpg" group-title="Filmes",LARGADOS E PELADOS
 http://infraz.top:80/u8sp825b/dmyvdxn2/27171.ts
@@ -3132,5 +3132,9 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/531687
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531688
 #EXTINF:-1 ,24/7 | Cachito de Cielo
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531689
-#EXTINF:-1,tvg-logo="https://archive.org/download/novelas_202402/novelas.png",Novelas
-http://archive.org/download/PremierPS3/73L3N0V3L4515.m3u
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-ec-CS--ofJs/X3JIogfGJlI/AAAAAAAACfk/B710fR-MbQQj5XrgO2D9llKhlg6MknENQCLcBGAsYHQ/w200-h200/Maria%2Bla%2Bdel%2Bbarrio.png",24/7 María la del barrio (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/62994
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-lTilkZxbtW4/X0sR1YHSEuI/AAAAAAAACcI/JZ6fxlv28eM38wlKD3S6cB6GrJXkqXVOACLcBGAsYHQ/w209-h209/Maria%2BMercedes.png",24/7 María Mercedes (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59233
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-LOEdyUH_OUM/X0FroNXlyfI/AAAAAAAACak/c39C7jxrMkEPbB8DGO4qQ-YiKTnIYqieACLcBGAsYHQ/w210-h210/Marimar.png",24/7 Marimar (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58061
