@@ -2695,8 +2695,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272818
 http://cs21.xyz:80/live/2545965177/0589983587/2219985.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/82/Pantera_Cor_de_Rosa.png" group-title="Filmes",A pantera cor-de-rosa (Segunda opção)
 http://cs21.xyz:80/live/2545965177/0589983587/2219986.m3u8'
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Filmes",TV RATIMBUM HD
-http://cs21.xyz:80/live/2545965177/0589983587/108360.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes",Coragem, o Cão Covarde
 http://cs21.xyz:80/live/2545965177/0589983587/2219876.m3u8
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes",Coragem, o Cão Covarde (Segunda opção)
@@ -2743,6 +2742,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2220051.m3u8
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",Desenho Faísca e Fumaça
 http://dns.acaidopara.net:8080/George4899/Halas4899/84570
+#EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",Desenho Faísca e Fumaça 2
+http://infraz.top:80/u8sp825b/dmyvdxn2/59589.ts
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
 http://168.205.87.198:8555/live/1501/123456/239.m3u8
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
@@ -2751,6 +2752,12 @@ http://168.205.87.198:8555/live/1501/123456/238.m3u8
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2019/08/27/800903/20190827144357231922i.jpg" group-title="Filmes",Bananas de Pijamas
 http://dns.acaidopara.net:8080/George4899/Halas4899/84566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://f.i.uol.com.br/fotografia/2016/03/27/598431-970x600-1.jpeg" group-title="Filmes",Bananas de Pijamas (Animação)
+http://infraz.top:80/u8sp825b/dmyvdxn2/233895.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Bibo_Pai_e_Bob_Filho.jpg" group-title="Filmes",Bibo pai e Bob filho
+http://infraz.top:80/u8sp825b/dmyvdxn2/233901.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",CASTELO RÁ-TIM-BUM
+http://infraz.top:80/u8sp825b/dmyvdxn2/233922.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.portallos.com.br/wp-content/uploads/2021/08/A-Vaca-e-o-Frango.jpg" group-title="Filmes",A Vaca e o Frango  
 http://dns.acaidopara.net:8080/George4899/Halas4899/82782
 #EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes",Mi Televisión Classica (Faroeste)
@@ -2824,6 +2831,14 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
 #EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes",Chaves (Desenho Animado) 2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272931
+#EXTINF:-1,24H-CHAVES DESENHO PRIMEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5987
+#EXTINF:-1,24H-CHAVES  DESENHO SEGUNDA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5979
+#EXTINF:-1,24H-CHAVES DESENHO QUARTA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5988
+#EXTINF:-1,24H-CHAVES DESENHO TERCEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5989
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes",TV Santa
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
@@ -2832,20 +2847,32 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/asaventurasdetintim/images/2/23/Tintim1.jpg/revision/latest?cb=20160611190341&path-prefix=pt-br" group-title="Filmes",As Aventuras de Tintim
 http://dns.acaidopara.net:8080/George4899/Halas4899/82744
-#EXTINF:-1,Sitio do Pica-Pau Amarelo
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/asaventurasdetintim/images/2/23/Tintim1.jpg/revision/latest?cb=20160611190341&path-prefix=pt-br" group-title="Filmes",As Aventuras de Tintim 2
+http://infraz.top:80/u8sp825b/dmyvdxn2/233884.ts
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Segunda opção)
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Terceira opção)
 http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quarta opção)
+http://infraz.top:80/u8sp825b/dmyvdxn2/172943.ts
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quinta opção)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6291
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
 http://dns.acaidopara.net:8080/George4899/Halas4899/11593
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 2
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 3
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272662
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 4
+http://infraz.top:80/u8sp825b/dmyvdxn2/27167.ts
+#EXTINF:-1,Sitio do Pica-Pau Amarelo (Animação)
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272886
+#EXTINF:-1,Sitio do Pica-Pau Amarelo (Antigo)
+http://infraz.top:80/u8sp825b/dmyvdxn2/42040.ts
+#EXTINF:-1,Sitio do Pica-Pau Amarelo (Antigo) 2
+http://infraz.top:80/u8sp825b/dmyvdxn2/27161.ts
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/82906
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
@@ -2864,6 +2891,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272912
 #EXTINF:-1,Luluzinha 4
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272913
+#EXTINF:-1,Luluzinha 5
+http://infraz.top:80/u8sp825b/dmyvdxn2/27187.ts
 
 #EXTINF:0 tvg-country="MX" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d98a8d4a510015ea95a7a8e6daed8baf82e51a17b4dd096b2a0983c7258ce670.jpg" group-title="Novela",Acorrentada
 http://dns.acaidopara.net:8080/George4899/Halas4899/897603
@@ -2887,6 +2916,52 @@ https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=768" group-title="Novela",Vix Las 3 Marias
 https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6215020129e374a01b6c3c04/cc8d5643616bf5cabbf38095a2410ce3?tr=q-80&w=750" group-title="Novela",Grandes Parejas
+https://linear-318.frequency.stream/mt/studio/318/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Novela",Angelique
+https://linear-321.frequency.stream/mt/studio/321/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063f4749d9bc7e66aa9d1b/e0e9822f4056a475c0091eb9f6fa3ccf?tr=q-80&w=750" group-title="Novela",Los Héroes del Norte
+https://linear-323.frequency.stream/mt/studio/323/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62157d10eb81d29539bf7cb6/8ab1a3ec81c556fafe809ae04e46e395?tr=q-80&w=750" group-title="Novela",Galanes
+https://linear-325.frequency.stream/mt/studio/325/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750" group-title="Novela",Las 3 Marias
+https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4a/Rebelde-Way-Argentina.jpg" group-title="Novela",Rebelde
+https://linear-335.frequency.stream/mt/studio/335/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62067bafe60b4f65c744443e/ddac3d628e29430d0af295b7f9d1621e?tr=q-80&w=750" group-title="Novela",Novelas de Oro
+https://linear-429.frequency.stream/mt/studio/429/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6235c3b13bef6caae937b824/86c4687f5c02234d8646d1577045ef85?tr=q-80&w=750" group-title="Novela",Hasta que el dinero nos separe
+https://linear-447.frequency.stream/mt/studio/447/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fatosdesconhecidos.com.br/wp-content/uploads/2016/10/fernando_colunga_y_gabriela_spanic_la_usurpadora-1212x744.jpg" group-title="Novela",La Usurpadora
+https://linear-448.frequency.stream/mt/studio/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/623696ed4fa9c22d4088a341/6c001fa87b8af3f0bee0f985c23c8f30?tr=q-80&w=750" group-title="Novela",Una Familia de Diez
+https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62792bcf1aa44a0794223434/fa524bcd863336dd90769bed87cb8baf?tr=q-80&w=750" group-title="Novela",La Parodia
+https://linear-468.frequency.stream/mt/studio/468/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Novela",GOLDEN MULTIPLEX
+https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Novela",NOVELAS EN ESPAÑOL
+https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Novela",NOVELAS
+https://linear-429.frequency.stream/mt/studio/429/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ext" group-title="Novela",Telemundo
+http://190.90.154.73:8080/play/a04b/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",Filmes de Faroeste
 http://iptvplay.xyz:8080/serginho23/s2155151o/75775
 #EXTINF: -1 tvg-logo="https://static.wikia.nocookie.net/herois/images/0/00/Popeye_the_Sailor.png/revision/latest?cb=20221219211943&path-prefix=pt-br" group-title="Filmes",Popeye
@@ -2905,7 +2980,13 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272826
 http://cs21.xyz:80/live/2545965177/0589983587/2219891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 4
 http://cs21.xyz:80/live/2545965177/0589983587/2219892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 5
+http://infraz.top:80/u8sp825b/dmyvdxn2/27186.ts
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas Latinoamérica
 http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novelas",Tlnovelas México
 http://181.78.105.146:2000/play/a08d/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Largados_e_Pelados_Brasil_poster.jpg" group-title="Filmes",LARGADOS E PELADOS
+http://infraz.top:80/u8sp825b/dmyvdxn2/27171.ts
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/61/1a/48/611a48bbc96bf401527ec82346e8b6cd.jpg" group-title="Filmes",O PEQUENO URSO
+http://infraz.top:80/u8sp825b/dmyvdxn2/59633.ts
