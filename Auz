@@ -3132,27 +3132,5 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/531687
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531688
 #EXTINF:-1 ,24/7 | Cachito de Cielo
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531689
-#EXTINF:-1 ,24/7 | Angela Anaconda
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531691
-#EXTINF:-1 ,24/7 | Babar
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531692
-#EXTINF:-1 ,24/7 | Birdman y el Trío Galaxia
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531693
-#EXTINF:-1 ,24/7 | Bob Esponja
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531694
-#EXTINF:-1 ,24/7 | Calabozos y Dragones
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531696
-#EXTINF:-1 ,24/7 | Cantinflas Show
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531697
-#EXTINF:-1 ,24/7 | 3x3 Ojos
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531699
-#EXTINF:-1 ,24/7 | El Mito de Sísifo
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531702
-#EXTINF:-1 ,24/7 | Estamos Muertos
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531703
-#EXTINF:-1 ,24/7 | Érase un Amor Rural
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531704
-#EXTINF:-1 ,24/7 | Dulce Hogar
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531706
-#EXTINF:-1 ,24/7 | Cowboy de Copenhague
-http://home-playtv.com:8080/restreamhome/HUvCLa351719/531708
+#EXTINF:-1,tvg-logo="https://archive.org/download/novelas_202402/novelas.png",Novelas
+http://archive.org/download/PremierPS3/73L3N0V3L4515.m3u
