@@ -2742,8 +2742,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/2220051.m3u8
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",Desenho Faísca e Fumaça
 http://dns.acaidopara.net:8080/George4899/Halas4899/84570
-#EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",Desenho Faísca e Fumaça 2
-http://infraz.top:80/u8sp825b/dmyvdxn2/59589.ts
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
 http://168.205.87.198:8555/live/1501/123456/239.m3u8
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
@@ -2752,12 +2750,6 @@ http://168.205.87.198:8555/live/1501/123456/238.m3u8
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.diariodepernambuco.com.br/static/app/noticia_127983242361/2019/08/27/800903/20190827144357231922i.jpg" group-title="Filmes",Bananas de Pijamas
 http://dns.acaidopara.net:8080/George4899/Halas4899/84566
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://f.i.uol.com.br/fotografia/2016/03/27/598431-970x600-1.jpeg" group-title="Filmes",Bananas de Pijamas (Animação)
-http://infraz.top:80/u8sp825b/dmyvdxn2/233895.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/17/Bibo_Pai_e_Bob_Filho.jpg" group-title="Filmes",Bibo pai e Bob filho
-http://infraz.top:80/u8sp825b/dmyvdxn2/233901.ts
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",CASTELO RÁ-TIM-BUM
-http://infraz.top:80/u8sp825b/dmyvdxn2/233922.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.portallos.com.br/wp-content/uploads/2021/08/A-Vaca-e-o-Frango.jpg" group-title="Filmes",A Vaca e o Frango  
 http://dns.acaidopara.net:8080/George4899/Halas4899/82782
 #EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes",Mi Televisión Classica (Faroeste)
@@ -2849,16 +2841,12 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/asaventurasdetintim/images/2/23/Tintim1.jpg/revision/latest?cb=20160611190341&path-prefix=pt-br" group-title="Filmes",As Aventuras de Tintim
 http://dns.acaidopara.net:8080/George4899/Halas4899/82744
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/asaventurasdetintim/images/2/23/Tintim1.jpg/revision/latest?cb=20160611190341&path-prefix=pt-br" group-title="Filmes",As Aventuras de Tintim 2
-http://infraz.top:80/u8sp825b/dmyvdxn2/233884.ts
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Segunda opção)
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Terceira opção)
 http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quarta opção)
-http://infraz.top:80/u8sp825b/dmyvdxn2/172943.ts
 #EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quinta opção)
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6291
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
@@ -2867,14 +2855,8 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/11593
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 3
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272662
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 4
-http://infraz.top:80/u8sp825b/dmyvdxn2/27167.ts
 #EXTINF:-1,Sitio do Pica-Pau Amarelo (Animação)
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272886
-#EXTINF:-1,Sitio do Pica-Pau Amarelo (Antigo)
-http://infraz.top:80/u8sp825b/dmyvdxn2/42040.ts
-#EXTINF:-1,Sitio do Pica-Pau Amarelo (Antigo) 2
-http://infraz.top:80/u8sp825b/dmyvdxn2/27161.ts
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/82906
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
@@ -2893,8 +2875,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272912
 #EXTINF:-1,Luluzinha 4
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272913
-#EXTINF:-1,Luluzinha 5
-http://infraz.top:80/u8sp825b/dmyvdxn2/27187.ts
 
 #EXTINF:0 tvg-country="MX" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d98a8d4a510015ea95a7a8e6daed8baf82e51a17b4dd096b2a0983c7258ce670.jpg" group-title="Novela",Acorrentada
 http://dns.acaidopara.net:8080/George4899/Halas4899/897603
@@ -2982,8 +2962,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272826
 http://cs21.xyz:80/live/2545965177/0589983587/2219891.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 4
 http://cs21.xyz:80/live/2545965177/0589983587/2219892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/8/8b/Doug_Disney.jpeg/revision/latest?cb=20220323164124&path-prefix=pt-br" group-title="Filmes",Doug 5
-http://infraz.top:80/u8sp825b/dmyvdxn2/27186.ts
+
 #EXTINF:-1 tvg-id="MX | Tlnovelas Latinoamérica" tvg-name="MX | Tlnovelas Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",Tlnovelas Latinoamérica
 http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",Tlnovelas México
