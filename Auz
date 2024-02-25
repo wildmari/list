@@ -2821,18 +2821,6 @@ http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110624
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/3000.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Filmes",Grjngo Espanhol
 https://i.mjh.nz/SamsungTVPlus/ESBC2700002LO.m3u8
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes",Chaves (Desenho Animado)
-http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
-#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes",Chaves (Desenho Animado) 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272931
-#EXTINF:-1,24H-CHAVES DESENHO PRIMEIRA TEMPORADA
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5987
-#EXTINF:-1,24H-CHAVES  DESENHO SEGUNDA TEMPORADA
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5979
-#EXTINF:-1,24H-CHAVES DESENHO QUARTA TEMPORADA
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5988
-#EXTINF:-1,24H-CHAVES DESENHO TERCEIRA TEMPORADA
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5989
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/sIHsf5pGc1A/sddefault.jpg" group-title="Filmes",TV Santa
 https://br5093.streamingdevideo.com.br/tvtabela/tvtabela/chunklist_w1023271820.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/proxy/-7TM2oGdd15CyPyKC7DCS_THLpiP_vv2ReXvNHCj90ndLJ3H6Kd4Ylfi9e6wz1Zw5Z9zBDFP5hfuxCnMrgKNCeDjIdw_-og17l7210NlgSeA4GhbLYFoG0y-KGICj2il3BD3" group-title="Filmes",ENTRETENDO FILMES
@@ -2841,40 +2829,17 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/asaventurasdetintim/images/2/23/Tintim1.jpg/revision/latest?cb=20160611190341&path-prefix=pt-br" group-title="Filmes",As Aventuras de Tintim
 http://dns.acaidopara.net:8080/George4899/Halas4899/82744
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Segunda opção)
-http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Terceira opção)
-http://51.159.104.29:8080/mrbean/index.m3u8
-#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quinta opção)
-http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6291
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões
 http://dns.acaidopara.net:8080/George4899/Halas4899/11593
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 2
 http://24hrs.homelinux.com:80/24H-ostrapalhoes/video.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/9e/Trapalhoes.jpg" group-title="Filmes",Os Trapalhões 3
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272662
-#EXTINF:-1,Sitio do Pica-Pau Amarelo (Animação)
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272886
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
-http://dns.acaidopara.net:8080/George4899/Halas4899/82906
-#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272929
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/cf/Addams_Family_%28HB%29.jpg" group-title="Filmes",A família Adams
 http://dns.acaidopara.net:8080/George4899/Halas4899/82907
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a9/Homens_de_preto_s%C3%A9rie.jpg/revision/latest?cb=20221106002304&path-prefix=pt-br" group-title="Filmes",Homens de Preto (A série animada)
 http://dns.acaidopara.net:8080/George4899/Halas4899/82970
-#EXTINF:0,Luluzinha 1
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
-#EXTINF:0,Luluzinha 2
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
-#EXTINF:-1,Luluzinha 3
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272912
-#EXTINF:-1,Luluzinha 4
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272913
+
 
 #EXTINF:0 tvg-country="MX" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/d98a8d4a510015ea95a7a8e6daed8baf82e51a17b4dd096b2a0983c7258ce670.jpg" group-title="Novela",Acorrentada
 http://dns.acaidopara.net:8080/George4899/Halas4899/897603
@@ -2973,6 +2938,62 @@ http://infraz.top:80/u8sp825b/dmyvdxn2/27171.ts
 http://infraz.top:80/u8sp825b/dmyvdxn2/59633.ts
 
 
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-AJI0nPHhX7Y/X3JAAEu_NuI/AAAAAAAACfY/zbdGp6HIPG8eTI-CBB3UmpLo8jr3SlYYACLcBGAsYHQ/w200-h200/Luz%2BClarita.png",24/7 Luz Clarita
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/62993
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-UY1h7qc-4L8/X3pRPjHJzZI/AAAAAAAACuQ/QYU2JhQgIm03Scd2mzbI6xX0eq7eriz2QCLcBGAsYHQ/w200-h200/Los%2BSerrano.png",24/7 Los Serrano (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63585
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/--9u7eJeq8no/XucGCVNfDNI/AAAAAAAACFE/-C2o2T4SApMYVxXJuwuw2ZL6AJbBt0n4gCLcBGAsYHQ/s200/Rubi.png",24/7 Rubi (e)(SD)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/37807
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-NJOc9-SWj_U/X3J0oF4n3CI/AAAAAAAACf8/68oyNbD9RcYCn2SV6X89nir5s2CKLVo4ACLcBGAsYHQ/w200-h200/Xica%2Bda%2Bsilva.png",24/7 Xica Da Silva (e)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/62997
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-p_i9w0OZlsI/Xz88xUiHfjI/AAAAAAAABKQ/ZNiXDDTDvZ0ylIjUC2Mu3B4Yi4iMD9VRACLcBGAsYHQ/w200-h200/6%2BGala%2Bvisi%25C3%25B3n.png",NOV-Galavision Miami (T)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157048
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-p_i9w0OZlsI/Xz88xUiHfjI/AAAAAAAABKQ/ZNiXDDTDvZ0ylIjUC2Mu3B4Yi4iMD9VRACLcBGAsYHQ/w200-h200/6%2BGala%2Bvisi%25C3%25B3n.png",NOV-Galavision NY (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157049
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-m1oCMFjG3ug/Xz87KGiI1EI/AAAAAAAABJ4/ArWG1xLYopM3dqWio3izvW6V-8QWOAOlwCLcBGAsYHQ/w200-h200/5%2BPasiones.png",NOV-Pasiones (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/3253
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png",NOV-Unicable (A)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1283
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-R4850qWMRRM/Xz8-484rEaI/AAAAAAAABK0/gZWnuvKx8ss-Gdc8vGOdQY0PlY8-hVr3wCLcBGAsYHQ/w200-h200/8%2BUnicable.png",NOV-Unicable (L)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1284
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",NOV-Unimas (M)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/1282
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-Jsf5T1tyaT0/Xz86K8Fi9aI/AAAAAAAABJs/dC669Vkn_ecmmwo9N72w5p_a3GVwE5eaQCLcBGAsYHQ/w200-h200/4%2Bunimas.png",NOV-UNIMáS New York (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157037
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-I5coVQh61s8/XzNOnK_MruI/AAAAAAAAAtg/FXnVyaZkKrso3K6ppfYzk9omGs-ttSgXQCLcBGAsYHQ/w200-h200/53%2BUniverso%2Btv.png",NOV-Universo (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/69572
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-6M6hQPgGFJA/XzRaku-tHtI/AAAAAAAAA48/8r7dtHJwJ1E80DId_OZOGi-28-hwonydgCLcBGAsYHQ/w200-h200/124%2BTv%2Bone.png",NOV-Universo Este (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/65424
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision - Chicago (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157029
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (WXTV-New York NY) (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157015
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (X)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157014
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Chicago (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157030
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Houston (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157032
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157022
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Los Angeles (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157025
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Miami (M)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157019
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Miami (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157021
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision New York (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157016
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision New York (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157017
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Phoenix (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157026
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision San Francisco (X)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/157034
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision TLNovelas (TV)(720)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/103667
+#EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision TLNovelas (X)(1080)
+http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/99083
 
 
 #EXTINF:-1 ,24/7 Alias el Mexicano
@@ -3117,3 +3138,40 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/62994
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59233
 #EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-LOEdyUH_OUM/X0FroNXlyfI/AAAAAAAACak/c39C7jxrMkEPbB8DGO4qQ-YiKTnIYqieACLcBGAsYHQ/w210-h210/Marimar.png",24/7 Marimar (e)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58061
+#EXTINF:-1,Sitio do Pica-Pau Amarelo (Animação)
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272886
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes",Chaves (Desenho Animado)
+http://cs21.xyz:80/live/2545965177/0589983587/2219874.m3u8
+#EXTINF:0 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8fc1e0950991e5e7afd83479b7ab1e741b96e4612cd195ad40d4dbc5da54a51e._RI_TTW_.jpg" group-title="Filmes",Chaves (Desenho Animado) 2
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272931
+#EXTINF:-1,24H-CHAVES DESENHO PRIMEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5987
+#EXTINF:-1,24H-CHAVES  DESENHO SEGUNDA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5979
+#EXTINF:-1,24H-CHAVES DESENHO QUARTA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5988
+#EXTINF:-1,24H-CHAVES DESENHO TERCEIRA TEMPORADA
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/5989
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado
+http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/110489
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Segunda opção)
+http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Terceira opção)
+http://51.159.104.29:8080/mrbean/index.m3u8
+#EXTINF:-1 tvg-logo="https://f.i.uol.com.br/fotografia/2015/06/09/518902-970x600-1.jpeg" group-title="Filmes",Mr.Bean Animado (Quinta opção)
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/6291
+
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
+http://dns.acaidopara.net:8080/George4899/Halas4899/82906
+#EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272929
+#EXTINF:0,Luluzinha 1
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219932.m3u8
+#EXTINF:0,Luluzinha 2
+#EXTVLCOPT:network-caching=1000
+http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
+#EXTINF:-1,Luluzinha 3
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272912
+#EXTINF:-1,Luluzinha 4
+http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272913
