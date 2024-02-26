@@ -3282,3 +3282,5 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 http://ncw.one:80/live/David1/David1/234416.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
 http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AREA RESTRITA AEROPORTO³" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
+http://ncw.one:80/live/David1/David1/234057.m3u8
