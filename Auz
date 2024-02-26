@@ -3219,7 +3219,7 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219933.m3u8
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272912
 #EXTINF:-1,Luluzinha 4
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272913
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",Vivax
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",VIVAX
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
@@ -3229,4 +3229,5 @@ http://cs21.xyz:80/live/2545965177/0589983587/617954.m3u8
 #EXTINF:0,TNT NOVELAS SD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
-
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="Filmes",SÉRIES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
