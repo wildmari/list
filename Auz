@@ -3282,5 +3282,18 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 http://ncw.one:80/live/David1/David1/234416.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
 http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PLANETA XUXA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA PLANETA XUXA (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TV CRUJ (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA TV CRUJ (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA RETRATO FALADO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA RETRATO FALADO (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SABADÃO SERTANEJO (CLÁSSICO
+http://ncw.one:80/live/David1/David1/234606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SHOW DO MILHÃO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234607.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="AREA RESTRITA AEROPORTO³" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
 http://ncw.one:80/live/David1/David1/234057.m3u8
