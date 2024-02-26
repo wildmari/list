@@ -440,28 +440,67 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/1636079155430211588/e2mDBPJQ_400x400.jpg" group-title="Geral",TV Zyn (BR)
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-#EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="https://www.cm-caminha.pt/thumbs/cmcaminha/uploads/content_image/image/388/3m1a3375_1_1024_2500.jpg" group-title="Geral",Câmera em Vila Praia de Âncora (Portugal)
+#EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="https://www.cm-caminha.pt/thumbs/cmcaminha/uploads/content_image/image/388/3m1a3375_1_1024_2500.jpg" group-title="Câmera",Câmera em Vila Praia de Âncora (Portugal)
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Geral",Câmera em Umuarama/PR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Câmera em Cascavel/PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral", Câmera em Goiânia/GO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera" Câmera em Goiânia/GO
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Morro do Mendanha (GOIÂNIA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em Morro do Mendanha (GOIÂNIA)
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Avenida 85 (GOIÂNIA)
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em Avenida 85 (GOIÂNIA)
 https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Rua 9 (Cartório Índio Artiaga) Setor Oeste
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em Rua 9 (Cartório Índio Artiaga) Setor Oeste
 https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
-#EXTINF:0 tvg-logo="https://static.cestasmichelli.com.br/images/localidades/Bandeira-da-Cidade-de-Guaratuba-PR.jpg" group-title="Geral", Câmera em Guaratuba/PR - Praia Central
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em AV. Jamel Cecílio (GOIÂNIA)
+https://hunq9fz8yk.zoeweb.tv/flamboyant/flamboyant.stream/chunklist.m3u8
+#EXTINF:0 tvg-logo="https://static.cestasmichelli.com.br/images/localidades/Bandeira-da-Cidade-de-Guaratuba-PR.jpg" group-title="Câmera",Câmera em Guaratuba/PR - Praia Central
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Geral", Câmera na Ponte Internacional da Amizade - Foz/PR
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Câmera",Câmera na Ponte Internacional da Amizade - Foz/PR
 https://5b33b873179a2.streamlock.net:1443/camerapontefoz/camerapontefoz.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a291121d5e3b7aec1bfed26767b3f47b.webp" group-title="Geral", Câmera em Lago Negro - Gramado/RS
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Câmera",Câmera Sentido Ponte Internacional da Amizade - Foz/PR
+https://video02.logicahost.com.br/portaldacidade/fozsentidopontedaamizade.stream/chunklist_w781220348.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Câmera",Câmera Sentido Foz, Ponte Internacional da Amizade - Foz/PR
+https://video02.logicahost.com.br/portaldacidade/fozaduanapontedaamizade.stream/chunklist_w1164603525.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/a291121d5e3b7aec1bfed26767b3f47b.webp" group-title="Câmera",Câmera em Lago Negro - Gramado/RS
 https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-613126be2cbe.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Geral", Câmera no Pico do Gavião (Divisa de MG e SP)
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8875cb793208fb74d4ab6225972247a1.webp" group-title="Câmera",Câmera no Pico do Gavião (Divisa de MG e SP)
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Praia_de_Copacabana_-_Rio_de_Janeiro%2C_Brasil.jpg" group-title="Câmera",Câmera em Copacabana (Rio de Janeiro/BR)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 1)
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 2)
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpgp" group-title="Câmera",Câmera na Africa (Africam 3)
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 4)
+https://outbound-production.explore.org/stream-production-49/.m3u8
+
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Guarulhos (Sao Paulo-Guarulhos Airport) [GRU]
+https://ythlsgo.onrender.com/channel/UCNZCKDhAVtbh7sddChTxI7w.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Cascavel [CAC]
+https://5b33b873179a2.streamlock.net:1443/aeroportocascavel/aeroportocascavel.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Curitiba [CWB]
+https://ythlsgo.onrender.com/channel/UClRZWniZ39tsF-LHcevWY1Q.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Porto Alegre [POA]
+https://ythlsgo.onrender.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Recife [REC]
+https://ythlsgo.onrender.com/channel/UCdz_Kbzu83ZE86LVcGFN0JA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Sorocaba [SOD]
+https://ythlsgo.onrender.com/channel/UCG096Tm3P5nCuiazCxTML9g.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Aeroporto de Varginha [VAG]
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) [VCP]
+https://ythlsgo.onrender.com/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-id="Tocantins_FM_Gurupi.br" tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/2be186d23b3a90f9ed70997cb8602349.webp" group-title="Geral",Tocantins FM Gurupi
@@ -3237,6 +3276,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/617954.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="Filmes",SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/59ca1438d6f0ebaee0a51cb6f2a4d8e7.webp" group-title="Geral",Televisão Pública de Moçambique
+http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD³" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI HD
 http://ncw.one:80/live/David1/David1/234416.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
