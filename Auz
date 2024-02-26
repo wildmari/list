@@ -222,8 +222,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d344
 https://filmex-filmexclasico-xumo.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://belleneige.com/wp-content/uploads/2019/07/movie-popcorn-png-9.png" group-title="Filmes",Filmstream (BR)
 https://spi-filmstream-1-br.tcl.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Filmes",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 
 
 #EXTINF:-1 tvg-id="TelevisaAguascalientes.mx" tvg-logo="https://i.imgur.com/etScPo0.png" group-title="Geral",Televisa Aguascalientes
@@ -1707,8 +1705,6 @@ http://197.243.19.131:1935/rtv/rtv/chunklist_w2093872577.m3u8?checkedby:iptvcat.
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="SD" tvg-logo="https://ik.imagekit.io/ulangotv/image/upload/tr:n-small_tn/3781376_logo_africa_tv_2.png" group-title="Geral",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="Geral",Rede Brasil
-https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/JSiZG2B.png" group-title="Geral",Rede Mais (720p)
 https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/KVdTi0M.png" group-title="Novela",Rede Meio Norte (1080p)
