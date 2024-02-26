@@ -448,6 +448,12 @@ https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/pla
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral", Câmera em Goiânia/GO
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Morro do Mendanha (GOIÂNIA)
+https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Avenida 85 (GOIÂNIA)
+https://hunq9fz8yk.zoeweb.tv/av85/av85.stream/chunklist_w123426081.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Geral",   Câmera em Rua 9 (Cartório Índio Artiaga) Setor Oeste
+https://hunq9fz8yk.zoeweb.tv/r9oeste/r9oeste.stream/chunklist_w1793116402.m3u8
 #EXTINF:0 tvg-logo="https://static.cestasmichelli.com.br/images/localidades/Bandeira-da-Cidade-de-Guaratuba-PR.jpg" group-title="Geral", Câmera em Guaratuba/PR - Praia Central
 https://video02.logicahost.com.br/portaldacidade/guaratubarestaurantebrisadomar.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/4f9c0be8620683d55d178d1657ad7c96.webp" group-title="Geral", Câmera na Ponte Internacional da Amizade - Foz/PR
@@ -507,6 +513,8 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://qfm.geraistec.com.br/hlsm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Rádio", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
+#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio13581_1684193753.jpg" group-title="Rádio",LIBERAL RÁDIO (BELÉM) 97,5
+https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Rádio", Rádio Tupi FM 96.5 (Rio de Janeiro/RJ)
 https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
 #EXTINF:0 tvg-logo="https://m.media-amazon.com/images/I/51OBp-HMs3L.png" group-title="Rádio", Rádio Itatiaia 95,7 (Belo Horizonte/MG)
@@ -3229,3 +3237,7 @@ http://cs21.xyz:80/live/2545965177/0589983587/617954.m3u8
 http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/tvseries.png" group-title="Filmes",SÉRIES
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD³" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI HD
+http://ncw.one:80/live/David1/David1/234416.m3u8
+#EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
+http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
