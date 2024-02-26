@@ -2773,6 +2773,8 @@ http://cs21.xyz:80/live/2545965177/0589983587/2220051.m3u8
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://dublagembrasileira.com.br/wp-content/uploads/2023/02/fumaca_ff.jpg" group-title="Filmes",Desenho Faísca e Fumaça
 http://dns.acaidopara.net:8080/George4899/Halas4899/84570
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/e6/1c/52/e61c52d988d18dce24b48d83d23d6501.jpg" group-title="Filmes",Matracatrica e Fofoquinha
+http://5ce.co:80/wjuniiorl123/bia2118/226836
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Séries)
 http://168.205.87.198:8555/live/1501/123456/239.m3u8
 #EXTINF:0 tvg-logo="http://www.playpoca.com.br/wp-content/uploads/2022/12/logo-playpoca.png" group-title="Filmes",Playpoca (Filmes)
@@ -3250,6 +3252,12 @@ https://linear-487.frequency.stream/487/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Novela" tvg-logo="https://images.vix.com/prd/channel/623db586afc9762a1eac0949/b5ab16a619ae1968b2b86f6e2c2628ae?tr=q-80&w=1080", PURO AMOR
 https://linear-484.frequency.stream/484/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Novela",Sitio do Picapau Amarelo (1977)
+http://5ce.co:80/wjuniiorl123/bia2118/222402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Novela",SITIO DO PICA-PAU AMARELO
+http://5ce.co:80/wjuniiorl123/bia2118/221508
+
+
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
 http://dns.acaidopara.net:8080/George4899/Halas4899/82906
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 2
@@ -3293,7 +3301,13 @@ http://ncw.one:80/live/David1/David1/234605.m3u8
 http://ncw.one:80/live/David1/David1/234606.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SHOW DO MILHÃO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
 http://ncw.one:80/live/David1/David1/234607.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AREA RESTRITA AEROPORTO³" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA FANTASIA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA FANTASIA (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234600.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA LIVRE (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA LIVRE (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234601.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Geral",A VIDA SECRETA DOS ANIMAIS
+http://5ce.co:80/wjuniiorl123/bia2118/217351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
 http://ncw.one:80/live/David1/David1/234057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO 2
+http://5ce.co:80/wjuniiorl123/bia2118/217347
