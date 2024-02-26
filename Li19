@@ -8,6 +8,23 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/896839
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272708
 #EXTINF:-1,[24H] Xuxa só para Baixinhos 2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272709
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PLANETA XUXA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA PLANETA XUXA (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234602.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TV CRUJ (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA TV CRUJ (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234609.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PÂNICO - NARCOS (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA PÂNICO - NARCOS (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234603.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PÂNICO - REI DROGADO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA PÂNICO - REI DROGADO (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234604.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA RETRATO FALADO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA RETRATO FALADO (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234605.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SABADÃO SERTANEJO (CLÁSSICO
+http://ncw.one:80/live/David1/David1/234606.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SHOW DO MILHÃO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
+http://ncw.one:80/live/David1/David1/234607.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TRÓFEU IMPRENSA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA TRÓFEU IMPRENSA (CLÁSSICO
+http://ncw.one:80/live/David1/David1/234608.m3u8
+
 #EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-ec-CS--ofJs/X3JIogfGJlI/AAAAAAAACfk/B710fR-MbQQj5XrgO2D9llKhlg6MknENQCLcBGAsYHQ/w200-h200/Maria%2Bla%2Bdel%2Bbarrio.png",María la del Barrio
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/62994
 #EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-lTilkZxbtW4/X0sR1YHSEuI/AAAAAAAACcI/JZ6fxlv28eM38wlKD3S6cB6GrJXkqXVOACLcBGAsYHQ/w209-h209/Maria%2BMercedes.png",María Mercedes
