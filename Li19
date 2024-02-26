@@ -16,6 +16,22 @@ http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/59233
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/58061
 #EXTINF:-1 ,Yo soy Betty la fea
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/53166
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Guarulhos (Sao Paulo-Guarulhos Airport) [GRU]
+https://ythlsgo.onrender.com/channel/UCNZCKDhAVtbh7sddChTxI7w.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Cascavel [CAC]
+https://5b33b873179a2.streamlock.net:1443/aeroportocascavel/aeroportocascavel.stream/playlist.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Curitiba [CWB]
+https://ythlsgo.onrender.com/channel/UClRZWniZ39tsF-LHcevWY1Q.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Porto Alegre [POA]
+https://ythlsgo.onrender.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Recife [REC]
+https://ythlsgo.onrender.com/channel/UCdz_Kbzu83ZE86LVcGFN0JA.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Sorocaba [SOD]
+https://ythlsgo.onrender.com/channel/UCG096Tm3P5nCuiazCxTML9g.m3u8
+#EXTINF:1 tvg-logo="" group-title="Brazil",Aeroporto de Varginha [VAG]
+http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
+#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) [VCP]
+https://ythlsgo.onrender.com/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a9/Homens_de_preto_s%C3%A9rie.jpg/revision/latest?cb=20221106002304&path-prefix=pt-br" group-title="Filmes",Homens de Preto (A série animada)
 http://dns.acaidopara.net:8080/George4899/Halas4899/82970
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novela",Um Maluco no Pedaço
