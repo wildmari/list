@@ -442,9 +442,11 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="https://www.cm-caminha.pt/thumbs/cmcaminha/uploads/content_image/image/388/3m1a3375_1_1024_2500.jpg" group-title="Câmera",Câmera em Vila Praia de Âncora (Portugal)
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Geral",Câmera em Cascavel/PR
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná
+https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1059256964.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Flag_of_Cascavel.jpg" group-title="Câmera" Câmera em Cascavel/PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera" Câmera em Goiânia/GO
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
@@ -470,6 +472,15 @@ https://inst-wkqbj-srs-hd.camerite.services/record/1c4005b0-87bc-11e9-b90d-61312
 https://59e4b6c1beddc.streamlock.net/picodogaviao/picodogaviao.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Praia_de_Copacabana_-_Rio_de_Janeiro%2C_Brasil.jpg" group-title="Câmera",Câmera em Copacabana (Rio de Janeiro/BR)
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:0 tvg-logo="https://www.sesc-rs.com.br/wp-content/uploads/2023/02/mar-tramandai.jpeg" group-title="Câmera",Câmera em Praia de Tramandaí - RS
+https://vid1.streaming.websul.net.br/live/ods-tramandai.stream/chunklist_w1347847429.m3u8
+#EXTINF:0 tvg-logo="https://www.iserrano.com.br/admin/imagens_galeria/17/full_17_8200b358e45b80def8097d110148ba53.jpg" group-title="Câmera",Câmera em Praia de Imbé - RS
+https://vid1.streaming.websul.net.br/live/ods-imb.stream/chunklist_w752120140.m3u8
+#EXTINF:0 tvg-logo="https://turismo.passodetorres.sc.gov.br/uploads/sites/192/2022/10/2243744-420x265.jpg" group-title="Câmera",Câmera em Passo de Torres - SC
+https://vid1.streaming.websul.net.br/live/ods-torres.stream/chunklist_w1230165743.m3u8
+#EXTINF:0 tvg-logo="https://omunicipioblumenau.com.br/wp-content/uploads/2018/05/whatsapp-image-2018-05-01-at-09.40.39.jpeg" group-title="Câmera",Câmera em R. Antônio da Veiga - Blumenau - SC
+https://5a8d73edc0407.streamlock.net/bnuip200/bnuip20004.stream/chunklist_w1710145350.m3u8
+
 #EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 1)
 https://outbound-production.explore.org/stream-production-110/.m3u8
 #EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 2)
@@ -479,23 +490,36 @@ https://outbound-production.explore.org/stream-production-317/.m3u8
 #EXTINF:0 tvg-logo="https://escapetomexico.com/wp-content/uploads/2021/01/Africam-Safari.jpg" group-title="Câmera",Câmera na Africa (Africam 4)
 https://outbound-production.explore.org/stream-production-49/.m3u8
 
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Guarulhos (Sao Paulo-Guarulhos Airport) [GRU]
+#EXTINF:1 tvg-logo="https://www.aeroportodecongonhas.org/wp-content/themes/healing-touch/images/logo2.png" group-title="Aeroporto",Aeroporto de Congonhas (Congonhas Airport) 1 [CGH]
+https://cinedragon.juninho12012019.workers.dev/stream/mzJw2xw61x4/master.m3u8
+#EXTINF:1 tvg-logo="https://www.aeroportodecongonhas.org/wp-content/themes/healing-touch/images/logo2.png" group-title="Aeroporto",Aeroporto de Congonhas (Congonhas Airport) 2 [CGH]
+https://cinedragon.juninho12012019.workers.dev/stream/MGyWB5SZxlU/master.m3u8
+#EXTINF:1 tvg-logo="https://www.aeroportodecongonhas.org/wp-content/themes/healing-touch/images/logo2.png" group-title="Aeroporto",Aeroporto de Congonhas (Congonhas Airport) 3 [CGH]
+https://cinedragon.juninho12012019.workers.dev/stream/rKM8wSr3ORU/master.m3u8
+#EXTINF:1 tvg-logo="https://www.aeroportodecongonhas.org/wp-content/themes/healing-touch/images/logo2.png" group-title="Aeroporto",Aeroporto de Congonhas (Congonhas Airport) 4 [CGH]
+https://cinedragon.juninho12012019.workers.dev/stream/lUCOPzJbdfI/master.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GRUairportlogo.svg/1280px-GRUairportlogo.svg.png" group-title="Aeroporto",Aeroporto de Guarulhos (Sao Paulo-Guarulhos Airport) [GRU]
 https://ythlsgo.onrender.com/channel/UCNZCKDhAVtbh7sddChTxI7w.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Cascavel [CAC]
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GRUairportlogo.svg/1280px-GRUairportlogo.svg.png" group-title="Aeroporto",Aeroporto de Guarulhos 10L (Sao Paulo-Guarulhos Airport) 2 [GRU]
+https://cinedragon.juninho12012019.workers.dev/stream/MTnxRlajEIU/master.m3u8
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/GRUairportlogo.svg/1280px-GRUairportlogo.svg.png" group-title="Aeroporto",Aeroporto de Guarulhos 28 (Sao Paulo-Guarulhos Airport) 3 [GRU]
+https://cinedragon.juninho12012019.workers.dev/stream/OJczY5rUfwo/master.m3u8
+#EXTINF:1 tvg-logo="https://amanha.com.br/images/p/11250/b2ap3_large_Aeronave-da-Gol-pousa-na-pista-do-novo-aeroporto-de-Cascavel-no-Paran.jpeg" group-title="Aeroporto",Aeroporto de Cascavel [CAC]
 https://5b33b873179a2.streamlock.net:1443/aeroportocascavel/aeroportocascavel.stream/playlist.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Curitiba [CWB]
+#EXTINF:1 tvg-logo="https://media.gazetadopovo.com.br/2021/04/06085410/20200303_AGB_3-crop-20210406115202-960x540.jpg" group-title="Aeroporto",Aeroporto de Curitiba [CWB]
 https://ythlsgo.onrender.com/channel/UClRZWniZ39tsF-LHcevWY1Q.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Porto Alegre [POA]
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Porto_Alegre_airport_logo.svg" group-title="Aeroporto",Aeroporto de Porto Alegre [POA]
 https://ythlsgo.onrender.com/channel/UCFGIPvN1dMn4Bdo8B8WWPDw.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Recife [REC]
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Aena_Recife.svg/2560px-Aena_Recife.svg.png" group-title="Aeroporto",Aeroporto de Recife [REC]
 https://ythlsgo.onrender.com/channel/UCdz_Kbzu83ZE86LVcGFN0JA.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Sorocaba [SOD]
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Aeroporto_Bertram_Luiz_Leupolz_-_panoramio.jpg/1200px-Aeroporto_Bertram_Luiz_Leupolz_-_panoramio.jpg" group-title="Aeroporto",Aeroporto de Sorocaba [SOD]
 https://ythlsgo.onrender.com/channel/UCG096Tm3P5nCuiazCxTML9g.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Varginha [VAG]
+#EXTINF:1 tvg-logo="https://correiodosul.com/wp-content/uploads/2018/12/VARG.jpg" group-title="Aeroporto",Aeroporto de Varginha [VAG]
 http://cameras.interaviation.com.br/camera02/interaviation2.m3u8
-#EXTINF:1 tvg-logo="" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) [VCP]
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Viracoposlogo.jpg/305px-Viracoposlogo.jpg" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) [VCP]
 https://ythlsgo.onrender.com/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8
-
+#EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Viracoposlogo.jpg/305px-Viracoposlogo.jpg" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) 2 [VCP]
+https://cinedragon.juninho12012019.workers.dev/stream/vWbwFFcagFo/master.m3u8
 
 
 
