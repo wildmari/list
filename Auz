@@ -1,4 +1,29 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Terceira opção)
+http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +1
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1 (1080p)
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +2
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2 (1080p)
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="Novela",Estrella Games (1080p)
+https://estrella-games-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV East
+https://estrellatv-plex.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/estrellanews_artwork_horizontal.jpg" group-title="Novela",Estrella News (1080p)
+https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
+https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
+https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+
 #EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Novela", TV Novelas (Brasil)
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
@@ -129,26 +154,6 @@ http://stream.flynetwifi.com:1935/live/mobile-097/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:0 tvg-logo="https://kanalddrama.com/fav.png" group-title="Novela",Vive Kanal D Drama 2 (Segunda opção)
 https://amg01602-themahqfrance-vivekanald-canelatv-oionv.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-canelatv/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
-https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Terceira opção)
-http://tvpremiumhd.club/lista-gratuita/183009/on/lives.php?id=channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus1.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +1
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="LasEstrellasPlus2.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas +2
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/cms/production/441e119d-ac86-4737-a8d0-1e60f60cfd43/Estrella-Games_-_Erick_Ramirez_COLOR.png" group-title="Novela",Estrella Games (1080p)
-https://estrella-games-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV East
-https://estrellatv-plex.amagi.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/arts/estrellanews_artwork_horizontal.jpg" group-title="Novela",Estrella News (1080p)
-https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
-https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/640px-Pasiones_Tv_logo.svg.png" group-title="Novela",PASIONES
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/114379
@@ -576,7 +581,7 @@ https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/main.m3u8
 https://qfm.geraistec.com.br/hlsm/index.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d92593f1db6236550fdce9cf4751af96.webp" group-title="Rádio", Rádio Difusora 95.3 FM
 https://difusoraamaovivo.brasilstream.com.br/hls/difusoraamaovivo/index.m3u8
-#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio13581_1684193753.jpg" group-title="Rádio",LIBERAL RÁDIO (BELÉM) 97,5
+#EXTINF:0 tvg-logo="https://img.radios.com.br/radio/xl/radio13581_1684193753.jpg" group-title="Rádio",RÁDIO LIBERAL (BELÉM) 97,5
 https://www.grupoliberalmedia.com.br/radiolive/_definst_/liveradio/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Super_R%C3%A1dio_Tupi_logo_2019.png" group-title="Rádio", Rádio Tupi FM 96.5 (Rio de Janeiro/RJ)
 https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
@@ -813,10 +818,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-logo="https://i.imgur.com/kh3LGAP.png" group-title="Geral",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +1 (1080p)
-https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="MX" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Geral",Las Estrellas +2 (1080p)
-https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="RedeSul.br" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="Geral",Rede Sul
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeUTV.br" tvg-logo="https://i.imgur.com/Usw2e9d.png" group-title="Geral",Rede UTV
