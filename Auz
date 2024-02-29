@@ -2992,14 +2992,10 @@ http://cs21.xyz:80/live/2545965177/0589983587/2219892.m3u8
 http://190.90.154.73:8080/play/a01d/index.m3u8
 #EXTINF:-1 tvg-id="MX | Tlnovelas México" tvg-name="MX | Tlnovelas México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" group-title="Novela",Tlnovelas México
 http://181.78.105.146:2000/play/a08d/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/9/94/Largados_e_Pelados_Brasil_poster.jpg" group-title="Filmes",LARGADOS E PELADOS
-http://infraz.top:80/u8sp825b/dmyvdxn2/27171.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Geral",Largados e Pelados
 http://dns.acaidopara.net:8080/George4899/Halas4899/59776
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Geral",Largados e Pelados: A Tribo
 http://dns.acaidopara.net:8080/George4899/Halas4899/59876
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/236x/61/1a/48/611a48bbc96bf401527ec82346e8b6cd.jpg" group-title="Filmes",O PEQUENO URSO
-http://infraz.top:80/u8sp825b/dmyvdxn2/59633.ts
 
 #EXTINF:-1 group-title="Novela" tvg-logo="https://1.bp.blogspot.com/-0RzBYk61mqM/X3OU1bFOmwI/AAAAAAAACg4/SgHUZGI5MtYJqepBd8PMvWBzO0r5MBm-gCLcBGAsYHQ/w200-h200/Cuna%2Bde%2Blobos.png",24/7 Cuna de lobos (e)(SD)
 http://tv.proyectox.vip:8080/ossi2022/RNe48QBDyX/63076
