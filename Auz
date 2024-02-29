@@ -451,10 +451,12 @@ https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1059256964.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasao_cascavel.jpg" group-title="Câmera" Câmera em Cascavel/PR
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasao_cascavel.jpg" group-title="Câmera", Câmera em Cascavel - PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bras%C3%A3o_de_Goi%C3%A2nia.svg/640px-Bras%C3%A3o_de_Goi%C3%A2nia.svg.png" group-title="Câmera" Câmera em Goiânia/GO
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bras%C3%A3o_de_Goi%C3%A2nia.svg/640px-Bras%C3%A3o_de_Goi%C3%A2nia.svg.png" group-title="Câmera", Câmera em Goiânia - GO
 https://5a7d54e35f9d2.streamlock.net/aquariuscenter2/aquariuscenter2.stream/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em Morro do Mendanha (GOIÂNIA)
 https://5a7d54e35f9d2.streamlock.net/morromendanha1/morromendanha1.stream/chunklist_w182959856.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Goi%C3%A2nia.svg/1200px-Bandeira_de_Goi%C3%A2nia.svg.png" group-title="Câmera",Câmera em Avenida 85 (GOIÂNIA)
