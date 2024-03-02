@@ -447,10 +447,14 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 #EXTINF:0 tvg-country="PT" tvg-id="Cam_Vila_Praia_de_Ancora.pt" tvg-logo="https://www.cm-caminha.pt/thumbs/cmcaminha/uploads/content_image/image/388/3m1a3375_1_1024_2500.jpg" group-title="Câmera",Câmera em Vila Praia de Âncora (Portugal)
 https://video-auth1.iol.pt/beachcam/bcvilapraiadeancora/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná - Posto Itamaraty
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Bandeira_de_Umuarama_-_PR.svg/2560px-Bandeira_de_Umuarama_-_PR.svg.png" group-title="Câmera",Câmera em Umuarama/PR Av. Paraná - Posto Itamaraty
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1059256964.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bandeira_londrina.svg/1200px-Bandeira_londrina.svg.png" group-title="Câmera",Câmera em Londrina/PR (Slaviero Hoteis)
+https://streaming3.climaaovivo.com.br/londrina1.pr/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=cc97efa7a1d1efa5e6d15c3c3856f1421c5f1113-45642de17105e5ad3df33f6016d69fc7-1709345884-1709344084
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg/800px-Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg.png" group-title="Câmera",Câmera em Marabá/PA
+https://flussonic.jupiter.com.br/Coca_Maraba/tracks-v1/mono.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasao_cascavel.jpg" group-title="Câmera", Câmera em Cascavel - PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
