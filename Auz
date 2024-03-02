@@ -453,9 +453,12 @@ https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/pla
 https://video02.logicahost.com.br/portaldacidade/umuarapostoitamaraty.stream/chunklist_w1059256964.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Bandeira_londrina.svg/1200px-Bandeira_londrina.svg.png" group-title="Câmera",Câmera em Londrina/PR (Slaviero Hoteis)
 https://streaming3.climaaovivo.com.br/londrina1.pr/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=a2f9b1807ca5a4b57f03b828e100ec8c43f31c01-fa642e1ecd37ba3679c3ac0ec6ccf8d2-1709389113-1709387313
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg/800px-Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg.png" group-title="Câmera",Câmera em Marabá/PA
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Bandeira-acailandia.png" group-title="Câmera",Câmera em Açailândia/MA (Torre da Júpter Telecom)
+https://flussonic.jupiter.com.br/Mirante_acailandia/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg/800px-Bandeira_de_Marab%C3%A1_%28Par%C3%A1%29.svg.png" group-title="Câmera",Câmera em Marabá/PA (Torre da Júpter Telecom)
 https://flussonic.jupiter.com.br/Coca_Maraba/tracks-v1/mono.m3u8
-
+#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Pa-uruara-bandeira.jpg/640px-Pa-uruara-bandeira.jpg" group-title="Câmera",Câmera em Uruará/PA (Torre da Noctell)
+https://streaming3.climaaovivo.com.br/uruara1.pa/tracks-v1/mono.m3u8?autoplay=true&remote=no_check_ip&token=2380f220771c9362fd3f57788743478128e53664-4b51609b8436e92bd156e2ed4400f8f3-1709390065-1709388265
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Brasao_cascavel.jpg" group-title="Câmera", Câmera em Cascavel - PR
 https://5b33b873179a2.streamlock.net:1443/cameradiscolandia/cameradiscolandia.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bras%C3%A3o_de_Goi%C3%A2nia.svg/640px-Bras%C3%A3o_de_Goi%C3%A2nia.svg.png" group-title="Câmera", Câmera em Goiânia - GO
