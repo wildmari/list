@@ -23,6 +23,15 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
 https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas
+https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas -1 Hora
+https://linear-414.frequency.stream/mt/studio/414/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas -2 Horas
+https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas Latam
+https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
+
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Novela", TV Novelas (Brasil)
 https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
@@ -2943,8 +2952,6 @@ https://linear-323.frequency.stream/mt/studio/323/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62157d10eb81d29539bf7cb6/8ab1a3ec81c556fafe809ae04e46e395?tr=q-80&w=750" group-title="Novela",Galanes
 https://linear-325.frequency.stream/mt/studio/325/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62063db449d9bc6554aa9d12/4b60d07f9840c3807d1b910d845dbc8d?tr=q-80&w=750" group-title="Novela",Las 3 Marias
-https://linear-328.frequency.stream/mt/studio/328/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/4a/Rebelde-Way-Argentina.jpg" group-title="Novela",Rebelde
 https://linear-335.frequency.stream/mt/studio/335/hls/master/playlist.m3u8
@@ -3224,6 +3231,8 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/531683
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531684
 #EXTINF:-1 ,24/7 | Amores Verdaderos
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531685
+#EXTINF:-1 ,24/7 | Amores Verdaderos 2
+https://linear-305.frequency.stream/mt/studio/305/hls/master/playlist.m3u8
 #EXTINF:-1 ,24/7 | Antes Muerta Que Lichita
 http://home-playtv.com:8080/restreamhome/HUvCLa351719/531686
 #EXTINF:-1 ,24/7 | Atrévete a Soñar
@@ -3286,6 +3295,21 @@ https://linear-484.frequency.stream/484/hls/master/playlist.m3u8
 http://5ce.co:80/wjuniiorl123/bia2118/222402
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Novela",SITIO DO PICA-PAU AMARELO
 http://5ce.co:80/wjuniiorl123/bia2118/221508
+
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620c55b0361b2ef2e9203666/5b41ec01d91a07dc7b942f02ace880da?tr=q-80&w=750" group-title="Novela",La Familia P.Luche
+https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Sortilegio
+https://linear-337.frequency.stream/mt/studio/337/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Triunfo del Amor
+https://linear-338.frequency.stream/mt/studio/338/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Novela",Villanos de Novela
+https://linear-339.frequency.stream/mt/studio/339/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/6205718ffe7e9549a39d4e5e/1715238f49a3915a2653c015792e692e?tr=q-80&w=750" group-title="Novela",40 Y 20
+https://linear-340.frequency.stream/mt/studio/340/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=750" group-title="Novela",Como dice el dicho
+https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.vix.com/prd/channel/62092fc84375522eedbdd675/41cd4ccd9c9025dbd8e074b1e638957a?tr=q-80&w=750" group-title="Novela",Teresa
+https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/06/26/22/43/581500.jpg" group-title="Filmes",Du, Dudu e Edu 1
