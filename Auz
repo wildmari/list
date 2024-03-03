@@ -2977,9 +2977,6 @@ https://linear-409.frequency.stream/mt/studio/409/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ext" group-title="Novela",NOVELAS EN ESPAÑOL
 https://stormcast-novelas-2-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-1 tvg-id="ext" group-title="Novela",NOVELAS
-https://linear-429.frequency.stream/mt/studio/429/hls/master/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ext" group-title="Novela",Telemundo
 http://190.90.154.73:8080/play/a04b/index.m3u8
 
