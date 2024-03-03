@@ -3316,8 +3316,7 @@ http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/59ca1438d6f0ebaee0a51cb6f2a4d8e7.webp" group-title="Geral",Televisão Pública de Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD³" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI HD
-http://ncw.one:80/live/David1/David1/234416.m3u8
+
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
 http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
 
@@ -3337,6 +3336,12 @@ http://ncw.one:80/live/David1/David1/234600.m3u8
 http://ncw.one:80/live/David1/David1/234601.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Geral",A VIDA SECRETA DOS ANIMAIS
 http://5ce.co:80/wjuniiorl123/bia2118/217351
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 1
+http://ncw.one:80/live/David1/David1/234416.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 2 
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7919
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 3
+http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7920
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
 http://ncw.one:80/live/David1/David1/234057.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO 2
