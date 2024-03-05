@@ -3149,18 +3149,6 @@ http://cs21.xyz:80/live/2545965177/0589983587/1521395.m3u8
 #EXTINF:0,Brasileirão Série D 06 HD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/1521396.m3u8
-#EXTINF:0,Bruno e Marrone [Live 16-05-2020]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220070.m3u8
-#EXTINF:0,Bruno e Marrone [Live 3 sem propagandas]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220071.m3u8
-#EXTINF:0,Bruno e Marrone [Live 4 sem propagandas]
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220072.m3u8
-#EXTINF:0,Cachorro. Vai!
-#EXTVLCOPT:network-caching=1000
-http://cs21.xyz:80/live/2545965177/0589983587/2220057.m3u8
 #EXTINF:0,CANAL BRASIL FHD
 #EXTVLCOPT:network-caching=1000
 http://cs21.xyz:80/live/2545965177/0589983587/107855.m3u8
