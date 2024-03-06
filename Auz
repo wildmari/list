@@ -1800,7 +1800,7 @@ https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8?checkedby:iptvcat.c
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/eUM67rj.png" group-title="Geral",Rede Sul (720p)
 https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/b5xOCsC.png" group-title="Geral",Sertão TV (720p)
-http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8?checkedby:iptvcat.com
+https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w437495898.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/aMuMVvB.png" group-title="Geral",TCM 10 HD (1080p)
 https://live.tcm10.com.br/tcm10hd/stream.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="Geral",TV A Folha (720p)
