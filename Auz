@@ -3341,20 +3341,8 @@ http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
 http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA PLANETA XUXA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA PLANETA XUXA (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA TV CRUJ (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA TV CRUJ (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234609.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA RETRATO FALADO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA RETRATO FALADO (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234605.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SABADÃO SERTANEJO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SABADÃO SERTANEJO (CLÁSSICO
-http://ncw.one:80/live/David1/David1/234606.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA SHOW DO MILHÃO (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA SHOW DO MILHÃO (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234607.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA FANTASIA (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA FANTASIA (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PROGRAMA LIVRE (CLÁSSICO)³" tvg-logo="" group-title="Geral",PROGRAMA LIVRE (CLÁSSICO)
-http://ncw.one:80/live/David1/David1/234601.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/685153637413339140/7lJLV4ay_400x400.jpg" group-title="Geral",TV Santa Maria
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/chunklist_w658378804.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Geral",A VIDA SECRETA DOS ANIMAIS
 http://5ce.co:80/wjuniiorl123/bia2118/217351
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 1
