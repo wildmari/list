@@ -344,6 +344,8 @@ http://restreamus.com:8080/vnVvmta7jGwd/Qe8v7mLTKeWV/218333
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-logo="https://i.imgur.com/0sksWse.png" group-title="Geral",TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-mar-alagoas_m.png" group-title="Geral",TV Mar News (Maceió)
+https://live-c.cf.dmcdn.net/sec2(Eo29ZnU457cTNbQ8K4j6IlAS37EYLN_t0_9dl6Kfjz96-4W_IQJu87g5LDcpeQ72uUMYTHDM69TjWER8MjO54PZ-i-GYpSp65xMLp4cEINk)/dm/3/x8i500l/d/live-2.m3u8
 #EXTINF:-1 tvg-id="RedeTVTocantins.br" tvg-logo="https://i.imgur.com/SEe2ki7.png" group-title="Geral",RedeTV! Tocantins
 https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="Geral",SBT Interior
