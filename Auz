@@ -2692,6 +2692,8 @@ http://ddsw.xyz:80/8590438094/9912004092/968514
 http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://pbr-str.srvsite.com/arquivos/9010/cabecalho-9010-20230502202339.jpg" group-title="Geral",Tribuna Regional TV WEB Londrina
+https://stmv7.samcast.com.br/fabiorogerio2745/fabiorogerio2745/chunklist_w2146718494.m3u8
 #EXTINF:0 tvg-logo="https://ofatomaringa.com/wp-content/uploads/2022/12/LOGO70.png" group-title="Geral", O Fato Maringá/Paraná
 https://video04.logicahost.com.br/ofatomaringa/ofatomaringa/chunklist_w1283586172.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p446158_i_v13_ac.jpg" group-title="Filmes",Mr. Bean (Episódio 01)
