@@ -239,12 +239,7 @@ https://ythlsgo.onrender.com/channel/UCiK_RbBojUpkfxsgw6ffdfw.m3u8
 #EXTINF:1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Viracoposlogo.jpg/305px-Viracoposlogo.jpg" group-title="Aeroporto",Aeroporto de Viracopos (Campinas/SP) 2 [VCP]
 https://cinedragon.juninho12012019.workers.dev/stream/vWbwFFcagFo/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/a/a9/Homens_de_preto_s%C3%A9rie.jpg/revision/latest?cb=20221106002304&path-prefix=pt-br" group-title="Filmes",Homens de Preto (A série animada)
-http://dns.acaidopara.net:8080/George4899/Halas4899/82970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novela",Um Maluco no Pedaço
-http://dns.acaidopara.net:8080/George4899/Halas4899/897969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Novelas",O Rei do Gado
-http://dns.acaidopara.net:8080/George4899/Halas4899/897607
+
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61b75fb008f1b309bf36f659/bb3fa20e860e35705f5e06b179ba9e69?tr=q-80&w=768" group-title="Vix", Vix La rosa de Guadalupe
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/620578052c4f1e83d7f84410/3619af4946202836a2b28f01f84aa178?tr=q-80&w=768" group-title="Vix", Vix Cómo dice el dicho
@@ -303,41 +298,11 @@ https://dl.dropboxusercontent.com/scl/fi/g02ccvr5t9wa21vuvidpg/Tc3.mp4?rlkey=ltu
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/teresa-1669874855.png" group-title="", Teresa 24
 https://pc-21.pelismxcdn.com/oxlcqmqktdvppecnltaiaymghwhujtjfkzlnrhsumgegvyivyxjwrjepuecsmpifpwjbdvsppjxybtnjzgesoqpjfobkrefssuiudqbcifvhbyoxfxhryplilbsieybjtcclxpyupfwzagzoxysbpwqwdjumzjnypwpmivgqpehfsayntbyvnrklkzgqxiqzvkpjxzpf/444a8cdf4c75a76cbd182671819910a6/EP.24.1.v0.1679767360.720.m3u8
 
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 1
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272664
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272665
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 3
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272666
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 4
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272667
-#EXTINF:-1,[24H] Eu a Patroa e as Crianças 5
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272668
-#EXTINF:-1,[24H] Os Padrinhos Mágicos 01
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272923
-#EXTINF:-1,[24H] Os Padrinhos Mágicos 02
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272924
-#EXTINF:-1,[24H] Os Padrinhos Mágicos 03
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272925
-#EXTINF:-1,[24H] Os Padrinhos Mágicos 04
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272926
-#EXTINF:-1,[24H] Os Padrinhos Mágicos 05
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272927
 
-
-
-
-
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Novela", TV Novelas (Brasil)
-https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="MX" tvg-logo="" group-title="Novela",Acorrentada
-http://dns.acaidopara.net:8080/George4899/Halas4899/897603
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Segunda opção)
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="Novela", AZTECA UNO
-http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Novelas da Televisa
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:0 tvg-country="US" tvg-logo="https://media-cldnry.s-nbcnews.com/image/upload/t_focal-758x379,f_auto,q_auto:best/rockcms/2023-12/Amor-Impossibletileimage360x360-7f52c6.png" group-title="Novela",Novelas da Telemundo
