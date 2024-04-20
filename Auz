@@ -20,7 +20,7 @@ https://estrella-news-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="MX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="Novela",Estrella TV (1080p)
 https://estrellatv-oando.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-3tmBSbJxRC4/X60f9a3rIGI/AAAAAAAAAQc/fF8IH8yVOA4RzCac-jUKBR7-BFVdjiTOwCK4BGAYYCw/s400/Sin%2Bt%C3%ADtulo-logo%2Bnuevo%2Btl%2B2%2Bestrella.png" group-title="Novela", TL Estrella
-https://solo.disfrutaenlared.com:1936/teleestrella/teleestrella/playlist.m3u8
+https://stmvideo3.livecastv.com/teleestrellahd/teleestrellahd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Novela",Las Estrellas -1 Hora
@@ -31,8 +31,6 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 https://linear-416.frequency.stream/mt/studio/416/hls/master/playlist.m3u8
 
 
-#EXTINF:0 tvg-country="BR" tvg-logo="https://tvnovelas.com.br/novelas/wp-content/uploads/2020/11/logo192.jpg" group-title="Novela", TV Novelas (Brasil)
-https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist_w315048650.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://images.vix.com/prd/channel/61f83680771641ece747bada/2be1ed9ee95b850da79c61a42e426d3d?tr=q-80&w=750" group-title="Novela", Univision
@@ -41,6 +39,8 @@ https://linear-424.frequency.stream/mt/studio/424/hls/master/playlist.m3u8
 http://d1ve86tcjfn74e.cloudfront.net/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="Novela",AZTECA UNO
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63213
+#EXTINF:-1 tvg-id="XHFNTDT1.mx" tvg-logo="https://i.imgur.com/aGup2ag.png" group-title="Novela",TV Azteca Noreste (Info7 Monterrey)
+https://live.info7.mx/info7/stream.m3u8
 #EXTINF:0 tvg-country="MX" tvg-logo="https://www.designculture.com.br/wp-content/uploads/2016/03/2001-2016.png" group-title="Novela",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ManoTV
 #EXTINF:-1 tvg-id="ITBA14000026G" tvg-name="Televisa Telenovelas" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/08/ITBA14000026G_20210609T004928.png" group-title="Novela",Televisa Telenovelas (Segunda opção)
@@ -82,9 +82,13 @@ http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/62720
 #EXTINF:0 tvg-country="US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Telemundo_Corpus_Christi_logo.png" group-title="Novela",TELEMUNDO CORPUS CHRISTI
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Novela",SIC (Novelas)
-https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Novela",SIC (Novelas) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/666299727
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/SICNovelas.png" group-title="Novela",SIC (Novelas)
+https://fast.live.impresa.pt/out/v1/b5be42c4a68d4ee18461a7156bb8ecf2/sic-novelas.m3u8
+#EXTINF:-1,PT: SIC LOW
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+#EXTINF:-1,PT: SIC
+http://aflaxtv.xyz:8080/17032/cebaebad/1408
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional) Segunda opção
@@ -92,29 +96,15 @@ https://dumdumbullet.com/1011454237/bHg8wYxrId/6661408
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/5/51/Logo_SIC_2018.png" group-title="Novela",SIC (Internacional) Terceira opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/666297535
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela",SIC Caras
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112039
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela",SIC Caras (Segunda opção)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129029
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela",SIC Caras (Terceira opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6665910
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/SIC_CARAS.png/1200px-SIC_CARAS.png" group-title="Novela",SIC Caras (Quarta opção)
-http://ipflix.click:80/sq1x0qr86b/7777/7487
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela",SIC Radical
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112041
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela",SIC Radical (Segunda opção)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/6661429
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/Logosicradical.png" group-title="Novela",SIC Radical (Segunda opção)
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129026
+http://aflaxtv.xyz:8080/17032/cebaebad/1429
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Novela",SIC Mulher
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112040
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Novela",SIC Mulher (Segunda opção)
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6661427
+#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/SIC_Mulher_2023.svg/1280px-SIC_Mulher_2023.svg.png" group-title="Novela",SIC Mulher (segunda opção)
+http://aflaxtv.xyz:8080/17032/cebaebad/1427
 #EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela",SIC (KIDS)
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/112028
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela",SIC (KIDS) Segunda opção
 https://dumdumbullet.com/1011454237/bHg8wYxrId/6664021
-#EXTINF:0 tvg-country="PT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/da/SIC_K_Portugal.png" group-title="Novela",SIC (KIDS) Terceira opção
-https://dumdumbullet.com/1011454237/bHg8wYxrId/79992129028
 #EXTINF:0 tvg-country="PT" tvg-logo="https://fotos.web.sapo.io/i/Be30933c3/19137409_tiQ31.png" group-title="Novela",SIC MEO
 https://dumdumbullet.com/1011454237/bHg8wYxrId/79992128888
 #EXTINF:0 tvg-country="PT" tvg-logo="https://quinto-canal.com/wp-content/uploads/2024/02/SIC-Replay.jpg" group-title="Novela",SIC REPLAY
