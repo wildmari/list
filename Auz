@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0,TNT NOVELAS BRASIL FHD
+http://bccdn.xyz:80/56987348392pw/9743853903pw/856
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
@@ -3321,7 +3323,24 @@ http://cs21.xyz:80/live/2545965177/0589983587/617757.m3u8
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/59ca1438d6f0ebaee0a51cb6f2a4d8e7.webp" group-title="Geral",Televisão Pública de Moçambique
 http://online.tvm.co.mz:1935/live/smil:Channel1.smil/playlist.m3u8
-
+#EXTINF:-1,TCM
+http://45.71.252.16:8000/play/a0cu/index.m3u8
+#EXTINF:-1,TELERAMA
+http://45.71.252.16:8000/play/a0j6/index.m3u8
+#EXTINF:-1,TLC
+http://45.71.252.16:8000/play/a0ed/index.m3u8
+#EXTINF:-1,TNT
+http://45.71.252.16:8000/play/a09j/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.71.252.16:8000/play/a0if/index.m3u8
+#EXTINF:-1,TNT Novelas
+http://45.71.252.16:8000/play/a0b2/index.m3u8
+#EXTINF:-1,TNT SPORTS 3
+http://45.71.252.16:8000/play/a0e0/index.m3u8
+#EXTINF:-1,TRUTV HD
+http://45.71.252.16:8000/play/a0io/index.m3u8
+#EXTINF:-1,TV Peru
+http://45.71.252.16:8000/play/a0ba/index.m3u8
 #EXTINF:-1 tvg-id="+globosat.br" tvg-name="MODO VIAGEM SD" tvg-logo="https://i.imgur.com/AOlgaoA.png" group-title="Geral",MODO VIAGEM SD
 http://blacktv.syscdn.xyz:80/live/aOG4wzHVvno/uCADeLrzNtT/86002.m3u8
 
