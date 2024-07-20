@@ -1,32 +1,6 @@
 #EXTM3U
 #EXTINF:-1,ALL Sports Brasil
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?HasBahCa.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 1
-http://45.235.0.78/ESPNBRASIL-HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 2
-http://45.235.0.78/ESPN-HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 3
-http://45.235.0.78/ESPN2-HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 4
-http://45.235.0.78/FOXSPORTS-HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 5
-http://45.235.0.78/FOXSPORTS2-HD/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", ESPN BRASIL 6
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19057/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", GE FAST
-http://38.110.1.93:14259
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT SPORTS
-http://dc8267e0.kazaktelekom.com/iptv/92CLT2GW7DGZ9K/19051/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 1
-https://brflu.walk-tv.com/5865/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", COMBATE 2
-http://cdnexpress.homelinux.net/live/21.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE CLUBES
-https://brflu.walk-tv.com/5922/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 2
-https://brflu.walk-tv.com/5914/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 3
-https://brflu.walk-tv.com/5915/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 4
 https://brflu.walk-tv.com/5916/index.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", PREMIERE 5
