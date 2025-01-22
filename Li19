@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 1
+https://cr7v.short.gy/ManoTVfree/BBB01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",BBB Cam 2
+https://cr7v.short.gy/ManoTVfree/BBB02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OeB3Ply.png" group-title="Reality | BBB",Mosaico
+https://cr7v.short.gy/ManoTVfree/CMosaico/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" group-title=" CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA
 http://go7l99a.com:80/live/fujrbgph/g4kJ47t6jI/680033.ts
 #EXTINF:-1 tvg-id="" tvg-name="ACOMPANHE A CASA 2" tvg-logo="https://s2-globo-play.glbimg.com/slf0iHXilm1cuxbExNiX6DesuC4=/285x285/filters:quality(100)/https://s2-globo-play.glbimg.com/Xc6vX282kWyH1tcNqOYdrS-Kpik=/filters:fill(transparent,false)/https://i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2025/M/N/jO8zygQ4KIfaqOadmzFg/2024-4607-bbb-25-generico-logo-canais.png" group-title=" CANAIS | BIG BROTHER BRASIL 2025",ACOMPANHE A CASA 2
