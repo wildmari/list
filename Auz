@@ -2442,10 +2442,6 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist_1024x576.m
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63734
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/De_Pel%C3%ADcula_Cl%C3%A1sico.png" group-title="Filmes",Filmes antigos do México - D Pelicula Clássicos
 http://rasaiptv.com:8080/Lairnd94847jw/Nerv727363as/63736
-#EXTINF:0 tvg-logo="https://htforum.net/data/attachments/8/8861-99901a1345909c74c1459a57927cc36c.jpg" group-title="Filmes",Flou canela (Mexico)
-https://amg01768-flou-flou-canelatv-yri41.amagi.tv/playlist/amg01768-flou-flou-canelatv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Cine.Ar_logo.svg/800px-Cine.Ar_logo.svg.png" group-title="Filmes",Filmes antigos da Argentina (Cine ar)
-https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/chunklist_w481228012.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1200px-Logo_TVE-1.svg.png" group-title="Geral",La 1 (Espanha)
 https://dh6vo1bovy43s.cloudfront.net/La_1_ES_4.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1900px-Logo_TVE-2.svg.png" group-title="Novela",La 2 (Espanha)
@@ -2464,12 +2460,6 @@ http://str.yodacdn.net/medeniyyet/index.m3u8
 https://r.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8
 #EXTINF:0 tvg-logo="https://noticiasdatv.uol.com.br/media/uploads/artigos_2021/abc-as-panteras-jaclyn-smith-farrah-fawcett-kate-jackson.jpg" group-title="Novela",As Panteras
 https://r.mjh.nz/PlutoTV/648776bf536e0c0008b49aef-alt.m3u8
-#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Filmes",Os Três Patetas
-https://r.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8
-#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Filmes",Os Três Patetas
-https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=c5eac813887544b7a80540b014ca5482&deviceLat=-1.3450&deviceLon=-48.4219&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&marketingRegion=BR&sid=cbca92a34d0a11edb4edd6faf2e157da&userId=
-#EXTINF:0 tvg-logo="https://robertoanichefilatelia.files.wordpress.com/2018/01/06-cartaz.jpg" group-title="Novela",Os Três Patetas
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:0 tvg-logo="https://i.ytimg.com/vi/lpqkXGCdb94/maxresdefault.jpg" group-title="Novela",Mistérios Sem Solução
 https://r.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8
 #EXTINF:0 tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p7892761_b_v13_aa.jpg" group-title="Filmes",MacGyver
@@ -2481,74 +2471,6 @@ http://stream.tvcdn.net/ulusal/tv8.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/StarTV.svg/800px-StarTV.svg.png" group-title="Novela",Star TV (Turquia) Novelas
 http://stream.tvcdn.net/ulusal/star-tv.m3u8
 
-#EXTINF:-1,[24H] Os Simpsons 01
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272760
-#EXTINF:-1,[24H] Os Simpsons 02
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272761
-#EXTINF:-1,[24H] Os Simpsons 03
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272762
-#EXTINF:-1,[24H] Os Simpsons 04
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272763
-#EXTINF:-1,[24H] Os Simpsons 05
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272764
-#EXTINF:-1,[24H] Os Simpsons 06
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272765
-#EXTINF:-1,[24H] Os Simpsons 07
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272766
-#EXTINF:-1,[24H] Os Simpsons 08
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272767
-#EXTINF:-1,[24H] Os Simpsons 09
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272768
-#EXTINF:-1,[24H] Os Simpsons 10
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272769
-#EXTINF:-1,[24H] Os Simpsons 11
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272770
-#EXTINF:-1,[24H] Os Simpsons 12
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272771
-#EXTINF:-1,[24H] Os Simpsons 13
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272772
-#EXTINF:-1,[24H] Os Simpsons 14
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272773
-#EXTINF:-1,[24H] Os Simpsons 15
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272774
-#EXTINF:-1,[24H] Os Simpsons 16
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272775
-#EXTINF:-1,[24H] Os Simpsons 17
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272776
-#EXTINF:-1,[24H] Os Simpsons 18
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272777
-#EXTINF:-1,[24H] Os Simpsons 19
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272778
-#EXTINF:-1,[24H] Os Simpsons 20
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272779
-#EXTINF:-1,[24H] Os Simpsons 21
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272780
-#EXTINF:-1,[24H] Os Simpsons 22
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272781
-#EXTINF:-1,[24H] Os Simpsons 23
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272782
-#EXTINF:-1,[24H] Os Simpsons 24
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272783
-#EXTINF:-1,[24H] Os Simpsons 25
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272784
-#EXTINF:-1,[24H] Os Simpsons 26
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272785
-#EXTINF:-1,[24H] Os Simpsons 27
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272786
-#EXTINF:-1,[24H] Os Simpsons 28
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272787
-#EXTINF:-1,[24H] Os Simpsons 29
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272788
-#EXTINF:-1,[24H] Os Simpsons 30
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272789
-#EXTINF:-1,[24H] Os Simpsons 31
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272790
-#EXTINF:-1,[24H] Os Simpsons 32
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272791
-#EXTINF:-1,[24H] Os Simpsons 33
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272792
-#EXTINF:-1,[24H] Os Simpsons 34
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272793
 
 
 #EXTINF:0,DC Comics 01
@@ -2624,58 +2546,7 @@ http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272873
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dcanimated/images/0/01/Superman_%28STAS%29.png/revision/latest?cb=20210410132834" group-title="Smallville",Superman - A série animada 2
 http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272874
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Santuário
-http://dns.acaidopara.net:8080/George4899/Halas4899/82773
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - 12 Casas
-http://dns.acaidopara.net:8080/George4899/Halas4899/82774
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Asgard 
-http://dns.acaidopara.net:8080/George4899/Halas4899/82775
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Poseidon 
-http://dns.acaidopara.net:8080/George4899/Halas4899/82776
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Hades  
-http://dns.acaidopara.net:8080/George4899/Halas4899/82777
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Lost Canvas
-http://dns.acaidopara.net:8080/George4899/Halas4899/82772
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Os Cavaleiros do Zodiaco",Os Cavaleiros do Zodiaco - Netflix
-http://dns.acaidopara.net:8080/George4899/Halas4899/82778
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 1
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272754
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272755
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 3
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272756
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 4
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272757
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 5
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272758
-#EXTINF:-1,[24H] Cavaleiros do Zodiaco 6
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272759
-#EXTINF:-1,[24H] Shurato
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272884
-#EXTINF:-1,[24H] Homem Aranha Animado 1
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272899
-#EXTINF:-1,[24H] Homem Aranha Animado 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272900
 
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo (2002)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjRmQ3oGyJdc16sg4ZupyGhSXii.jpg" group-title="Filme",A Era do Gelo (2002)
-http://milka99.xyz:80/movie/417034292703/629010857080/338.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 2 (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mC5gWMUHy21dUejFFgqYQei2LCm.jpg" group-title="Filme",A Era do Gelo 2 (2006)
-http://milka99.xyz:80/movie/417034292703/629010857080/339.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 3 (2009)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeTIkupXJIfLkO0HpwwL9bHOtct.jpg" group-title="Filme",A Era do Gelo 3 (2009)
-http://milka99.xyz:80/movie/417034292703/629010857080/340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo 4 (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkKQdH4GiuQYz6qyQIyRVqWyVVT.jpg" group-title="Filme",A Era do Gelo 4 (2012)
-http://milka99.xyz:80/movie/417034292703/629010857080/341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: O Big Bang (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gh9LEW4bzN2nuDfyViLqWSV67sa.jpg" group-title="Filme",A Era do Gelo: O Big Bang (2016)
-http://milka99.xyz:80/movie/417034292703/629010857080/337.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro (1985)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i996T0lI1fGtFEowiH3V6eZthL0.jpg" group-title="Filme",De volta para o futuro",De Volta para o Futuro (1985)
-http://milka99.xyz:80/movie/417034292703/629010857080/14121.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 2 (1989)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dAAnK6EUBDUpM9H5EBfYV3GmtC1.jpg" group-title="Filme",De volta para o futuro",De Volta para o Futuro 2 (1989)
-http://milka99.xyz:80/movie/417034292703/629010857080/14122.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Volta para o Futuro 3 (1990)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4FSf6KTBa765KxmocOFjg8cnQpx.jpg" group-title="Filme",De volta para o futuro",De Volta para o Futuro 3 (1990)
-http://milka99.xyz:80/movie/417034292703/629010857080/14123.mp4
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/bba44266d3c0c2a3bba4358b3f603d39406f35854a2ab0303f602c72b68113a3.jpg" group-title="Filmes",[24H] Todo Mundo Odeia o Chris 1
-http://24hrs.homelinux.com:80/24H-todomundoodeiaocris/video.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/El_Chapolin_Colorado.jpg" group-title="Filmes", Chapolin 1 e 2
 http://dns.acaidopara.net:8080/George4899/Halas4899/82899
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/4/43/El_Chapolin_Colorado.jpg" group-title="Filmes", Chapolin 3 e 4
@@ -2689,10 +2560,6 @@ https://r.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8
 #EXTINF:-1 tvg-logo="https://images.justwatch.com/poster/276579797/s718/as-aventuras-de-jackie-chan.jpg" group-title="Filmes",As aventuras de Jackie Chan
 https://r.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/picapaubr/images/1/1d/Picapau.png/revision/latest/scale-to-width-down/200?cb=20170622194829&path-prefix=pt-br" group-title="Filmes", PICA-PAU
-http://ddsw.xyz:80/8590438094/9912004092/968514
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagempedia/images/0/07/Woody_Woodpecker_logo.jpg/revision/latest?cb=20200420234315&path-prefix=pt-br" group-title="Geral",Pica-Pau
-http://24hrs.homelinux.com:80/24H-picapau/video.m3u8?token=a4A2wbotS3
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/utv_londrina_logo.png" group-title="Geral",UTV Londrina
 https://video05.logicahost.com.br/utvtv/utvtv/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbr-str.srvsite.com/arquivos/9010/cabecalho-9010-20230502202339.jpg" group-title="Geral",Tribuna Regional TV WEB Londrina
@@ -2751,58 +2618,11 @@ http://home-playtv.com:8080/restreamhome/HUvCLa351719/177113
 http://hd.istbolivia.com:1935/aynitv/aynitv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://awtv.com.br/wp-content/uploads/2020/03/AWTV-LOGO-ALPHA5_VALE-e1670591941407.png" group-title="Filmes", AWTV
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulb_TV.jpg/1200px-Ulb_TV.jpg" group-title="Filmes",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ulb_TV.jpg/1200px-Ulb_TV.jpg" group-title="Filmes",ULB TV
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w330097200.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/qP_bPZ__-EM/maxresdefault.jpg" group-title="Filmes",Galo e Pata
-http://cs21.xyz:80/live/2545965177/0589983587/2219908.m3u8
-#EXTINF:0 tvg-logo="https://i.ytimg.com/vi/qP_bPZ__-EM/maxresdefault.jpg" group-title="Filmes",Galo e Pata 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272818
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/82/Pantera_Cor_de_Rosa.png" group-title="Filmes",A pantera cor-de-rosa
-http://cs21.xyz:80/live/2545965177/0589983587/2219985.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/82/Pantera_Cor_de_Rosa.png" group-title="Filmes",A pantera cor-de-rosa (Segunda opção)
-http://cs21.xyz:80/live/2545965177/0589983587/2219986.m3u8'
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes",Coragem, o Cão Covarde
-http://cs21.xyz:80/live/2545965177/0589983587/2219876.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes",Coragem, o Cão Covarde (Segunda opção)
-http://cs21.xyz:80/live/2545965177/0589983587/2219877.m3u8
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/5/53/CoragemOC%C3%A3oCovarde.jpg/revision/latest?cb=20220313212727&path-prefix=pt-br" group-title="Filmes",Coragem, o Cão Covarde (Terceira opção)
-http://dns.acaidopara.net:8080/George4899/Halas4899/11523
-#EXTINF:-1,Coragem o Cão Covarde 1
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272933
-#EXTINF:-1,[24H] Coragem o Cão Covarde 2
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272934
-#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes",A corrida maluca
-http://cs21.xyz:80/live/2545965177/0589983587/2219879.m3u8
-#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes",A corrida maluca (Segunda opção)
-http://cs21.xyz:80/live/2545965177/0589983587/2219880.m3u8
-#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes",A corrida maluca (Terceira opção)
-http://cs21.xyz:80/live/2545965177/0589983587/2219878.m3u8
-#EXTINF:0 tvg-logo="https://meuautotrac.com.br/wp-content/uploads/2018/08/dick-vigatista-1024x731.jpg" group-title="Filmes",A corrida maluca (Nova animação)
-http://cs21.xyz:80/live/2545965177/0589983587/2219881.m3u8
-#EXTINF:0 tvg-logo="https://heroinasedivas.files.wordpress.com/2017/04/xena01.jpg?w=584" group-title="Filmes",Xena: a princesa guerreira
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272707
-#EXTINF:0 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/503582c5370e9e9b5ebf96d86e10ccbed4751379b69eb195ba0b645900ee9b78.jpg" group-title="Filmes",Jiraya
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272710
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/28/Wally_Gator.jpg" group-title="Filmes",Desenho Wally Gator
-http://135.148.169.68:80/ottplayerchannel/JFYQWKNbCUe5/272850
 #EXTINF:0 tvg-logo="https://cdn6.aptoide.com/imgs/f/2/d/f2d907475ac623f6e254911cfba77b24_fgraphic.jpg" group-title="Filmes",TV ARACATI (O bem amado)
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2043179798.m3u8
-#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Segunda opção)
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
-#EXTINF:-1 tvg-id="TVAracati.br" tvg-logo="https://i.imgur.com/0CZn8cC.png" group-title="Geral",TV Aracati (Terceira opção)
-https://livefocamundo.com:8081/tvaracati/index.m3u8
-#EXTINF:0 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3370-294x165-FFFFFF.jpg" group-title="Filmes",TV BRASIL POPULAR
-https://srv2.zcast.com.br/rsmusic/rsmusic/chunklist_w1316883649.m3u8
-#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
-https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/aVlQ-lskugHXyHkXklqEoWo3xIla5xGqCnQ3D9Q-Tqe3PZjk6PcOGcrt-UdtvLINgPU" group-title="Filmes",Canal 29 (Séries antigas)
-https://stmv1.srvif.com/canal29/canal29/chunklist_w191356186.m3u8
-#EXTINF:0 tvg-logo="https://static.timesofisrael.com/www/uploads/2016/05/%D7%90%D7%9D%D7%A6.jpg" group-title="Filmes",Tom & Jerry
-http://ddsw.xyz:80/8590438094/9912004092/968556
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",Tom & Jerry (Segunda opção)
 http://24hrs.homelinux.com:80/24H-tom-e-jerry/video.m3u8?token=a4A2wbotS3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/desenhos-animados/images/f/fd/Tom_and_Jerry.png/revision/latest?cb=20160425180133" group-title="Filmes",Tom & Jerry (Terceira opção)
@@ -2825,14 +2645,7 @@ http://dns.acaidopara.net:8080/George4899/Halas4899/84566
 http://dns.acaidopara.net:8080/George4899/Halas4899/82782
 #EXTINF:0 tvg-logo="https://www.m3u.cl/logo/472_Mi_TV_Television_Clasica.png" group-title="Filmes",Mi Televisión Classica (Faroeste)
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?PlaylistM3UCL
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Logotipo_da_TV_Litoral_%28Santos%29.jpg" group-title="Filmes",TV LITORAL (Rio Grande do Norte)
-https://video01.logicahost.com.br/tvlitoralrn/tvlitoralrn/chunklist_w2072818652.m3u8
-#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes",ARCERTE TV
-https://stmv1.paineltv.net/arcertetv/arcertetv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",TV QUE DEMAIS
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
-#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",REDE QUE DEMAIS
-https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+
 #EXTINF:-1 tvg-id="PeruChannel.br" tvg-logo="https://i.imgur.com/01KEiEp.png" group-title="Novela",Perú Channel TV
 https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3d87816a5e2ae347287ac975afbda5ee.webp" group-title="Filmes",Web Tv Clássicos do Cinema
@@ -3818,7 +3631,7 @@ https://raw.githubusercontent.com/mariosanthos/arquivo2/main/EP227-Visita_indese
 
 
 #EXTINF:0 tvg-country="BR" tvg-logo="https://pbs.twimg.com/profile_images/685153637413339140/7lJLV4ay_400x400.jpg" group-title="Geral",TV Santa Maria
-https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/chunklist_w658378804.m3u8
+https://cdn-tvsantamaria.ciclano.io:1443/tvsantamaria/tvsantamaria/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JsccPNK.png" group-title="Geral",A VIDA SECRETA DOS ANIMAIS
 http://5ce.co:80/wjuniiorl123/bia2118/217351
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 1
@@ -3827,9 +3640,19 @@ http://ncw.one:80/live/David1/David1/234416.m3u8
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7919
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GURUPI HD" tvg-logo="http://dns.ulttv.xyz/1/globo.png" group-title="Geral",GLOBO TV ANHANGUERA GURUPI 3
 http://srv.mypanel.life:8080/fontecamp/E01Hv47ePr/7920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO
-http://ncw.one:80/live/David1/David1/234057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Filmes",AREA RESTRITA AEROPORTO 2
-http://5ce.co:80/wjuniiorl123/bia2118/217347
 #EXTINF:0 tvg-country="US" tvg-logo="https://seeklogo.com/images/T/telemundo-logo-0F9A314635-seeklogo.com.png" group-title="Novela",TELEMUNDO INTERNACIONAL
 http://stream.flynetwifi.com:1935/live/mobile-152/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Segunda Opção)
+https://playerv.logicahost.com.br/video/tvpopbrasil/7/true/false/ZG1sa1pXOHdOUzVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/#/?playlistId=0&videoId=0
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Terceira Opção)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w927487343.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Logotipo_da_TV_Litoral_%28Santos%29.jpg" group-title="Filmes",TV LITORAL (Rio Grande do Norte)
+https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
+#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes",ARCERTE TV
+https://stmv1.paineltv.net/arcertetv/arcertetv/chunklist_w1100471489.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",TV QUE DEMAIS
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w175354260.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",REDE QUE DEMAIS
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
