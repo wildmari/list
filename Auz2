@@ -1,6 +1,36 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah,https://i.mjh.nz/PlutoTV/br.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg.xml.gz,https://epg.pw/xmltv/epg_lite.xml"
 
 ############################################################################ Canais | ABERTO
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",VIVAX
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Segunda Opção)
+https://playerv.logicahost.com.br/video/tvpopbrasil/7/true/false/ZG1sa1pXOHdOUzVzYjJkcFkyRm9iM04wTG1OdmJTNWljZz09K1o=/16:9//nao/#/?playlistId=0&videoId=0
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Terceira Opção)
+https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w927487343.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Logotipo_da_TV_Litoral_%28Santos%29.jpg" group-title="Filmes",TV LITORAL (Rio Grande do Norte)
+https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
+#EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes",ARCERTE TV
+https://stmv1.paineltv.net/arcertetv/arcertetv/chunklist_w1100471489.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",TV QUE DEMAIS
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w175354260.m3u8
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",REDE QUE DEMAIS
+https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+#EXTINF:-1,telenovelas
+#EXTVLCOPT:http-user-agent=kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk
+http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF11VXEX0EeZrALwmiywkpc7b/.m3u8
+#EXTINF:-1 tvg-name="LA: Canal Las Estrellas"tvg-id="Canal Las Estrellas.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/las-estrellas.png"tvg-chno="226"group-title="Novelas",Canal Estrellas
+http://181.78.106.127:9000/play/ca011/index.m3u8
+#EXTINF:-1 tvg-name="LA: Telemundo Internacional"tvg-id="Telemundo.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Telemundo.jpeg"tvg-chno="231"group-title="Novelas",Telemundo Internacional
+http://200.60.124.19:29000/play/a01g
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
+https://super-cdn.link/tntnovelas/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
 https://cdn-3.nxplay.com.br/GLOBO_SP_TK/tracks-v2a1/mono.m3u8
