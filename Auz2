@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah,https://i.mjh.nz/PlutoTV/br.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg.xml.gz,https://epg.pw/xmltv/epg_lite.xml"
 
 ############################################################################ Canais | ABERTO
+#EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2034609048.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
@@ -4052,3 +4054,316 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6144d088516ea800073907
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
 https://i.mjh.nz/PlutoTV/63dac28760bc8f0008a7654b-alt.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://bit.ly/3I86oii" group-title="MARVEL" ,Eternos 2021
+https://djfilmes.cdn01.workers.dev/0:/Eternos%202021%20.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3IEdBaG" group-title="MARVEL" ,Shang Chi 2021
+https://cdn.jwplayer.com/videos/kcHydSmu-5xjLblpf.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3e3xJWg" group-title="MARVEL" ,Viúva Negra 2021
+https://content.jwplatform.com/videos/4AgVnxk5-WuDoW7Xa.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3ldLxni" group-title="MARVEL" ,Os Novos Mutantes 2020
+https://content.jwplatform.com/videos/8aSNxmGD-q6DicNGI.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3jWHibT" group-title="MARVEL" ,Deadpool 1 2016
+https://content.jwplatform.com/videos/t1YKpq37-NwnrkkSt.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3uYghuZ" group-title="MARVEL" ,Deadpool 2 2018
+https://content.jwplatform.com/videos/hD8yiBHD-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/386xDg9" group-title="MARVEL" ,Pantera Negra 2018
+https://content.jwplatform.com/videos/Nxob9NfL-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/36tD7kK" group-title="MARVEL" ,Thor 1 2011
+https://content.jwplatform.com/videos/y3gQyRfi-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3xFI0SY" group-title="MARVEL" ,Thor 2 2013
+https://content.jwplatform.com/videos/zHEw799b-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vwoBkL" group-title="MARVEL" ,Thor 3 2018
+https://content.jwplatform.com/videos/98I1viXM-xYyOPJaG.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3uZT2k8" group-title="MARVEL" ,Venom 1 2018
+https://content.jwplatform.com/videos/xA5h2saw-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3pOxO54" group-title="MARVEL" ,Venom 2 2021
+https://cdn.jwplayer.com/videos/SeZsCedL-5xjLblpf.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3xDpb2X" group-title="MARVEL" ,Capita Marvel 2018
+https://content.jwplatform.com/videos/3QfaB1k5-9KXv6jyv.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3uUQBj0" group-title="MARVEL" ,O Justiceiro 2004
+https://content.jwplatform.com/videos/DtS2vDDg-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37xvLgH" group-title="MARVEL" ,Homem De Ferro 1 2008
+https://content.jwplatform.com/videos/QdYOgtr3-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rFNWaN" group-title="MARVEL" ,Homem De Ferro 2 2010
+https://content.jwplatform.com/videos/RQuhjauV-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/385KoHY" group-title="MARVEL" ,Homem De Ferro 3 2013
+https://content.jwplatform.com/videos/jodNg0A7-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3uZKxpB" group-title="MARVEL" ,Elektra 2005
+https://content.jwplatform.com/videos/CbHAJNFc-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3EyEQlG" group-title="MARVEL" ,Demolidor 2003
+https://content.jwplatform.com/videos/lQ1sHnC6-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vCI8QO" group-title="MARVEL" ,Capitao America 1 2011
+https://content.jwplatform.com/videos/pHWpbgQs-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rFtsin" group-title="MARVEL" ,Capitao America 2 2014
+https://content.jwplatform.com/videos/VdXg3Pj5-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3L2UxDR" group-title="MARVEL" ,Capitao America 3 2016
+https://content.jwplatform.com/videos/78kkql9F-NwnrkkSt.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3L7n5MM" group-title="MARVEL" ,Homem Aranha 1 2002
+https://content.jwplatform.com/videos/3oKk2SG2-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/36vnbyB" group-title="MARVEL" ,Homem Aranha 2 2004
+https://content.jwplatform.com/videos/TwVdiWB0-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3xEt4EC" group-title="MARVEL" ,Homem Aranha 3 2007
+https://content.jwplatform.com/videos/YSKjZd9z-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vCEPcm" group-title="MARVEL" ,Homem Aranha De Volta Ao Lar 2017
+https://content.jwplatform.com/videos/nCiCgXs4-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vwmj5d" group-title="MARVEL" ,Homem Aranha Longe De Casa 2019
+https://content.jwplatform.com/videos/Dlu6shZV-0uvDYoAG.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3HDG9BF" group-title="MARVEL" ,Homem Aranha Sem Volta Para Casa 2022
+https://filme.cdn01.workers.dev/0:/MARVEL/Homem%20Aranha%20%20Sem%20Volta%20Para%20Casa%20%202022.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3OBfR5R" group-title="MARVEL" ,Hulk 1 2003
+https://content.jwplatform.com/videos/CichAWmH-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3xAvnsu" group-title="MARVEL" ,Hulk 2 2008
+https://content.jwplatform.com/videos/f1LuRg6v-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3K14hgu" group-title="MARVEL" ,Vingadores 2012
+https://content.jwplatform.com/videos/XMTjqSz2-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37xIG23" group-title="MARVEL" ,Vingadores Era De Ultron 2015
+https://content.jwplatform.com/videos/g9G6rqt2-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3OiJJnj" group-title="MARVEL" ,Vingadores Guerra Infinita 2018
+https://content.jwplatform.com/videos/KlyPuFQL-NwnrkkSt.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vwuu1l" group-title="MARVEL" ,Vingadores Ultimato 2019
+https://content.jwplatform.com/videos/5ltbVBOc-8xleGx2D.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3OiJSqR" group-title="MARVEL" ,O Espetacular Homem Aranha 1 2012
+https://content.jwplatform.com/videos/tZh2xE7V-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vPGpHZ" group-title="MARVEL" ,O Espetacular Homem Aranha 2 2014
+https://content.jwplatform.com/videos/kVpoc7Re-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3jWFL5O" group-title="MARVEL" ,Motoqueiro Fantasma 1 2007
+https://content.jwplatform.com/videos/AUxJmlPC-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3KYJRGr" group-title="MARVEL" ,Motoqueiro Fantasma 2 2011
+https://content.jwplatform.com/videos/9QuRbrVO-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rGcAbn" group-title="MARVEL" ,Homem Formiga 1 2015
+https://content.jwplatform.com/videos/AOE3WVth-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3xCsbfW" group-title="MARVEL" ,Homem Formiga 2 2018
+https://content.jwplatform.com/videos/3b62hTEr-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rACgpF" group-title="MARVEL" ,Guardiões Da Galáxia 1 2014
+https://content.jwplatform.com/videos/sl6pjhK1-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/395VNbp" group-title="MARVEL" ,Guardiões da Galáxia 2 2017
+https://content.jwplatform.com/videos/NaQ0vJJN-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/395VNbp" group-title="MARVEL" ,Guardiões da Galáxia Especial de Festas 2022
+https://filme.cdn01.workers.dev/0:/MARVEL/Guardi%C3%B5es%20da%20Gal%C3%A1xia%20%20Especial%20de%20Festas%202022.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3MA7Fkv" group-title="MARVEL" ,Doutor Estranho 2017
+https://content.jwplatform.com/videos/xIEdClub-NfA09Gih.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3E58eB1" group-title="MARVEL" ,Doutor Estranho no Multiverso da Loucura 2022
+https://filme.cdn01.workers.dev/0:/MARVEL/Doutor%20Estranho%20no%20Multiverso%20da%20Loucura%202022.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3jTBvUr" group-title="MARVEL" ,Quarteto Fantástico 1 2005
+https://content.jwplatform.com/videos/M7a0TFAs-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vsFzRb" group-title="MARVEL" ,Quarteto Fantastico 2 2007
+https://content.jwplatform.com/videos/lFeoCejN-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3842Rok" group-title="MARVEL" ,Quarteto Fantastico 3 2015
+https://content.jwplatform.com/videos/QThsTTXB-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37uxwLu" group-title="MARVEL" ,X-men 1 2000
+https://content.jwplatform.com/videos/S633OLm2-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37xCpn9" group-title="MARVEL" ,X-men 2 2003
+https://content.jwplatform.com/videos/u2fs3UUx-nivL2rkA.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3K10IHj" group-title="MARVEL" ,X-men 3 2006
+https://content.jwplatform.com/videos/v1ghhxS7-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3MmPDC5" group-title="MARVEL" ,X-men 4 2011
+https://filme.cdn01.workers.dev/0:/MARVEL/X-Men%20-%20Primeira%20Classe%202011.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3uXI12Q" group-title="MARVEL" ,X-men 5 2015
+https://content.jwplatform.com/videos/gpkJ5FFG-Yd4xCB27.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/36AxWzK" group-title="MARVEL" ,X-men 6 2016
+https://content.jwplatform.com/videos/85KQ40d4-nivL2rkA.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3jVotpD" group-title="MARVEL" ,X-men 7 2019
+https://content.jwplatform.com/videos/8AcgRkQq-9KXv6jyv.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/37BujtA" group-title="MARVEL" ,Wolverine 1 2009
+https://content.jwplatform.com/videos/bTgLe7Ya-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3L43ixI" group-title="MARVEL" ,Wolverine 2 2013
+https://content.jwplatform.com/videos/fvc5Dwvf-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3vzdHuw" group-title="MARVEL" ,Wolverine 3 2017
+https://content.jwplatform.com/videos/I659VyaF-8IUV9bjs.mp4
+
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,O Homem De Aço 2013
+https://content.jwplatform.com/videos/STyeKs9x-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman Vs Superman  2016
+https://content.jwplatform.com/videos/2IHTQa6I-9KXv6jyv.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Liga Da Justiça 2018
+https://content.jwplatform.com/videos/6nHB44qR-BG6rhfSt.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Mulher Maravilha 2017
+https://content.jwplatform.com/videos/5Dhxw43a-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3rJGzgl" group-title="DC" ,Mulher Maravilha 1984 2021
+https://content.jwplatform.com/videos/wFu38ZMN-F3o6hEvP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Esquadrão Suicida 1 2016
+https://content.jwplatform.com/videos/hjLbx436-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="https://bit.ly/3yJ70q0" group-title="DC" , Esquadrão Suicida 2 2021
+https://cdn.jwplayer.com/videos/enXV2nZx-ADhWbeEO.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Arlequina 2020
+https://content.jwplatform.com/videos/bJ8vN9Rf-uppaA2vD.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Aquaman 2019
+https://content.jwplatform.com/videos/3iTV83kT-8IUV9bjs.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Coringa 2019
+https://content.jwplatform.com/videos/U47lsbI8-7qlVbwrC.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Shazam 2019
+https://content.jwplatform.com/videos/D1HBfNz0-8xleGx2D.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman Cavaleiro Das Trevas 1 2005
+https://content.jwplatform.com/videos/Ck4oOwXz-yN8CsUnk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman Cavaleiro Das Trevas 2 2008
+https://content.jwplatform.com/videos/HYGr0Tu8-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman Cavaleiro Das Trevas 3 2012
+https://content.jwplatform.com/videos/3owvux73-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Mulher Gato 2004
+https://content.jwplatform.com/videos/TL4GS4DD-Gml01jdk.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Lanterna Verde 2011
+https://content.jwplatform.com/videos/8mfToNxJ-FOZQdhMy.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Watchmen 2009
+https://content.jwplatform.com/videos/ZiXLSzrE-nivL2rkA.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,V de Vinganca 
+https://content.jwplatform.com/videos/Ve7p09DO-l5r3qFf5.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 1 1989
+https://content.jwplatform.com/videos/P3USh1tQ-bWtniFnP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 2 1992
+https://content.jwplatform.com/videos/5TQ5EYWg-bWtniFnP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 3 1995
+https://content.jwplatform.com/videos/16xJbo5Q-bWtniFnP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,Batman 4 1997
+https://content.jwplatform.com/videos/XfZ7UMiy-bWtniFnP.mp4
+#EXTINF:-1 tvg-logo="http://stream.lhmtv.cf/logo/filmes.png" group-title="DC" ,The Flash O Filme 1990
+https://content.jwplatform.com/videos/paUxHSX8-gLkW43OB.mp4
+
+#EXTINF:-1 tvg-logo="https://bit.ly/355fsGf" group-title="Filmes" ,A MAQUINA DO TEMPO 2002
+https://filme.cdn01.workers.dev/0:/FIC%C3%87%C3%83O%20CIENTIFICA/A%20M%C3%A1quina%20do%20Tempo%202002.mp4
+
+
+
+
+EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO" tvg-logo="https://i.imgur.com/TL9HqlP.png" group-title="Canais Abertos",GLOBO SP 
+http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
+https://stream.amsolution.net.br:8443/live/66db1cf131d45/index.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://imgur.com/KO1v3pS.png" group-title="Canais Abertos",SBT 
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w788988429.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="https://imgur.com/xYGjfh8.png" group-title="Canais Abertos",BAND 
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD SP
+https://cdn-2.nxplay.com.br/RECORD_PAULISTA_PFZ_NXPLAY_01/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="https://imgur.com/IkZeok1.png" group-title="Canais Abertos",RECORD 2
+https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8
+
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://imgur.com/2vYqKX5.png" group-title="Canais Abertos",REDE TV 
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CULTURA" tvg-name="CULTURA" tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo-e1603864549316.jpg" group-title="Canais abertos",CULTURA
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w970754890.m3u8
+
+#EXTINF:-1 tvg-id="TV JAPI" tvg-name="TV JAPI" tvg-logo="https://pa-str.srvsite.com/arquivos/6096/cabecalho-6096-20200928162906.png" group-title="Canais Abertos",TV JAPI
+https://stmv1.paineltv.net/tvjapi/tvjapi/chunklist_w1775818755.m3u8
+
+#EXTINF:-1 tvg-id="NOVO TEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="https://seeklogo.com/images/N/novo-tempo-logo-AA14F9873B-seeklogo.com.png" group-title="Canais Abertos",TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/chunklist_w1741703248.m3u8
+
+#EXTINF:-1 tvg-id="GAZETA" tvg-name="GAZETA" tvg-logo="https://i.ytimg.com/vi/hwMjLfWa38A/maxresdefault.jpg" group-title="Canais abertos",GAZETA
+https://video08.logicahost.com.br/tvc21/tvc21/chunklist_w518294073.m3u8
+
+#EXTINF:-1 tvg-id="TV CARIOCA NET" tvg-name="CARIOCA NET" tvg-logo="https://1.bp.blogspot.com/-SVmkbKwWILA/XXpn6tIEuDI/AAAAAAAABz0/jyRMvdB8L6Av2CinwIqYkG4XBUZ1A3IDgCLcBGAsYHQ/s320/Screenshot_2019-09-12-12-42-47.png" group-title="Canais abertos",TV CARIOCA 
+https://video04.logicahost.com.br/cariocainternacional/cariocainternacional/chunklist_w553281216.m3u8
+
+#EXTINF:-1 tvg-id="TV APARECIDA" tvg-name="TV APARECIDA" tvg-logo="https://i.imgur.com/egU0jsZ.png" group-title="Canais abertos",TV APARECIDA
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="DISCOVERY" tvg-logo="https://imgur.com/dgGgYjc.png" group-title="Canais abertos",DISCOVERY
+https://cdn-2.nxplay.com.br/DISCOVERY_CHANNEL_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TV UNIVERSAL" tvg-name="TV UNIVERSAL" tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/iurd-logo.png" group-title="Canais abertos",TV UNIVERSAL
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_f61dea77-770b-444c-8f61-88b3f8666b3f.m3u8
+
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://oplanetatv.clickgratis.com.br/_upload/content/2023/11/08/record-news-apresenta-nova-identidade-visual-654c117f851c9.png" group-title="Canais abertos",RECORD NEWS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431
+
+#EXTINF:-1 tvg-id="BAND NEWS" tvg-name="BAND NEWS" tvg-logo="https://imgur.com/jCZzNjF.png" group-title="Canais abertos",BAND NEWS
+http://cdn-2.connectbr.com.br:80/Band-News/mono.m3u8
+
+#EXTINF:-1 tvg-id="Gospel Cartoon" tvg-name="Gospel Cartoon" tvg-logo="https://tvonline.fm/wp-content/uploads/2017/11/gospelcartoon-150x150.jpg" group-title="Canais Abertos",Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/chunklist_w60051140.m3u8
+
+#EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil" tvg-logo="https://www.vivo.com.br/content/dam/vivo-sites/vivo-com-br/homepage/imagens/logos/logo-tv-brasil-320x169.jpg" group-title="Canais Abertos",TV Brasil
+https://tvbrasil-stream.ebc.com.br/EBC_HD-avc1_1800000=3.m3u8
+
+#EXTINF:-1 tvg-id="TV MUNDIAL" tvg-name="TV MUNDIAL" tvg-logo="https://i.pinimg.com/474x/d9/2a/08/d92a08d1ec2d876aa8863d374f08427a.jpg" group-title="Canais Abertos",TV MUNDIAL
+http://58a4464faef53.streamlock.net:1935/impd/impd/live.m3u8
+ 
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-name="CNN BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/CNN_Brasil.svg/1200px-CNN_Brasil.svg.png" group-title="Canais Abertos",CNN BRASIL
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Amazon Sat" tvg-name="Amazon Sat" tvg-logo="https://portalamazonia.com/images/p/35790/b2ap3_thumbnail_2016-18.jpg" group-title="Canais Abertos",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 tvg-id="Vivam Tv" tvg-name="Vivam Tv" tvg-logo="https://imagens.nxplay.com.br/60ddb652a9fbc_d19ecce6131ee18d0d846a16aae7ed6e.png" group-title="Canais Abertos",Vivam Tv
+https://stmv1.liveplushd.com.br/tvvivam/tvvivam/chunklist_w252085201.m3u8
+
+#EXTINF:-1 tvg-id="TV Rede Gospel " tvg-name="TV Rede Gospel " tvg-logo="https://wfnet.net.br/wp-content/uploads/2023/05/Rede_Gospel_sp.png" group-title="Canais Abertos",TV Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TERRA VIVA" tvg-name="TERRA VIVA" tvg-logo="https://imgur.com/p7gJt8P.png" group-title="Canais Abertos",TERRA VIVA
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/1080p-cc/index.m3u8
+
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://bx-tv.com/wp-content/uploads/2021/06/love-nature.jpg" group-title="Canais Abertos",Love Nature
+https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/cb563d197b6c6d8d84c82167d8f062ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5aad6852db80148b6f4adafb8c2360625f5c98435ee3b24af6fbb00c4c8a64f0ac154d962d58e683179fc94dbf808246ca418f77f1429fc6f7da8044e030a059886f6889ba39581fbbb23bf5eb4fb7c093654be41b4a753f2528270e9c3451b5485648f0bfeab260ed1acd885fee08ef0db2f93dec028f6ca31ab3f341e2d9d34e9ef358d6a668515dc9d6a185bb0532a86af4e88eb7162dc8af4428158e058a53d506d956bbf3dc636c82f2d41a44e73a988ae0649698a08aecb1c2799d2af5f7f58d314d74ae65688970ad8064d725dc37fd804361147a4da39e5ad395997004221ed6ce0e8f532cb0d5ddd7844e239c34521ac970c957005bc9364775f162acc96b22da704acd1e15cf7519cc02f0b127f0e7fce00530ba978761f77de0b80f9da751f9236c1752fda26c6c444a7cc2e72958632e8d16b2a1bf8b1d3e09e2f3c2e9d31369574b707c38cbb3b73ecbf483437b31ce5c216c716a67b50cc466d205094d6efe17dda8066396444609e3b43449557c9caae2d79fb72a252db54d179b9d6efd23e3a12380f8b89475ad747f87/36/1920x1080_4716800/index.m3u8
+
+#EXTINF:-1 tvg-id="ALL SPORTES" tvg-name="ALL SPORTES" tvg-logo="https://1.bp.blogspot.com/-_ohPupEo060/XQ0tvARsyDI/AAAAAAAABMI/2Cie7xcwGvAkXsxNEvQOV1fLFnqq4FllwCPcBGAYYCw/s320/Screenshot_2019-06-21-15-36-14.png" group-title="Canais Abertos",ALL SPORTES
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w20423123.m3u8
+
+#EXTINF:-1 tvg-id="Rede Mais Família" tvg-name="Rede Mais Família" tvg-logo="https://redemaisfamilia.com.br/wp-content/uploads/2022/08/Logo-rede-mais-familia.png" group-title="Canais Abertos",Rede Mais Família
+https://video09.logicahost.com.br/redefamilia/redefamilia/chunklist_w1847404135.m3u8
+
+#EXTINF:-1 tvg-id="GOSPEL MUSIC" tvg-name="GOSPEL MUSIC" tvg-logo="https://4.bp.blogspot.com/-gmkfp9SEBa4/XQlbf34HgiI/AAAAAAAABFo/X1AjxHlisW0ciHUcHpOkiUc1QD-p4I-GACPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2019-06-18-16-51-47.png" group-title="Canais Abertos",GOSPEL MUSIC
+https://stmv1.srvif.com/gmusic/gmusic/chunklist_w22969446.m3u8
+
+#EXTINF:-1 tvg-id="DISCOVERY TURBO" tvg-name="DISCOVERY TURBO" tvg-logo="https://imgur.com/lH1Srp9.png" group-title="Documentarios",DISCOVERY TURBO
+https://cdn-5.nxplay.com.br/DISCOVERY_TURBO_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="https://imgur.com/0rNNqVy.png" group-title="Canais Abertos",History HD
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="TV MAIS BRASIL" tvg-name="TV MAIS BRASIL" tvg-logo="https://4.bp.blogspot.com/-PiyFwhywwQM/XhjHNxYD4SI/AAAAAAAACWY/SNj6eLf_65sT3fBzTRlXJgPvg0BfkVjjACLcBGAsYHQ/s320/Screenshot_2020-01-10-15-46-42.png" group-title="Canais Abertos",TV MAIS BRASIL
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist_w1213901773.m3u8
+
+#EXTINF:-1 tvg-id="Rede Super" tvg-name="Rede Super" tvg-logo="https://seeklogo.com/images/S/super-tv-logo-FDAE640290-seeklogo.com.png" group-title="Canais Abertos",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/chunklist_w1249447642.m3u8
+
+#EXTINF:-1 tvg-id="RED BULL TVL" tvg-name="RED BULL TV" tvg-logo="https://2.bp.blogspot.com/-nKFQjWxV-Co/XRZMlbgmYDI/AAAAAAAABPI/RLnB3Goeyw83rN6mM2J7O3kw8sQ3QtyCgCLcBGAs/s320/Screenshot_2019-06-28-14-19-55.png" group-title="Canais Abertos",RED BULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-id="FISH TV" tvg-name="FISH TV" tvg-logo="https://i.vimeocdn.com/portrait/4965913_640x640" group-title="Canais Abertos",FISH TV
+https://cdn-3.nxplay.com.br/FISH_TV_NX_TK/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE" tvg-logo="https://imgur.com/RxETCgZ.png" group-title="Canais abertos",SPACE 
+https://cdn-2.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
+http://ts.encripted-encripted-encripted-encripted-encripted-encripted.fun:8081//hls1/discoveryhomeihealth.m3u8
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET" tvg-name="ANIMAL PLANET" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Animal_Planet.png/1280px-Animal_Planet.png" group-title="Canais Abertos",ANIMAL PLANET
+https://cdn-5.nxplay.com.br/ANIMAL_PLANET_NX/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="RIT TV" tvg-name="RIT TV" tvg-logo="https://igrejastv.com.br/wp-content/uploads/2015/10/logomarca-rittv.png" group-title="Canais Abertos",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 tvg-id="Agro brasil" tvg-name="Agro brasi" tvg-logo="https://peganet.com.br/wp-content/uploads/2020/11/195-AGROBRASIL-1.png" group-title="Canais Abertos",Agro brasil
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist_w1830001224.m3u8
+
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="https://imgur.com/WTCdLuw.png" group-title="Canais Abertos",MTV HD
+https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/287/287-3-main.m3u8
+
+#EXTINF:-1 tvg-id="Tv Rio Madeiras" tvg-name="Tv Rio Madeiras" tvg-logo="https://i.ibb.co/s2pFJbb/Dimens-es-personalizadas-720x720-px.png" group-title="Canais Abertos",Tv Rio Madeiras
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IMPERIAL TV" tvg-name="IMPERIAL TV" tvg-logo="https://m.media-amazon.com/images/I/71qoUqm5CeL.png" group-title="Canais Abertos",IMPERIAL TV
+https://5cf4a2c2512a2.streamlock.net/8256/8256/chunklist_w1298998253.m3u8
+
+#EXTINF:-1 tvg-id="Telecine pipoca" tvg-name="Telecine pipoca" tvg-logo="https://seeklogo.com/images/T/telecine-pipoca-logo-6429775BEC-seeklogo.com.png" group-title="Canais Abertos",Telecine pipoca
+https://abc.embedmax.site/tcpipoca/tracks-v1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="discovery home health " tvg-name="discovery home health" tvg-logo="https://p1.hiclipart.com/preview/105/702/541/tv-channel-icons-pack-discovery-home-health-black-png-icon-thumbnail.jpg" group-title="Canais abertos",discovery home health
+https://anonmedia.eu/discoveryheh/tracks-v1a1/mono.m3u8
