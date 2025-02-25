@@ -3,6 +3,8 @@
 ############################################################################ Canais | ABERTO
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2034609048.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
@@ -28,8 +30,7 @@ http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF11VXEX0EeZr
 http://181.78.106.127:9000/play/ca011/index.m3u8
 #EXTINF:-1 tvg-name="LA: Telemundo Internacional"tvg-id="Telemundo.lat"tvg-logo="https://raw.githubusercontent.com/wazc/iptv/main/Imagenes/Telemundo.jpeg"tvg-chno="231"group-title="Novelas",Telemundo Internacional
 http://200.60.124.19:29000/play/a01g
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
-https://super-cdn.link/tntnovelas/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="Globo" tvg-name="Globo" tvg-logo="https://imgur.com/waZJG1M.png" group-title="Canais | GLOBO",Globo SP SD
