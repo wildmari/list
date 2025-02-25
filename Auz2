@@ -5,6 +5,8 @@
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
+#EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES HD
+http://voz.one:80/juniorfont3/rLgxfzzgLARZ/473
 #EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2034609048.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
