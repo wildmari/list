@@ -7,12 +7,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
 #EXTINF:-1 tvg-id="TNT.Séries.HD.br" tvg-logo="https://iili.io/JM5cLIp.png" group-title="VARIEDADES", TNT SERIES HD
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/473
-#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
-https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w2034609048.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
-https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",VIVAX
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Rio de Janeiro)
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Segunda Opção)
@@ -25,6 +19,16 @@ https://stmv1.paineltv.net/arcertetv/arcertetv/chunklist_w1100471489.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w175354260.m3u8
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/5a0ca2ab1c68adcde7bf577af87071b8.webp" group-title="Filmes",REDE QUE DEMAIS
 https://video03.logicahost.com.br/tvkidmais01/tvkidmais01/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ISTV.br" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="Filmes",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/chunklist_w1363696849.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/centraltv_curitiba_logo.png" group-title="Filmes",Central TV de Curitiba
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/chunklist_w1814512356.m3u8
+#EXTINF:0 tvg-country="BR" tvg-logo="https://example.com/vivax_logo.png" group-title="Filmes",VIVAX
+https://stmv2.samcast.com.br/marcus8647/marcus8647/chunklist_w1074143538.m3u8
+
+
+
 #EXTINF:-1,telenovelas
 #EXTVLCOPT:http-user-agent=kY93bMe0x5gNCp8pGSHfPZFjU6bw7vbjj1v3HB7KmpuzbPbWVWe8UBV8tkwNZ2mc48YCb8272zLKPPebVhcFPSkT8DaAbtGCYeaVTt44EVEtg8b36Z3pmVz4x6UZWdk
 http://nffthex0kzt.xyz/play/ajhIGYTV3ViBNYPrOzlFjemaFRWqc0AYAVDpIqRlF11VXEX0EeZrALwmiywkpc7b/.m3u8
