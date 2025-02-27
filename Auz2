@@ -21,6 +21,10 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w1120656873.m3u8
 #EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV POP BRASIL (Segunda Opção)
 https://video05.logicahost.com.br/tvpopbrasil/tvpopbrasil/chunklist_w927487343.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV Diário Macapa (Rádio Diário FM (90.9)
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:0 tvg-logo="https://tvpopbrasil.com.br/wp-content/uploads/2023/08/logo.png" group-title="Filmes",TV Aldeia RJ
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/2b/Logotipo_da_TV_Litoral_%28Santos%29.jpg" group-title="Filmes",TV LITORAL (Rio Grande do Norte)
 https://video07.logicahost.com.br/tvlitoralrn01/tvlitoralrn01/playlist.m3u8
 #EXTINF:0 tvg-logo="https://fb.paineladmin.com.br/arquivos/9620/logo_face-9620-20220222130817.png" group-title="Filmes",ARCERTE TV
