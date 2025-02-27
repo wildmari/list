@@ -5,9 +5,20 @@
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/294
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION FHD
+http://185.246.208.74:14900
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PIPOCA
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/996
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE TOUCH
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/309
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
 http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
