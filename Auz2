@@ -18,6 +18,9 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/309
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
+http://zutufo.in:80/live/889281840/Z451m1324a/731_.m3u8
+
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
