@@ -12,6 +12,51 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS", Malhação 
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
+
+
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/boOwYKj.png" group-title="Canais | NOVELAS", TV Novelas Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84dbf4a838b60007ffbba1&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=942&terminate=false&userId=
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/JjzpYfV.png" group-title="Canais | NOVELAS",TV Novelas Romance
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e84db2db3851800077c871e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=941&terminate=false&userId=
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/l5BDImW.png" group-title="Canais | NOVELAS",TV Telemundo Telenovelas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5cf96cc422df39f1a338d165&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=940&terminate=false&userId=
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
+
+#EXTINF:-1 tvg-logo="https://imgur.com/7MCMU3j.png" group-title="Canais | NOVELAS",Novelissima BR
+https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mqEHDE1.png" group-title="Canais | NOVELAS",Sony Novelas | LG
+https://spt-novelas-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA SD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36997.m3u8
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36931.m3u8
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD²
+http://conexao-vs.live/VIVA/index.m3u8
+
+#EXTINF:-1 tvg-id="Viva HD" tvg-logo="https://i.imgur.com/P2xB7uZ.png" group-title="Canais | NOVELAS",ViVA HD³
+http://strawberry.tel:80/live/889281840/Z451m1324a/2536.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas SD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/37041.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x9XvCqL.png" group-title="Canais | NOVELAS",TNT Novelas HD
+http://play.1list.vip/live/7x0WyDB6Ys/factoryiptv/36940.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9bIhIR.png" group-title="Canais | NOVELAS",PLUTO TV NOVELAS
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
+
+
+
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
 http://198.27.68.65:8299/stream
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
