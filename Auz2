@@ -218,6 +218,49 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS", Malhação 
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball 24
+http://24hrs.homelinux.com:80/24H-dragon.ball/video.m3u8?
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z 24
+http://24hrs.homelinux.com:80/24H-dragon.ball.z/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Z Kai 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.z.kai/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Gt 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.gt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Dragon Ball Super 24h
+http://24hrs.homelinux.com:80/24H-dragon.ball.super/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto 24h
+http://24hrs.homelinux.com:80/24H-naruto.txt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Naruto Shippuden 24h
+http://24hrs.homelinux.com:80/24H-narutoshippuden.txt/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Boruto 24h
+http://24hrs.homelinux.com:80/24H-boruto/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Hantaro 24h
+http://24hrs.homelinux.com:80/24H-hantaro/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/BatygW5.png " group-title="Canais | ANIMES & GEEK",🔴Jiraya 24h
+http://24hrs.homelinux.com:80/24H-Jiraya/video.m3u8
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America
 http://198.27.68.65:8299/stream
 #EXTINF:-1 tvg-id="LasEstrellasLatinAmerica.mx" tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="Novela",Las Estrellas Latin America (Segunda opção)
