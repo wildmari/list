@@ -1,10 +1,23 @@
 #EXTM3U url-tvg="https://cr7v.short.gy/MeuInsta@mano_limah,https://i.mjh.nz/PlutoTV/br.xml,https://epg.pw/xmltv/epg_BR.xml,https://epg.pw/xmltv/epg.xml.gz,https://epg.pw/xmltv/epg_lite.xml"
 
 ############################################################################ Canais | ABERTO
+
 #EXTINF:0 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/51c413ead0e8c87add0d495e338d83e2.webp" group-title="Novela",Grjngo (Filmes de faroeste)
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT NOVELAS
 http://voz.one:80/juniorfont3/rLgxfzzgLARZ/466
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", FX
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/244
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
+http://zutufo.in:80/live/889281840/Z451m1324a/731_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", STAR CHANNEL
+http://185.246.208.74:14370
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", WARNER CHANNEL
+http://zutufo.in:80/live/889281840/Z451m1324a/746_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
+http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TCM
+http://zutufo.in:80/live/889281840/Z451m1324a/740_.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE PREMIUM
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/306
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE ACTION
@@ -18,8 +31,30 @@ http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/309
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE FUN
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/301
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TELECINE CULT
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", TNT
-http://zutufo.in:80/live/889281840/Z451m1324a/731_.m3u8
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", MALHAÇÃO FAST
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", DPA FAST
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CANAL BRASIL
+http://supersonictv.live:8080/871310/907399/84945
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ARTE 1
+https://super-cdn.link/arte1/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", CURTA
+https://video01.logicahost.com.br/canalcurta/canalcurta/index.m3u8
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 1
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/82
+#EXTINF:0 type="stream" group-title="TV AO VIVO", HISTORY 2
+http://84.16.252.219:2082/Tourobox1-ODNBl4PQCp/kgHHaBU2TH/815
+#EXTINF:0 type="stream" group-title="TV AO VIVO", NAT GEO
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/87
+#EXTINF:0 type="stream" group-title="TV AO VIVO", ANIMAL PLANET
+http://79.127.238.228:14386
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY CHANNEL
+http://185.246.208.74:14144
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY SCIENCE
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/71
+#EXTINF:0 type="stream" group-title="TV AO VIVO", DISCOVERY ID
+http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/69
 
 http://178.162.225.117:2082/Tourobox2-6fBzdxRyKO/4nb4t6jIp4/297#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", SPACE
 http://zutufo.in:80/live/889281840/Z451m1324a/705_.m3u8
