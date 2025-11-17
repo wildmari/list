@@ -12,6 +12,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b4c0671
 #EXTINF:-1 tvg-logo="https://imgur.com/0gDjNFs.png" group-title="Canais | NOVELAS", Malhação 
 https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8
 
+#EXTINF:-1 tvg-id="viva.br" tvg-logo="https://i.imgur.com/jE6cjYd.png" group-title="Canais | Variedades", Globoplay Novelas
+http://play.dnsrot.vip/live/ramagi777/e4ifqhgjpqf/36997.m3u8
+
+#EXTINF:-1 tvg-id="viva.br" tvg-logo="https://i.imgur.com/jE6cjYd.png" group-title="Canais | Variedades", Globoplay Novelas [4K]
+http://play.dnsrot.vip/live/ramagi777/e4ifqhgjpqf/74792.m3u8
 
 
 
