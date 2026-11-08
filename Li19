@@ -1,10 +1,7 @@
 #EXTM3U
 
-
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6661f11a41af6400080e90d8/colorLogoPNG.png" group-title="Competition Reality",Big Brother
-https://stitcher.pluto.tv/stitch/hls/channel/6661f11a41af6400080e90d8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2a15eb22-ad8f-11f0-8f9c-0a352f4ace55
-
+#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z49TV0y.png" group-title="Canais | ABERTO",Canção Nova HD
 https://cdn-3.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
@@ -99,8 +96,7 @@ http://brsupertv.brsuper.com.br:9080/hls/brsupertv.m3u8
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://yt3.googleusercontent.com/ceeFdb0sjuvZduGwQBGO_TGn-OxBz-XjZzEROGB7fYm2oevikEZ2ljxmfTOUN-qPLAyapO0iq_g=s900-c-k-c0x00ffffff-no-rj", DIARIO TV (RJ)
 https://netdiario.brasilstream.com.br/hls/netdiario/index.m3u8
-#EXTINF:0 type="stream" group-title="TV AO VIVO" logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/RBTV23.png", REDE BRASIL
-https://video01.logicahost.com.br/redebrasil02/redebrasil02/chunklist_w640381411.m3u8
+
 #EXTINF:0 type="stream" group-title="TV AO VIVO", TV MARAJOARA
 https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/chunklist_w1791564171.m3u8
 #EXTINF:0 type="stream" group-title="TV AO VIVO" logo="", NBT
